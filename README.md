@@ -350,7 +350,8 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 <HR>
 
-**EP75 - 可能是颜值最高的多系统引导神器，rEFInd使用教程**
+##### **EP75 - 可能是颜值最高的多系统引导神器，rEFInd使用教程**
+
 ● rEFInd（官网）：http://www.rodsbooks.com/refind
 
 ● rEFInd主题（可能需要魔法）：https://github.com/topics/refind-theme
@@ -361,7 +362,7 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d（提取码：Vdrj）
+● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
 
 ○ minimal主题的生效代码（粘贴到refind.conf的最后）：
 
