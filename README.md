@@ -428,8 +428,8 @@ include themes/rEFInd-minimal/theme.conf
 ● <font color="#FF8C00">蒲公英X5路由器：</font>https://u.jd.com/zQg3mj0
 
 <HR>
-
 **EP68 - 装系统会更丝滑吗？教你封装一个独特的Windows镜像**
+
 ● Windows原版镜像（MSDN i tell you）：https://next.itellyou.cn/
 
 ● Windows原版镜像（仓储站）：https://hellowindows.cn/
@@ -491,6 +491,7 @@ include themes/rEFInd-minimal/theme.conf
 ##### **EP63 - 从服务端到播放端，Jellyfin硬解及手机、电视的设置**
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
+
 ● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f （提取码：Wp7M）
 
 ● Kodi 安卓客户端：https://kodi.tv/download
@@ -527,15 +528,15 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f（提取码：Wp7M）
+● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f （提取码：Wp7M）
 
-● AX6S开发版固件1.2.7（夸克）：https://pan.quark.cn/s/218a500b09f3（提取码：ig9r）
+● AX6S开发版固件1.2.7（夸克）：https://pan.quark.cn/s/218a500b09f3 （提取码：ig9r）
 
-● AX6S Openwrt固件（夸克）：https://pan.quark.cn/s/e9035b0e8f5f（提取码：79Nm）
+● AX6S Openwrt固件（夸克）：https://pan.quark.cn/s/e9035b0e8f5f （提取码：79Nm）
 
-● WinSCP官网（夸克）：https://pan.quark.cn/s/a88f1af7a55b（提取码：tqPk）
+● WinSCP官网（夸克）：https://pan.quark.cn/s/a88f1af7a55b （提取码：tqPk）
 
-● 小米路由器修复工具（夸克）：https://pan.quark.cn/s/c95984fed5ba（提取码：YWBv）
+● 小米路由器修复工具（夸克）：https://pan.quark.cn/s/c95984fed5ba （提取码：YWBv）
 
 ● 小米路由器官方刷机教程：
 https://web.vip.miui.com/page/info/mio/mio/detail?postId=19134127&app_version=dev.20051
@@ -877,11 +878,11 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● Ventoy安装程序：https://www.ventoy.net/cn/index.html
 
-● Ventoy HDV支持插件：https://pan.quark.cn/s/c03f53cf1246（提取码：tACb）
+● Ventoy HDV支持插件：https://pan.quark.cn/s/c03f53cf1246 （提取码：tACb）
 
-● WinNT安装程序：https://pan.quark.cn/s/f3991509a98c（提取码：ERGh）
+● WinNT安装程序：https://pan.quark.cn/s/f3991509a98c （提取码：ERGh）
 
-● EasyBCD引导编辑器：https://pan.quark.cn/s/428a4519b1ac（提取码：cJfM）
+● EasyBCD引导编辑器：https://pan.quark.cn/s/428a4519b1ac （提取码：cJfM）
 
 ● Windows镜像：https://hellowindows.cn/
 
