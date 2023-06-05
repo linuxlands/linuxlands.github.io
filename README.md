@@ -26,6 +26,12 @@
 
 <HR>
 
+##### **EP99 - 投影仪色彩新标杆，明基W1800上手体验**
+
+● <font color="#FF8C00">明基W1800投影仪：</font>https://u.jd.com/azxDiM9
+
+<HR>
+
 ##### **EP98 - 给玩客云刷入Armbian，安装易有云，变身私人网盘**
 
 ● Armbian固件（Github）：https://github.com/hzyitc/armbian-onecloud/releases
@@ -429,7 +435,8 @@ include themes/rEFInd-minimal/theme.conf
 ● <font color="#FF8C00">蒲公英X5路由器：</font>https://u.jd.com/zQg3mj0
 
 <HR>
-**EP68 - 装系统会更丝滑吗？教你封装一个独特的Windows镜像**
+
+##### **EP68 - 装系统会更丝滑吗？教你封装一个独特的Windows镜像**
 
 ● Windows原版镜像（MSDN i tell you）：https://next.itellyou.cn/
 
