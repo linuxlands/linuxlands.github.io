@@ -26,6 +26,14 @@
 
 <HR>
 
+##### **EP100 - 小白的第一款一键重装工具，EasyRC使用体验**
+
+● EasyRC官网：https://firpe.cn/page-196
+
+● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
+
+<HR>
+
 ##### **EP99 - 投影仪色彩新标杆，明基W1800上手体验**
 
 ● <font color="#FF8C00">明基W1800投影仪：</font>https://u.jd.com/azxDiM9
