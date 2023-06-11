@@ -26,6 +26,12 @@
 
 <HR>
 
+##### **EP101 - 游戏玩家的第一台电竞投影仪？雷神F1上手体验**
+
+● <font color="#FF8C00">雷神F1：</font>https://u.jd.com/1sTavKF
+
+<HR>
+
 ##### **EP100 - 小白的第一款一键重装工具，EasyRC使用体验**
 
 ● EasyRC官网：https://firpe.cn/page-196
