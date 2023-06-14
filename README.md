@@ -26,6 +26,16 @@
 
 <HR>
 
+##### **EP102 - 可能是维护功能最强大的PE，USBOS使用指南**
+
+● USBOS标准版（夸克）：https://pan.quark.cn/s/ad744e1fcfbf （提取码：xijv）
+
+● USBOS增强版（夸克）：https://pan.quark.cn/s/c62e48b74caf （提取码：WkJt）
+
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/b3ede3411a38 （提取码：UyVA）
+
+<HR>
+
 ##### **EP101 - 游戏玩家的第一台电竞投影仪？雷神F1上手体验**
 
 ● <font color="#FF8C00">雷神F1：</font>https://u.jd.com/1sTavKF
@@ -52,7 +62,7 @@
 
 ● Armbian固件（夸克）：https://pan.quark.cn/s/a5a88dcf893f （提取码：vfKz）
 
-● 晶晨烧录工具：晶晨烧录工具（夸克）：https://pan.quark.cn/s/5a8baaaa265f （提取码：rc64）
+● 晶晨烧录工具（夸克）：https://pan.quark.cn/s/5a8baaaa265f （提取码：rc64）
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
@@ -498,9 +508,9 @@ include themes/rEFInd-minimal/theme.conf
 
 ● 雷电PE（win11内核）：https://pan.quark.cn/s/211baf13a910 （提取码：YfZw）
 
-● 雷电PE扩展工具包（夸克）：https://pan.quark.cn/s/6150580fa434 （提取码：hiUH）
+● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/8d4ec876cfb6 （提取码：5Y1V）
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/b3ede3411a38 （提取码：UyVA）
 
 ● 镜像文件写入U盘小工具（夸克）：https://pan.quark.cn/s/4aa73f87c706 （提取码：6jPb）
 
@@ -746,9 +756,9 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● 雷电PE（win11内核）：https://pan.quark.cn/s/211baf13a910 （提取码：YfZw）
 
-● 雷电PE扩展工具包：https://pan.quark.cn/s/6150580fa434 （提取码：hiUH）
+● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
 
-● PETOOLS小工具集：https://pan.quark.cn/s/8d4ec876cfb6 （提取码：5Y1V）
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/b3ede3411a38 （提取码：UyVA）
 
 ● 软碟通（夸克）：https://pan.quark.cn/s/5a419111c8f2 （提取码：Vhi5）
 
