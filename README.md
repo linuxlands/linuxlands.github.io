@@ -26,6 +26,12 @@
 
 <HR>
 
+##### **EP103 - 长时间久坐，为何不让自己的腰舒服一点？黑白调E3人体工学椅使用体验**
+
+● <font color="#FF8C00">黑白调E3人体工学椅：</font>https://u.jd.com/gb1dvIc
+
+<HR>
+
 ##### **EP102 - 可能是维护功能最强大的PE，USBOS使用指南**
 
 ● USBOS标准版（夸克）：https://pan.quark.cn/s/ad744e1fcfbf （提取码：xijv）
@@ -1089,7 +1095,7 @@ IE: {871C5380-42A0-1069-A2EA-08002B30309D}
 
 ##### **EP24 - 微软出品的电脑管家？好用吗？**
 
-● 微软电脑管家：https://cn.bing.com/guanjia
+● 微软电脑管家：https://pcmanager.microsoft.com/cn
 
 <HR>
 
