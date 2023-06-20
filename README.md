@@ -26,6 +26,26 @@
 
 <HR>
 
+##### **EP104  - 所有机型通用，利用Limbo虚拟机，给手机安装Windows**
+
+● Limbo模拟器增强汉化版（夸克）：https://pan.quark.cn/s/231ebe4975aa （提取码：T7Fn）
+
+● ZArchives Pro（夸克）：https://pan.quark.cn/s/03402d48bccb （提取码：4K9V）
+
+● Tiny Win7精简版系统（夸克）：https://pan.quark.cn/s/abdc692f728f (提取码：V12k)
+
+● Tiny XP精简版系统（夸克）：https://pan.quark.cn/s/1cad481062a7 (提取码：G4QZ)
+
+○ 以下是需要敲的代码：
+
+```
+-smp 8,cores=8 -drive file=fat:rw:/storage/emulated/0/Download/临时文件
+```
+
+
+
+<HR>
+
 ##### **EP103 - 长时间久坐，为何不让自己的腰舒服一点？黑白调E3人体工学椅使用体验**
 
 ● <font color="#FF8C00">黑白调E3人体工学椅：</font>https://u.jd.com/gb1dvIc
@@ -719,7 +739,7 @@ tracert www.baidu.com
 
 ● Kodi下载（中文网）：http://www.kodiplayer.cn/download/
 
-● Kodi皮肤（地平线汉化版）：https://pan.quark.cn/s/6d82b4c22147 （提取码：Jx4t）
+● Kodi皮肤（地平线汉化版）：https://pan.quark.cn/s/3aed9ed99b6b （提取码：UM5c）（解压密码：zxmls）
 
 ● 站长工具PING：https://ping.chinaz.com/
 
