@@ -26,6 +26,32 @@
 
 <HR>
 
+##### **EP105 - iOS设备通用，利用UTM虚拟机，给iPhone、iPad安装Windows**
+
+● AltStore（官网）：https://altstore.io
+
+● Altinstaller（夸克）：https://pan.quark.cn/s/6759ff85a680 （提取码：VX74）
+
+● AltStore（GitHub）：https://github.com/altstoreio/AltStore
+
+● UTM安装包（夸克）：https://pan.quark.cn/s/d129a971e461 （提取码：N83N）
+
+● UTM SE安装包（夸克）：https://pan.quark.cn/s/5840b0d37dec （提取码：yk1c）
+
+● UTM（GitHub）：https://github.com/utmapp/UTM
+
+● 爱思助手（官网）https://www.i4.cn
+
+● Lizip整合的Windows8.1（夸克）：https://pan.quark.cn/s/5c0d5e529a1e （提取码：3b69）
+
+● Lizip UTM整合第一弹（专栏）：https://www.bilibili.com/read/cv18221663
+
+● Lizip UTM整合第二弹（专栏）：https://www.bilibili.com/read/cv19261926
+
+● Lizip UTM整合第三弹（专栏）：https://www.bilibili.com/read/cv21538128
+
+<HR>
+
 ##### **EP104  - 所有机型通用，利用Limbo虚拟机，给手机安装Windows**
 
 ● Limbo模拟器增强汉化版（夸克）：https://pan.quark.cn/s/231ebe4975aa （提取码：T7Fn）
