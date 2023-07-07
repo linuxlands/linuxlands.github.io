@@ -26,6 +26,54 @@
 
 <HR>
 
+##### **EP108 - 莫老师的工作室是什么样的？带你看看我每天剪片子的地方**
+
+● 网易云音乐人主页：https://music.163.com/#/artist?id=49436906
+
+● <font color="#FF8C00">歌德利V1人体工学椅：</font>https://u.jd.com/DslHz2z
+
+● <font color="#FF8C00">山进M1蓝牙音响：</font>https://m.tb.cn/h.5aFHlT5
+
+● <font color="#FF8C00">aoduke区块化集线器：</font>https://m.tb.cn/h.5aFtt2G
+
+● <font color="#FF8C00">DOBE PS5充电底座：</font>https://m.tb.cn/h.5ZNX04H
+
+● <font color="#FF8C00">奥睿科RGB拓展坞：</font>https://m.tb.cn/h.5b2pLlE
+
+● <font color="#FF8C00">明基ScreenBar Halo 屏幕挂灯：</font>https://m.tb.cn/h.50U4vjG
+
+● <font color="#FF8C00">铁三角AT2035麦克风：</font>https://m.tb.cn/h.50U5wPf
+
+● <font color="#FF8C00">Focusrite福克斯特2i4声卡：</font>https://m.tb.cn/h.5aFFtGD
+
+● <font color="#FF8C00">AKAI MPK MINI PLUS MK3 MIDI音乐控制器：</font>https://m.tb.cn/h.5aFFLQr
+
+● <font color="#FF8C00">Ulanzi优篮子手机微距镜头：</font>https://m.tb.cn/h.5aFEgtj
+
+● <font color="#FF8C00">Ulanzi优篮子VL119RGB棒灯：</font>https://m.tb.cn/h.50U5EtB
+
+● <font color="#FF8C00">Ulanzi优篮子VL49RGB补光灯：</font>https://m.tb.cn/h.5aFED9u
+
+● <font color="#FF8C00">Toprig S40电动滑轨：</font>https://m.tb.cn/h.50Ug7oz
+
+● <font color="#FF8C00">爱图仕艾蒙拉T2C RGB棒灯：</font>https://m.tb.cn/h.50UgryP
+
+● <font color="#FF8C00">云腾691单反三脚架：</font>https://m.tb.cn/h.5b2tlqB
+
+<HR>
+
+##### **EP107 - 一次装机100台！iVentoy，新一代PXE网启服务器使用指南**
+
+● iVentoy（官网）：https://www.iventoy.com/cn/index.html
+
+<HR>
+
+**EP106 - 背在背上的移动数码仓，NAYO SMART ARRIVE双肩包上手体验**
+
+● <font color="#FF8C00">NAYO SMART ARRIVE 双肩背包：</font>https://u.jd.com/DulJqFC
+
+<HR>
+
 ##### **EP105 - iOS设备通用，利用UTM虚拟机，给iPhone、iPad安装Windows**
 
 ● AltStore（官网）：https://altstore.io
