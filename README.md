@@ -26,6 +26,18 @@
 
 <HR>
 
+##### **EP109 - 2023年了，小米平板2还香吗？魔改版小米平板2双系统刷机指南**
+
+小米平板2专用PE+miui固件+Windows固件（天翼云盘）：https://cloud.189.cn/t/7ZvaQrYF7ja2 （访问码: 5ucr）
+
+小米平板2专用PE+miui固件+Windows固件（百度云）：https://pan.baidu.com/s/1l0RUPwaUifhfiPXjVfDAuQ （提取码：gkxc）
+
+亚马逊的蝴蝶小米平板2刷机教程：[点此访问](https://mp.weixin.qq.com/s?__biz=MzI2MDA4OTY0Mw==&mid=2247489032&idx=1&sn=65351fb7887decd233573ce6faf1e768&chksm=ea6fa44cdd182d5a5f05e9bd35de5a90b4aa9063ed7021c3bdf8062dddea316ede7225bc88fb&scene=21#wechat_redirect)
+
+亚马逊的蝴蝶小米平板2刷机疑难解答：[点此访问](https://mp.weixin.qq.com/s/q8L4YrGlhiaEkqmqG_oD7Q)
+
+<HR>
+
 ##### **EP108 - 莫老师的工作室是什么样的？带你看看我每天剪片子的地方**
 
 ● 网易云音乐人主页：https://music.163.com/#/artist?id=49436906
