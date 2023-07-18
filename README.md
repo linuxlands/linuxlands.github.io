@@ -36,6 +36,8 @@
 
 亚马逊的蝴蝶小米平板2刷机疑难解答：[点此访问](https://mp.weixin.qq.com/s/q8L4YrGlhiaEkqmqG_oD7Q)
 
+EasyUEFI（夸克）：https://pan.quark.cn/s/6e8081d965bd （提取码：6SkQ）
+
 <HR>
 
 ##### **EP108 - 莫老师的工作室是什么样的？带你看看我每天剪片子的地方**
