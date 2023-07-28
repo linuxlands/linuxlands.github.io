@@ -26,32 +26,50 @@
 
 <HR>
 
-##### **EP101 - 第三方ROM更香？给小米平板2刷入LineageOS、RROS、RemixOS，支持双系统**
+##### **EP112 - 死去的回忆涌上心头，使用EKA2L1模拟器，在安卓系统上模拟运行诺基亚塞班Symbian游戏**
 
-小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（夸克）：https://pan.quark.cn/s/9d8ea291430a
+● EKA2L1（夸克）：https://pan.quark.cn/s/95cce71dce6c （提取码：n4TG）
+
+● EKA2L1（Github）：https://github.com/EKA2L1/EKA2L1/releases
+
+● 诺基亚手机固件（夸克）：https://pan.quark.cn/s/a7b121647c6c （提取码：Wk6M）
+
+● 诺基亚塞班平台游戏（视频中出现的几款）：https://pan.quark.cn/s/4d604389c3d0 （提取码：TnyQ）
+
+● 诺基亚塞班平台游戏（夸克）：https://pan.quark.cn/s/fe9502794b8f （提取码：n8f4）
+
+<HR>
+
+##### **EP111 - 暂未上线**
+
+<HR>
+
+##### **EP110 - 第三方ROM更香？给小米平板2刷入LineageOS、RROS、RemixOS，支持双系统**
+
+● 小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（夸克）：https://pan.quark.cn/s/9d8ea291430a
  （提取码：byF9）
 
-小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（天翼云盘）：https://cloud.189.cn/t/7ZvaQrYF7ja2 （访问码: 5ucr）
+● 小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（天翼云盘）：https://cloud.189.cn/t/7ZvaQrYF7ja2 （访问码: 5ucr）
 
-小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（百度云）：https://pan.baidu.com/s/1l0RUPwaUifhfiPXjVfDAuQ （提取码：gkxc）
+● 小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（百度云）：https://pan.baidu.com/s/1l0RUPwaUifhfiPXjVfDAuQ （提取码：gkxc）
 
-亚马逊的蝴蝶小米平板2刷机教程：[点此访问](https://mp.weixin.qq.com/s?__biz=MzI2MDA4OTY0Mw==&mid=2247489032&idx=1&sn=65351fb7887decd233573ce6faf1e768&chksm=ea6fa44cdd182d5a5f05e9bd35de5a90b4aa9063ed7021c3bdf8062dddea316ede7225bc88fb&scene=21#wechat_redirect)
+● 亚马逊的蝴蝶小米平板2刷机教程：[点此访问](https://mp.weixin.qq.com/s?__biz=MzI2MDA4OTY0Mw==&mid=2247489032&idx=1&sn=65351fb7887decd233573ce6faf1e768&chksm=ea6fa44cdd182d5a5f05e9bd35de5a90b4aa9063ed7021c3bdf8062dddea316ede7225bc88fb&scene=21#wechat_redirect)
 
-亚马逊的蝴蝶小米平板2刷机疑难解答：[点此访问](https://mp.weixin.qq.com/s/q8L4YrGlhiaEkqmqG_oD7Q)
+● 亚马逊的蝴蝶小米平板2刷机疑难解答：[点此访问](https://mp.weixin.qq.com/s/q8L4YrGlhiaEkqmqG_oD7Q)
 
 <HR>
 
 ##### **EP109 - 2023年了，小米平板2还香吗？魔改版小米平板2双系统刷机指南**
 
-小米平板2专用PE+miui固件+Windows固件（天翼云盘）：https://cloud.189.cn/t/7ZvaQrYF7ja2 （访问码: 5ucr）
+● 小米平板2专用PE+miui固件+Windows固件（天翼云盘）：https://cloud.189.cn/t/7ZvaQrYF7ja2 （访问码: 5ucr）
 
-小米平板2专用PE+miui固件+Windows固件（百度云）：https://pan.baidu.com/s/1l0RUPwaUifhfiPXjVfDAuQ （提取码：gkxc）
+● 小米平板2专用PE+miui固件+Windows固件（百度云）：https://pan.baidu.com/s/1l0RUPwaUifhfiPXjVfDAuQ （提取码：gkxc）
 
-亚马逊的蝴蝶小米平板2刷机教程：[点此访问](https://mp.weixin.qq.com/s?__biz=MzI2MDA4OTY0Mw==&mid=2247489032&idx=1&sn=65351fb7887decd233573ce6faf1e768&chksm=ea6fa44cdd182d5a5f05e9bd35de5a90b4aa9063ed7021c3bdf8062dddea316ede7225bc88fb&scene=21#wechat_redirect)
+● 亚马逊的蝴蝶小米平板2刷机教程：[点此访问](https://mp.weixin.qq.com/s?__biz=MzI2MDA4OTY0Mw==&mid=2247489032&idx=1&sn=65351fb7887decd233573ce6faf1e768&chksm=ea6fa44cdd182d5a5f05e9bd35de5a90b4aa9063ed7021c3bdf8062dddea316ede7225bc88fb&scene=21#wechat_redirect)
 
-亚马逊的蝴蝶小米平板2刷机疑难解答：[点此访问](https://mp.weixin.qq.com/s/q8L4YrGlhiaEkqmqG_oD7Q)
+● 亚马逊的蝴蝶小米平板2刷机疑难解答：[点此访问](https://mp.weixin.qq.com/s/q8L4YrGlhiaEkqmqG_oD7Q)
 
-EasyUEFI（夸克）：https://pan.quark.cn/s/6e8081d965bd （提取码：6SkQ）
+● EasyUEFI（夸克）：https://pan.quark.cn/s/6e8081d965bd （提取码：6SkQ）
 
 <HR>
 
