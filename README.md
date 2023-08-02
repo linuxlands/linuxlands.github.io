@@ -40,7 +40,25 @@
 
 <HR>
 
-##### **EP111 - 暂未上线**
+##### **EP111 -2G内存流畅运行？5款精简修改版Windows系统，纯净、好用**
+
+● 不忘初心（博客）：https://www.pc528.net
+
+● WinOS（博客）:https://www.winos.me
+
+● 吻妻Win7（官网）：https://www.newxitong.com
+
+● 吻妻Win10（官网）：https://iwin10.net/2023/0405.html
+
+● AtlasOS（官网）：https://atlasos.net
+
+● Tiny10（夸克）：https://pan.quark.cn/s/9c7c1803d331 （提取码：zcv2）
+
+● Tiny10（国外网盘，很慢）：https://archive.org/download/tiny-10_202301
+
+● Tiny11（国外网盘，很慢）：https://archive.org/details/tiny-11_202302
+
+
 
 <HR>
 
