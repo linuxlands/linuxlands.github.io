@@ -32,11 +32,11 @@
 
 ● EKA2L1（Github）：https://github.com/EKA2L1/EKA2L1/releases
 
-● 诺基亚手机固件（夸克）：https://pan.quark.cn/s/a7b121647c6c （提取码：Wk6M）
+● 诺基亚手机固件（夸克）：https://pan.quark.cn/s/fa71855f2778 （提取码：qME9）
 
-● 诺基亚塞班平台游戏（视频中出现的几款）：https://pan.quark.cn/s/4d604389c3d0 （提取码：TnyQ）
+● 诺基亚塞班平台游戏（视频中出现的几款）：https://pan.quark.cn/s/81d40d77dfa4 （提取码：nTJR）
 
-● 诺基亚塞班平台游戏（夸克）：https://pan.quark.cn/s/fe9502794b8f （提取码：n8f4）
+● 诺基亚塞班平台游戏（夸克）：https://pan.quark.cn/s/caae50a5f08d （提取码：fMz7）
 
 <HR>
 
