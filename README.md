@@ -26,6 +26,26 @@
 
 <HR>
 
+##### **EP113 - 帧数暴涨？低配救星？AtlasOS安装部署指南及性能测试**
+
+● AtalsOS（官网）：https://atlasos.net/
+
+● EasyEC（官网）：https://firpe.cn/page-196
+
+● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
+
+● Win10 22H2（微软官方节点）：*请使用迅雷等下载软件进行下载*
+
+```
+ed2k://|file|zh-cn_windows_11_business_editions_version_22h2_updated_april_2023_x64_dvd_7f3f319b.iso|5699682304|7226C84203584BDC33A1E8694C6C570E|/
+```
+
+```
+magnet:?xt=urn:btih:509989ac652c2f748c894ab77c9e2faa336cd826&dn=zh-cn_windows_11_business_editions_version_22h2_updated_april_2023_x64_dvd_7f3f319b.iso
+```
+
+
+
 ##### **EP112 - 死去的回忆涌上心头，使用EKA2L1模拟器，在安卓系统上模拟运行诺基亚塞班Symbian游戏**
 
 ● EKA2L1（夸克）：https://pan.quark.cn/s/95cce71dce6c （提取码：n4TG）
