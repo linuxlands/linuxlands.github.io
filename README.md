@@ -26,6 +26,14 @@
 
 <HR>
 
+##### **EP114 - 超简单制作WTG、系统U盘，小巧精悍的写盘软件，Rufus使用指南**
+
+● Rufus（官网）：https://rufus.ie/
+
+
+
+<HR>
+
 ##### **EP113 - 帧数暴涨？低配救星？AtlasOS安装部署指南及性能测试**
 
 ● AtalsOS（官网）：https://atlasos.net/
@@ -44,7 +52,7 @@ ed2k://|file|zh-cn_windows_11_business_editions_version_22h2_updated_april_2023_
 magnet:?xt=urn:btih:509989ac652c2f748c894ab77c9e2faa336cd826&dn=zh-cn_windows_11_business_editions_version_22h2_updated_april_2023_x64_dvd_7f3f319b.iso
 ```
 
-
+<HR>
 
 ##### **EP112 - 死去的回忆涌上心头，使用EKA2L1模拟器，在安卓系统上模拟运行诺基亚塞班Symbian游戏**
 
