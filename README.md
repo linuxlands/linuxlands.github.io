@@ -24,11 +24,13 @@
 
 ○ 微信视频号：<del>在下莫老师（删号了）<del>
 
+
+
 <HR>
 
 ##### **EP115 - 2种方法远程重装系统，拯救异地女友被流氓软件“纠缠”的电脑！**
 
-● ToDesk（官网）：https://www.todesk.com
+● ToDesk（官网）：https://www.todesk.com/?from=bz
 
 ● EasyEC（官网）：https://firpe.cn/page-196
 
