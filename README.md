@@ -24,13 +24,35 @@
 
 ○ 微信视频号：<del>在下莫老师（删号了）<del>
 
+<HR>
 
+##### **EP117 - 在手机上玩王国之泪？一加Ace2 Pro模拟器游戏实测体验**
+
+● PPSSPP（PSP模拟器）：https://www.ppsspp.org
+
+● Cirta（3DS模拟器）：https://citra-emu.org/download
+
+● Dolphin（Wii模拟器）：https://cn.dolphin-emu.org/download
+
+● AetherSX2（PS2模拟器）：https://www.aethersx2.com/archive
+
+● AetherSX2（模拟器）BIOS合集：https://pan.quark.cn/s/2b3a6c9c6141 （提取码：4zRJ）
+
+● YUZU（SWITCH模拟器）：https://yuzu-emu.org/downloads/#android
+
+● YUZU（骁龙8Gen2 GPU驱动）：https://pan.quark.cn/s/a87ca829a89e （提取码：GBDL）
+
+
+
+<HR>
+
+EP116 - 暂未上线
 
 <HR>
 
 ##### **EP115 - 2种方法远程重装系统，拯救异地女友被流氓软件“纠缠”的电脑！**
 
-● ToDesk（官网）：https://www.todesk.com/?from=bz
+● ToDesk（官网）：https://www.todesk.com
 
 ● EasyEC（官网）：https://firpe.cn/page-196
 
