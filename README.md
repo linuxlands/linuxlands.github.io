@@ -46,16 +46,15 @@
 
 <HR>
 
+##### **EP116 - 你的下一台蓝光播放器，也许是NAS？聊聊极空间Z2Pro的影音功能**
 
-EP116 - 暂未上线
-
-
+● <font color="#FF8C00">极空间Z2PRO个人私有云：</font>https://m.tb.cn/h.5dFWd5h
 
 <HR>
 
 ##### **EP115 - 2种方法远程重装系统，拯救异地女友被流氓软件“纠缠”的电脑！**
 
-● ToDesk（官网）：https://www.todesk.com/?from=bz
+● ToDesk（官网）：https://www.todesk.com
 
 ● EasyEC（官网）：https://firpe.cn/page-196
 
@@ -87,7 +86,7 @@ EP116 - 暂未上线
 
 ● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
 
-● Win10 22H2（微软官方节点）：*请使用迅雷等下载软件进行下载*
+● Win10 22H2（微软官方节点）：*请使用迅雷等第三方下载软件进行下载*
 
 ```
 ed2k://|file|zh-cn_windows_10_business_editions_version_22h2_updated_april_2023_x64_dvd_c03ed5aa.iso|5971707904|EED818987B8BC17F6DDC201E977A4F95|/
