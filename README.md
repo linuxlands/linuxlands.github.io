@@ -26,6 +26,16 @@
 
 <HR>
 
+##### **EP118 - HotPE作者全新装机工具，SysRi一键重装体验评测**
+
+● SysRi（官网）：https://sysri.cn
+
+● SysRi（文档）：https://docs.sysri.cn
+
+
+
+<HR>
+
 ##### **EP117 - 在手机上玩王国之泪？一加Ace2 Pro模拟器游戏实测体验**
 
 ● PPSSPP（PSP模拟器）：https://www.ppsspp.org
