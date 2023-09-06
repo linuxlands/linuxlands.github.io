@@ -26,6 +26,30 @@
 
 <HR>
 
+##### **EP120 - 更稳定方便的精简游戏系统，ReviOS部署汉化指南**
+
+● ReviOS（官网）：https://revi.cc/
+
+● ReviOS镜像分流（夸克）：https://pan.quark.cn/s/9b53a3adb7f1 （提取码：XAAf）
+
+● EasyEC（官网）：https://firpe.cn/page-196
+
+● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
+
+● FirePE（官网）：https://firpe.cn/page-247
+
+
+
+<HR>
+
+
+
+**EP119 - 预计9月8日上线**
+
+
+
+<HR>
+
 ##### **EP118 - HotPE作者全新装机工具，SysRi一键重装体验评测**
 
 ● SysRi（官网）：https://sysri.cn
