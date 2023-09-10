@@ -43,8 +43,9 @@
 <HR>
 
 
+##### **EP119 - 5.3K 10Bit HDR 4K120FPS 加持，GoPro12运动相机上手实拍体验**
 
-**EP119 - 预计9月8日上线**
+● <font color="#FF8C00">GoPro Hero12 Black：</font>https://gopro.com/zh/cn/
 
 
 
