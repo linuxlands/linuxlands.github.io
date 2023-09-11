@@ -1,6 +1,6 @@
 # ○ 莫老师的附件表
 
-> 莫老师的附件表
+> 莫老师的附件表（请按快捷键 Ctrl+F 来搜索内容）
 
 ✓ 和每期视频保持同步更新
 
@@ -23,6 +23,15 @@
 ○ YOUTUBE：[点此进入](https://www.youtube.com/channel/UCAbLQp7cSr_hdPfr_Pe1S_g/)
 
 ○ 微信视频号：<del>在下莫老师（删号了）<del>
+
+<HR>
+
+
+##### **EP121 - 游戏玩家的巨幕形态，明基X3000专业游戏投影仪上手体验**
+
+● <font color="#FF8C00">明基X3000专业游戏投影仪：</font>https://m.tb.cn/h.5VvjgUE
+
+
 
 <HR>
 
