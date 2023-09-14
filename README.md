@@ -34,6 +34,42 @@
 
 
 
+○ ***如何给AX6s安装ShellClash？***
+
+登录小米路由器后台，点击常用设置，系统状态，选择手动升级，弹出的框框点选择文件，这里要选1.2.7（内测版固件），这个固件自带SSH权限，点击开始升级，稍等片刻，wifi重连，路由器便降级成内测固件了，接着查看你路由器屁股下边的SN码，记住它，打开ROOT密码计算网站，输入你SN码，计算出ROOT密码，打开MobaXterm，左上角Session，弹出的框框选Telnet，Remote host填路由器后台ip地址，Username填root，点击ok，显示XiaoQiang login：输入root，Password输入你刚刚算出的SN密码，回车，出现一个大大的ARE U OK，接着把下边三排代码依次右键粘贴进去回车执行
+
+```
+nvram set ssh_en=1& nvram set uart_en=1 & nvram set boot_wait=on & nvram setbootdelay=3 & nvram set flag_try_sys1_failed=0 & nvram setflag_try_sys2_failed=1
+```
+
+```
+nvram setflag_boot_rootfs=0 & nvram set "boot_fw1=run boot_rd_img;bootm"
+```
+
+```
+nvram setflag_boot_success=1 & nvram commit & /etc/init.d/dropbear enable &/etc/init.d/dropbear start
+```
+
+每粘贴一条就按一次回车，直到三条代码都执行完成，接着我们点左上角Exit退出Telnet窗口，再次打开MobaXterm，点击Session，这次弹出的框框要选SSH，Remote host填路由器后台ip地址，Username填root，点击ok，跳出的框框选Accept the new server hostkey and carry on connecting，进入后输入root密码，接着粘贴下边这排代码回车
+
+```
+export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
+```
+
+就可以开始安装ShellClash了，问你想要安装的版本，选1公测版，问要装到哪儿，选1/data目录，让你确认一下，输入1回车，然后开始跑进度条，跑完就装完了，接着输入clash就可以开始配置了，让你选择使用环境，选1路由设备配置局域网透明代理，问你是否启用软固化，输入1回车，请输入需要还原的SSH密码，回车跳过，导入配置文件，输入1开始导入，输入1在线生成Clash配置文件，接着粘贴你的机场订阅链接回车，输入1开始生成配置，配置成功后输入1，立即启动clash服务，然后你就可以愉快的使用ShellClash了，当然此刻也可能出现核心下载失败的问题，你可以选择9更新/卸载，7切换安装源/安装版本，尝试切换源，你还可以按9更新/卸载，选择4安装本地Dashboard面板，3安装Yacd面板（4魔改版也可以），1data目录安装，接着在浏览器输入192.168.31.1:9999/ui回车，就能开始愉快的使用了，enjoy！
+
+
+
+● 小米路由器ROOT密码计算网站：https://blog.isteed.cc/post/miwifi-sshpwd
+
+● 小米路由器ROOT密码计算网站（本地离线版）：https://pan.quark.cn/s/837bae44bde1 （提取码：eRV8）
+
+● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
+
+● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f （提取码：Wp7M）
+
+
+
 <HR>
 
 ##### **EP121 - 游戏玩家的巨幕形态，明基X3000专业游戏投影仪上手体验**
@@ -863,9 +899,9 @@ include themes/rEFInd-minimal/theme.conf
 ● 小米路由器官方刷机教程：
 https://web.vip.miui.com/page/info/mio/mio/detail?postId=19134127&app_version=dev.20051
 
-● SSH密码获取网站：https://www.oxygen7.cn/miwifi
+● 小米路由器ROOT密码计算网站：https://blog.isteed.cc/post/miwifi-sshpwd
 
-● SSH密码获取网站（备用）：https://miwifi.dev/ssh
+● 小米路由器ROOT密码计算网站（本地离线版）：https://pan.quark.cn/s/837bae44bde1 （提取码：eRV8）
 
 ○ 获取SSH权限的三条命令（Telnet中输入）：
 
