@@ -26,6 +26,18 @@
 
 <HR>
 
+##### **EP123 - 旧电脑变NAS，超简单的黑群晖DSM7.2安装指南**
+
+● FirePE（官网）：https://firpe.cn/page-247
+
+● ARPL引导镜像，来自wjz304（Github）：https://github.com/wjz304/arpl-zh_CN/releases
+
+● ARPL引导镜像，来自wjz304（夸克）：https://pan.quark.cn/s/6fb7c4611afe （提取码：HbAC）
+
+
+
+<HR>
+
 ##### **EP122 - 多种机型适用，给小米路由器恢复官方原版系统，也适用于救砖**
 
 ● 小米路由器修复工具+ROM：http://www.miwifi.com/miwifi_download.html
