@@ -26,6 +26,14 @@
 
 <HR>
 
+##### **EP124 - 核显能玩3A游戏吗？零刻SER7 7840HS迷你主机游戏体验**
+
+● <font color="#FF8C00">零刻SER7 7840HS迷你主机：</font>https://m.tb.cn/h.5UPBx8w
+
+
+
+<HR>
+
 ##### **EP123 - 旧电脑变NAS，超简单的黑群晖DSM7.2安装指南**
 
 ● FirePE（官网）：https://firpe.cn/page-247
