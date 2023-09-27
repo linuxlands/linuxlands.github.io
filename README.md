@@ -28,11 +28,11 @@
 
 ##### **EP125 - Batocera+Ventoy，打造一个多合一终极模拟器游戏U盘**
 
-● Botacera（官网）：https://batocera.org
+● Batocera（官网）：https://batocera.org
 
-● Botacera基础整合包by_溅の小孩（夸克）：https://pan.quark.cn/s/7cbc6489644c （提取码：NTKh）
+● Batocera基础整合包by_溅の小孩（夸克）：https://pan.quark.cn/s/7cbc6489644c （提取码：NTKh）
 
-● Botacera 64GB整合包by_溅の小孩（夸克）：https://pan.quark.cn/s/915442a1e902 （提取码：3vJz）
+● Batocera 64GB整合包by_溅の小孩（夸克）：https://pan.quark.cn/s/915442a1e902 （提取码：3vJz）
 
 ● Ventoy（官网）：https://www.ventoy.net/cn
 
