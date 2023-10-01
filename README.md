@@ -26,6 +26,26 @@
 
 <HR>
 
+##### **EP127 - 【抽奖】一年一度的抽大米环节！**
+
+● <font color="#DB7093">本活动仅在bilibili进行</font>，请进入我的[B站主页](https://space.bilibili.com/1995424953/dynamic)，查看[置顶动态参与](https://www.bilibili.com/opus/847340998199607313?spm_id_from=333.999.0.0)（点此也可以）
+
+● 本活动共抽出10个礼品，抽奖结束时间为10月3日20:00
+
+● 抽奖结束后我会在此公布获奖名单
+
+
+
+<HR>
+
+
+
+EP126 - 暂未上线
+
+
+
+<HR>
+
 ##### **EP125 - Batocera+Ventoy，打造一个多合一终极模拟器游戏U盘**
 
 ● Batocera（官网）：https://batocera.org
