@@ -26,6 +26,18 @@
 
 <HR>
 
+##### **EP128 - 我的启动U盘有亿点点不一样，Ventoy进阶使用指南**
+
+● Ventoy（官网）：https://www.ventoy.net/cn
+
+● Ventoy引导Linux用数据持久化dat文件：https://pan.quark.cn/s/cdde1dd247f0 （提取码：jEU4）
+
+● Ventoy用Windows系统安装脚本：https://pan.quark.cn/s/d804f05a3382 （提取码：KzRy）
+
+
+
+<HR>
+
 ##### **EP127 - 【抽奖】一年一度的抽大米环节！**
 
 ● <font color="#DB7093">本活动仅在bilibili进行</font>，请进入我的[B站主页](https://space.bilibili.com/1995424953/dynamic)，查看[置顶动态参与](https://www.bilibili.com/opus/847340998199607313?spm_id_from=333.999.0.0)（点此也可以）
@@ -213,7 +225,7 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● 雷电PE win11内核（夸克）：https://pan.quark.cn/s/5d4f7969ab78 （提取码：wXmZ）
 
-● PETOOLS莫老师修改版（夸克）：https://pan.quark.cn/s/d16812991eeb （提取码：J5fp）
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/f65a2938126b （提取码：EU7Q）（解压密码：zxmls）
 
 <HR>
 
@@ -416,7 +428,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● USBOS增强版（夸克）：https://pan.quark.cn/s/c62e48b74caf （提取码：WkJt）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/b3ede3411a38 （提取码：UyVA）
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/f65a2938126b （提取码：EU7Q）（解压密码：zxmls）
 
 <HR>
 
@@ -894,7 +906,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/b3ede3411a38 （提取码：UyVA）
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/f65a2938126b （提取码：EU7Q）（解压密码：zxmls）
 
 ● 镜像文件写入U盘小工具（夸克）：https://pan.quark.cn/s/4aa73f87c706 （提取码：6jPb）
 
@@ -1009,7 +1021,7 @@ tracert www.baidu.com
 
 ● 当贝OS（夸克）：https://pan.quark.cn/s/623ae131d3e3 （提取码：PFyP）
 
-● ATV（夸克）：https://pan.quark.cn/s/35be329307de （提取码：7u43）
+● ATV（夸克）：https://pan.quark.cn/s/e1a785e68bdf (提取码：NWGP)（解压密码：zxmls）
 
 ● 当贝OS（备用、需要魔法）：https://drive.google.com/drive/folders/13sqHFELH_RNNkeq9ixZTMd7kbdbBeIQU?usp=sharing
 
@@ -1142,7 +1154,7 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/b3ede3411a38 （提取码：UyVA）
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/f65a2938126b （提取码：EU7Q）（解压密码：zxmls）
 
 ● 软碟通（夸克）：https://pan.quark.cn/s/5a419111c8f2 （提取码：Vhi5）
 
