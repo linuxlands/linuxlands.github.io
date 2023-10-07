@@ -40,11 +40,11 @@
 
 ##### **EP127 - 【抽奖】一年一度的抽大米环节！**
 
-● <font color="#DB7093">本活动仅在bilibili进行</font>，请进入我的[B站主页](https://space.bilibili.com/1995424953/dynamic)，查看[置顶动态参与](https://www.bilibili.com/opus/847340998199607313?spm_id_from=333.999.0.0)（点此也可以）
+● <font color="#DB7093">本活动仅在bilibili进行</font>，请进入我的[B站主页](https://space.bilibili.com/1995424953/dynamic)，或点此查看[置顶动态](https://www.bilibili.com/opus/847340998199607313?spm_id_from=333.999.0.0)
 
-● 本活动共抽出10个礼品，抽奖结束时间为10月3日20:00
+● 本次抽奖已结束，共计抽出10个礼品
 
-● 抽奖结束后我会在此公布获奖名单
+● 以下为获奖名单：Soul丶柒；進撃のアラン；改个啥子名字；被仰望的男人；聪明睿智嘤嘤怪；woohoo欧；HAC鲨鱼霖霖；MarshalCrE；我不是小晟啊；南方的样子
 
 
 
@@ -213,7 +213,7 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ##### **EP115 - 2种方法远程重装系统，拯救异地女友被流氓软件“纠缠”的电脑！**
 
-● ToDesk（官网）：https://www.todesk.com
+● ToDesk（官网）：https://www.todesk.comf
 
 ● EasyEC（官网）：https://firpe.cn/page-196
 
@@ -225,7 +225,7 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● 雷电PE win11内核（夸克）：https://pan.quark.cn/s/5d4f7969ab78 （提取码：wXmZ）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/f65a2938126b （提取码：EU7Q）（解压密码：zxmls）
+f
 
 <HR>
 
@@ -428,7 +428,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● USBOS增强版（夸克）：https://pan.quark.cn/s/c62e48b74caf （提取码：WkJt）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/f65a2938126b （提取码：EU7Q）（解压密码：zxmls）
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/2e917c19a1c8 (提取码：g76n)（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
 <HR>
 
@@ -906,7 +906,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/f65a2938126b （提取码：EU7Q）（解压密码：zxmls）
+● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/2e917c19a1c8 (提取码：g76n)（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
 ● 镜像文件写入U盘小工具（夸克）：https://pan.quark.cn/s/4aa73f87c706 （提取码：6jPb）
 
