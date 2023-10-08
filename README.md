@@ -26,6 +26,18 @@
 
 <HR>
 
+##### **EP129 - 一键重装的版本答案？利用Ventoy+应答脚本，手搓一个无人值守系统安装U盘**
+
+● Ventoy（官网）：https://www.ventoy.net/cn
+
+● Windows原版镜像下载：https://hellowindows.cn
+
+● Windows系统无人值守应答脚本：https://pan.quark.cn/s/d804f05a3382 （提取码：KzRy）
+
+
+
+<HR>
+
 ##### **EP128 - 我的启动U盘有亿点点不一样，Ventoy进阶使用指南**
 
 ● Ventoy（官网）：https://www.ventoy.net/cn
