@@ -20,7 +20,7 @@
 
 ○ 微博：[点此进入](https://weibo.com/u/7826133162)
 
-○ YOUTUBE：[点此进入](https://www.youtube.com/channel/UCAbLQp7cSr_hdPfr_Pe1S_g/)
+○ YOUTUBE：[点此进入](https://www.youtube.com/@zxmls)
 
 ○ 微信视频号：<del>在下莫老师（删号了）<del>
 
@@ -62,9 +62,25 @@
 
 <HR>
 
+##### **EP126 - 一台0.1L的软路由能做什么？H28K小白入坑指南**
 
+● 瑞芯微开发工具（夸克）：https://pan.quark.cn/s/e2cd27aee248 （提取码：sUAT）
 
-EP126 - 暂未上线
+● H28K OpenWRT固件（夸克）：https://pan.quark.cn/s/9f80ca96fa93 （提取码：nsnb）
+
+● H28K Ubuntu固件（夸克）：https://pan.quark.cn/s/c23484d78386 （提取码：yi7Y）
+
+● H28K iStoreOS固件：https://fw.koolcenter.com/iStoreOS/h28k/
+
+● BalenaEtcher（官网）：https://www.balena.io/etcher
+
+● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
+
+● *设置Smaba密码的代码（在MobaXterm里输入）*
+
+```
+smbpasswd -a root
+```
 
 
 
@@ -237,7 +253,7 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● 雷电PE win11内核（夸克）：https://pan.quark.cn/s/5d4f7969ab78 （提取码：wXmZ）
 
-f
+
 
 <HR>
 
