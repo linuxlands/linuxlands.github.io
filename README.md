@@ -456,7 +456,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● USBOS增强版（夸克）：https://pan.quark.cn/s/c62e48b74caf （提取码：WkJt）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/2e917c19a1c8 (提取码：g76n)（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
+● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz（访问码：4dby）（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
 <HR>
 
@@ -934,7 +934,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/2e917c19a1c8 (提取码：g76n)（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
+● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz（访问码：4dby）（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
 ● 镜像文件写入U盘小工具（夸克）：https://pan.quark.cn/s/4aa73f87c706 （提取码：6jPb）
 
@@ -1182,7 +1182,7 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
 
-● PETOOLS小工具集（夸克）：https://pan.quark.cn/s/f65a2938126b （提取码：EU7Q）（解压密码：zxmls）
+● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz（访问码：4dby）（解压密码：zxmls）
 
 ● 软碟通（夸克）：https://pan.quark.cn/s/5a419111c8f2 （提取码：Vhi5）
 
