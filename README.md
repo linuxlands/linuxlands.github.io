@@ -26,6 +26,32 @@
 
 <HR>
 
+##### **EP132 - 才不是VR、AR眼镜呢！画质即正义的观影头显，GOOVIS G3 MAX上手**
+
+● <font color="#FF8C00">GOOVIS G3 MAX头戴显示器：</font>https://m.tb.cn/h.5hON7UE
+
+
+
+<HR>
+
+
+
+##### **EP131 - 真有人背17.3寸的游戏本上下班？Nazoroad Tramp双肩背包上手体验**
+
+● <font color="#FF8C00">Nazoroad Tramp双肩背包：</font>https://m.tb.cn/h.5SGvLKK
+
+
+
+<HR>
+
+
+
+EP130 - 暂未上线
+
+
+
+<HR>
+
 ##### **EP129 - 一键重装的版本答案？利用Ventoy+应答脚本，手搓一个无人值守系统安装U盘**
 
 ● Ventoy（官网）：https://www.ventoy.net/cn
@@ -932,7 +958,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● 雷电PE（win11内核）：https://pan.quark.cn/s/211baf13a910 （提取码：YfZw）
 
-● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
+● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/bdf3e48ac380 （提取码：y6UN）（解压密码：zxmls，解压出来的PDF文件改后缀名为zip再解压一次）
 
 ● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
@@ -1180,7 +1206,7 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● 雷电PE（win11内核）：https://pan.quark.cn/s/211baf13a910 （提取码：YfZw）
 
-● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/9788a91f5b11 （提取码：wYf3）
+● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/bdf3e48ac380 （提取码：y6UN）（解压密码：zxmls，解压出来的PDF文件改后缀名为zip再解压一次）
 
 ● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls）
 
