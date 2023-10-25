@@ -45,8 +45,19 @@
 <HR>
 
 
+##### **EP130 - 时代的眼泪！给歌华链路由刷入Breed不死及第三方固件**
 
-EP130 - 暂未上线
+● 1.21降级固件：https://pan.quark.cn/s/702485fcea23 (提取码：x1uC)
+
+● Breed不死固件：https://pan.quark.cn/s/d38af90a0c92 (提取码：e5Wq)
+
+● Lede第三方固件：https://pan.quark.cn/s/e1d27c17cf5d (提取码：dJw5)
+
+● tftpd64：https://pan.quark.cn/s/f3e90eeb5bf1 (提取码：hj8Z)
+
+● hfs：https://pan.quark.cn/s/e900c95c7fb0 (提取码：tQXD)
+
+● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
 
 
