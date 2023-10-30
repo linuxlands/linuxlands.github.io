@@ -28,7 +28,7 @@
 
 ##### **EP134 - 明基主打性价比的4K投影仪？聊聊GK100的使用体验**
 
-● <font color="#FF8C00">明基GK100 4K投影仪：</font>https://m.tb.cn/h.5hON7UE
+● <font color="#FF8C00">明基GK100 4K投影仪：</font>https://m.tb.cn/h.57v69Xw
 
 
 
