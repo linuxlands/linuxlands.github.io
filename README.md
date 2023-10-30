@@ -1,6 +1,6 @@
 # ○ 莫老师的附件表
 
-> 莫老师的附件表（请按快捷键 Ctrl+F 来搜索内容）
+> 莫老师的附件表（请按快捷键 Ctrl+F 来搜索内容）💕
 
 ✓ 和每期视频保持同步更新
 
@@ -22,7 +22,23 @@
 
 ○ YOUTUBE：[点此进入](https://www.youtube.com/@zxmls)
 
-○ 微信视频号：<del>在下莫老师（删号了）<del>
+***● 注意！不要在网盘中在线解压任何文件！！会导致文件失效！！！***
+
+<HR>
+
+##### **EP134 - 明基主打性价比的4K投影仪？聊聊GK100的使用体验**
+
+● <font color="#FF8C00">明基GK100 4K投影仪：</font>https://m.tb.cn/h.5hON7UE
+
+
+
+<HR>
+
+
+
+EP133 - 已制作完成，暂未上线
+
+
 
 <HR>
 
@@ -867,7 +883,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MyDockFinder官网：https://www.mydockfinder.com
 
-● MacOS鼠标指针（夸克）：https://pan.quark.cn/s/a67b60ffea84 （提取码：KWGz）
+● MacOS鼠标指针（蓝奏云）：https://wwof.lanzoul.com/ikvDC0mqxh9i (密码:hhxu)
 
 ● MacOS壁纸：https://512pixels.net/projects/default-mac-wallpapers-in-5k/?ref=toolsforyou
 
@@ -1084,9 +1100,9 @@ tracert www.baidu.com
 
 ##### **EP59 - 拒绝广告播放器！为装宽带送的盒子刷入原生安卓ATV**
 
-● 当贝OS（夸克）：https://pan.quark.cn/s/623ae131d3e3 （提取码：PFyP）
+● 当贝OS（天翼云）：https://cloud.189.cn/web/share?code=nymUVvNZfIv2 （访问码：5os5）
 
-● ATV（夸克）：https://pan.quark.cn/s/e1a785e68bdf (提取码：NWGP)（解压密码：zxmls）
+● ATV（天翼云）：https://cloud.189.cn/web/share?code=qYNRJvNzEvY3 （访问码：xe00）
 
 ● 当贝OS（备用、需要魔法）：https://drive.google.com/drive/folders/13sqHFELH_RNNkeq9ixZTMd7kbdbBeIQU?usp=sharing
 
