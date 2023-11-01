@@ -34,9 +34,13 @@
 
 <HR>
 
+##### **EP133 - 利用MSMG Toolkit，精简一个独属于自己的Windows系统**
 
+● MSMG Toolkit 13.6中文版：https://pan.quark.cn/s/33201beb6322 （提取码：fHsn）
 
-EP133 - 已制作完成，暂未上线
+● MSMG Toolkit 组合包（适用于集成功能，精简系统不需要这个）：https://pan.quark.cn/s/a9ded390ce15 （提取码：9jmH）
+
+● Windows原版镜像下载：https://hellowindows.cn
 
 
 
