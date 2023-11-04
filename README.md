@@ -26,6 +26,21 @@
 
 <HR>
 
+
+##### **EP136 - 我将以摸鱼形态舒适躺平？对比同价位产品，聊聊Ergoup有谱E20人体工学椅**
+
+● <font color="#FF8C00">Ergoup有谱E20人体工学椅：</font>https://m.tb.cn/h.5RqqEdN
+
+
+
+<HR>
+
+EP135 - 已制作完成，11月8日上线
+
+
+
+<HR>
+
 ##### **EP134 - 明基主打性价比的4K投影仪？聊聊GK100的使用体验**
 
 ● <font color="#FF8C00">明基GK100 4K投影仪：</font>https://m.tb.cn/h.57v69Xw
