@@ -35,7 +35,19 @@
 
 <HR>
 
-EP135 - 已制作完成，11月8日上线
+##### **EP135 - 多系统、镜像引导神器，Grub4Dos For UEFI使用指南**
+
+● GRUB4DOS For UEFI（官方下载）：http://grub4dos.chenall.net
+
+● GRUB4DOS For UEFI（夸克）：链接：https://pan.quark.cn/s/67de357b297d （提取码：nL2n）
+
+● GRUB4DOS For UEFI主题（夸克）：https://pan.quark.cn/s/aad6e529a88d （提取码：s8ht）
+
+● DiskGenius（夸克）：https://pan.quark.cn/s/cb34c234afb4 （提取码：YYia）
+
+● EasyUEFI（夸克）：https://pan.quark.cn/s/6e8081d965bd （提取码：6SkQ）
+
+● 莫老师编辑过的menu.lst文件（夸克）：https://pan.quark.cn/s/86399d4d3db9 （提取码：TXRS）
 
 
 
@@ -363,7 +375,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● EKA2L1（Github）：https://github.com/EKA2L1/EKA2L1/releases
 
-● 诺基亚手机固件（夸克）：https://pan.quark.cn/s/fa71855f2778 （提取码：qME9）
+● 诺基亚手机固件（天翼云盘）：https://cloud.189.cn/web/share?code=7RvY3yNbUfUj （访问码：7hi7）
 
 ● 诺基亚塞班平台游戏（视频中出现的几款）：https://pan.quark.cn/s/81d40d77dfa4 （提取码：nTJR）
 
