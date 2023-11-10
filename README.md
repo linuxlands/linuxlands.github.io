@@ -26,6 +26,15 @@
 
 <HR>
 
+##### **EP137 - 更简单、更易用的多系统引导工具，Grub2Win使用指南**
+
+● GRUB2WIN（官方下载）：https://sourceforge.net/projects/grub2win/files
+
+● GRUB2WIN（夸克）：https://pan.quark.cn/s/1f4bd39600f9 （提取码：5cSt）
+
+
+
+<HR>
 
 ##### **EP136 - 我将以摸鱼形态舒适躺平？对比同价位产品，聊聊Ergoup有谱E20人体工学椅**
 
