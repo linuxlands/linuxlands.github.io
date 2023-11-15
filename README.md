@@ -26,6 +26,21 @@
 
 <HR>
 
+##### **EP138 - 所有版本通用！保留现有数据，Switch大气层及系统离线升级指南**
+
+
+● 大气层+特斯拉整合包（最新）：https://pan.baidu.com/s/1Aq53TNTUTccNkQRAcg_Y3Q?pwd=xlcj
+
+● 大气层+特斯拉整合包（1.6.2）：https://pan.quark.cn/s/cab8cf5ddbe4 （提取码：fpaw）
+
+● Switch离线固件（最新）：https://darthsternie.net/switch-firmwares
+
+● Switch离线固件（17.0.0）：https://pan.quark.cn/s/fd6d4dbc03b0 （提取码：bfha）
+
+
+
+<HR>
+
 ##### **EP137 - 更简单、更易用的多系统引导工具，Grub2Win使用指南**
 
 ● GRUB2WIN（官方下载）：https://sourceforge.net/projects/grub2win/files
