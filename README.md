@@ -26,6 +26,21 @@
 
 <HR>
 
+##### **EP139 - 有手就行！3分钟，让你在安卓手机上玩红警**
+
+● 红警2共和国之辉手机直装版：https://pan.xunlei.com/s/VNjz83utBO5-MMY4to9-IBh4A1#
+ （提取码：ix96）
+
+● 红警2尤里的复仇手机直装版：https://pan.xunlei.com/s/VNjz8SyJYBdNLVPygr-_ou_BA1#
+ （提取码：kszc）
+
+● 红警2尤里的复仇PC绿色版：https://pan.xunlei.com/s/VNjz8WwpAkk-pyFa62Hye40MA1#
+ （提取码：ycfj）
+
+
+
+<HR>
+
 ##### **EP138 - 所有版本通用！保留现有数据，Switch大气层及系统离线升级指南**
 
 
