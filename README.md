@@ -46,11 +46,11 @@
 
 ● 大气层+特斯拉整合包（最新）：https://pan.baidu.com/s/1Aq53TNTUTccNkQRAcg_Y3Q?pwd=xlcj
 
-● 大气层+特斯拉整合包（1.6.2）：https://pan.quark.cn/s/cab8cf5ddbe4 （提取码：fpaw）
+● 大气层+特斯拉整合包（1.6.2）：https://pan.xunlei.com/s/VNk5PnJN6BBccDaTJ3N0LqInA1?pwd=kncn#
 
 ● Switch离线固件（最新）：https://darthsternie.net/switch-firmwares
 
-● Switch离线固件（17.0.0）：https://pan.quark.cn/s/fd6d4dbc03b0 （提取码：bfha）
+● Switch离线固件（17.0.0）：https://pan.xunlei.com/s/VNk5Pkrr2iT7Bu3Ps6B5sSDfA1?pwd=ai5b#
 
 
 
@@ -60,7 +60,7 @@
 
 ● GRUB2WIN（官方下载）：https://sourceforge.net/projects/grub2win/files
 
-● GRUB2WIN（夸克）：https://pan.quark.cn/s/1f4bd39600f9 （提取码：5cSt）
+● GRUB2WIN：https://pan.xunlei.com/s/VNk5Pf_npGPEyoQs_lmtdW0TA1?pwd=bcr4#
 
 
 
@@ -78,15 +78,15 @@
 
 ● GRUB4DOS For UEFI（官方下载）：http://grub4dos.chenall.net
 
-● GRUB4DOS For UEFI（夸克）：链接：https://pan.quark.cn/s/67de357b297d （提取码：nL2n）
+● GRUB4DOS For UEFI：https://pan.xunlei.com/s/VNk5PIa0UkGQ_1nr9A88KdHoA1?pwd=8pa9#
 
-● GRUB4DOS For UEFI主题（夸克）：https://pan.quark.cn/s/aad6e529a88d （提取码：s8ht）
+● GRUB4DOS For UEFI主题：https://pan.xunlei.com/s/VNk5PLbL5FdLSwSumu4qor__A1?pwd=ztxt#
 
-● DiskGenius（夸克）：https://pan.quark.cn/s/cb34c234afb4 （提取码：YYia）
+● DiskGenius：https://pan.xunlei.com/s/VNk54oe8xKL5LjMeqcqCoeCrA1?pwd=4tef#
 
-● EasyUEFI（夸克）：https://pan.quark.cn/s/6e8081d965bd （提取码：6SkQ）
+● EasyUEFI：https://pan.xunlei.com/s/VNk5LslzIGBWjXwhqCNa5-N4A1?pwd=e9r4#
 
-● 莫老师编辑过的menu.lst文件（夸克）：https://pan.quark.cn/s/86399d4d3db9 （提取码：TXRS）
+● 莫老师编辑过的menu.lst文件：https://pan.xunlei.com/s/VNk5POfM1jRh0SMFpMORWgprA1?pwd=z2r6#
 
 
 
@@ -102,9 +102,9 @@
 
 ##### **EP133 - 利用MSMG Toolkit，精简一个独属于自己的Windows系统**
 
-● MSMG Toolkit 13.6中文版：https://pan.quark.cn/s/33201beb6322 （提取码：fHsn）
+● MSMG Toolkit 13.6中文版：https://pan.xunlei.com/s/VNk5PAZG2Njxx7P0PkG4S43nA1?pwd=ian9#
 
-● MSMG Toolkit 组合包（适用于集成功能，精简系统不需要这个）：https://pan.quark.cn/s/a9ded390ce15 （提取码：9jmH）
+● MSMG Toolkit 组合包（适用于集成功能，精简系统不需要这个）：https://pan.xunlei.com/s/VNk5PD8s7rSMkjx14qo_nE_cA1?pwd=xb7h#
 
 ● Windows原版镜像下载：https://hellowindows.cn
 
@@ -133,15 +133,15 @@
 
 ##### **EP130 - 时代的眼泪！给歌华链路由刷入Breed不死及第三方固件**
 
-● 1.21降级固件：https://pan.quark.cn/s/702485fcea23 (提取码：x1uC)
+● 1.21降级固件：https://pan.xunlei.com/s/VNk5OuStYBdNLVPygr-btRe3A1?pwd=eei8#
 
-● Breed不死固件：https://pan.quark.cn/s/d38af90a0c92 (提取码：e5Wq)
+● Breed不死固件：https://pan.xunlei.com/s/VNk5OwrLpGPEyoQs_lmtdM93A1?pwd=svsu#
 
-● Lede第三方固件：https://pan.quark.cn/s/e1d27c17cf5d (提取码：dJw5)
+● Lede第三方固件：https://pan.xunlei.com/s/VNk5P1rz3BHVEPcnq-sD3GesA1?pwd=djj7#
 
-● tftpd64：https://pan.quark.cn/s/f3e90eeb5bf1 (提取码：hj8Z)
+● tftpd64：https://pan.xunlei.com/s/VNk5P5BJ7rSMkjx14qo_nCvFA1?pwd=bndr#
 
-● hfs：https://pan.quark.cn/s/e900c95c7fb0 (提取码：tQXD)
+● hfs：https://pan.xunlei.com/s/VNk5P-GbIGBWjXwhqCNa5tE3A1?pwd=e999#
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
@@ -155,7 +155,7 @@
 
 ● Windows原版镜像下载：https://hellowindows.cn
 
-● Windows系统无人值守应答脚本：https://pan.quark.cn/s/d804f05a3382 （提取码：KzRy）
+● Ventoy用Windows系统安装脚本：https://pan.xunlei.com/s/VNk5OlzPtm_GLusQQpw40eAnA1?pwd=ux29#
 
 
 
@@ -165,9 +165,9 @@
 
 ● Ventoy（官网）：https://www.ventoy.net/cn
 
-● Ventoy引导Linux用数据持久化dat文件：https://pan.quark.cn/s/cdde1dd247f0 （提取码：jEU4）
+● Ventoy引导Linux用数据持久化dat文件：https://pan.xunlei.com/s/VNk5OjDSwV0vx4K_4IASf7I6A1?pwd=3aea#
 
-● Ventoy用Windows系统安装脚本：https://pan.quark.cn/s/d804f05a3382 （提取码：KzRy）
+● Ventoy用Windows系统安装脚本：https://pan.xunlei.com/s/VNk5OlzPtm_GLusQQpw40eAnA1?pwd=ux29#
 
 
 
@@ -187,11 +187,11 @@
 
 ##### **EP126 - 一台0.1L的软路由能做什么？H28K小白入坑指南**
 
-● 瑞芯微开发工具（夸克）：https://pan.quark.cn/s/e2cd27aee248 （提取码：sUAT）
+● 瑞芯微开发工具：https://pan.xunlei.com/s/VNk5OeEKPUtTY9X4quPABTiyA1?pwd=5my8#
 
-● H28K OpenWRT固件（夸克）：https://pan.quark.cn/s/9f80ca96fa93 （提取码：nsnb）
+● H28K OpenWRT固件：https://pan.xunlei.com/s/VNk5Ob2TG4BcafuyoVEKOdd-A1?pwd=g7c5#
 
-● H28K Ubuntu固件（夸克）：https://pan.quark.cn/s/c23484d78386 （提取码：yi7Y）
+● H28K Ubuntu固件：https://pan.xunlei.com/s/VNk5OYKh1jRh0SMFpMORWU39A1?pwd=h56y#
 
 ● H28K iStoreOS固件：https://fw.koolcenter.com/iStoreOS/h28k/
 
@@ -213,13 +213,13 @@ smbpasswd -a root
 
 ● Batocera（官网）：https://batocera.org
 
-● Batocera基础整合包by_溅の小孩（夸克）：https://pan.quark.cn/s/7cbc6489644c （提取码：NTKh）
+● Batocera基础整合包by_溅の小孩：https://pan.xunlei.com/s/VNk5OOSKxKL5LjMeqcqCtfgyA1?pwd=uf7e#
 
-● Batocera 64GB整合包by_溅の小孩（夸克）：https://pan.quark.cn/s/915442a1e902 （提取码：3vJz）
+● Batocera 64GB整合包by_溅の小孩：https://pan.xunlei.com/s/VNk5OKlgBI5qEBkDv3tZyIM_A1?pwd=eu6g#
 
 ● Ventoy（官网）：https://www.ventoy.net/cn
 
-● DiskGenius（夸克）：https://pan.quark.cn/s/cb34c234afb4 （提取码：YYia）
+● DiskGenius：https://pan.xunlei.com/s/VNk54oe8xKL5LjMeqcqCoeCrA1?pwd=4tef#
 
 ● BalenaEtcher（官网）：https://www.balena.io/etcher
 
@@ -241,7 +241,7 @@ smbpasswd -a root
 
 ● ARPL引导镜像，来自wjz304（Github）：https://github.com/wjz304/arpl-zh_CN/releases
 
-● ARPL引导镜像，来自wjz304（夸克）：https://pan.quark.cn/s/6fb7c4611afe （提取码：HbAC）
+● ARPL引导镜像，来自wjz304：https://pan.xunlei.com/s/VNk5OGA47rSMkjx14qo_n-yAA1?pwd=ys6e#
 
 
 
@@ -251,7 +251,7 @@ smbpasswd -a root
 
 ● 小米路由器修复工具+ROM：http://www.miwifi.com/miwifi_download.html
 
-● AX6S开发版固件1.2.7（夸克）：https://pan.quark.cn/s/218a500b09f3 （提取码：ig9r）
+● AX6S开发版固件1.2.7：https://pan.xunlei.com/s/VNk56JDM8TLSjRuHEHUW1ztWA1?pwd=rs78#
 
 
 
@@ -283,11 +283,9 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● 小米路由器ROOT密码计算网站：https://blog.isteed.cc/post/miwifi-sshpwd
 
-● 小米路由器ROOT密码计算网站（本地离线版）：https://pan.quark.cn/s/837bae44bde1 （提取码：eRV8）
+● 小米路由器ROOT密码计算网站（本地离线版）：https://pan.xunlei.com/s/VNk5Nsto15IO-1ZJmZdduDUvA1?pwd=95am#
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
-
-● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f （提取码：Wp7M）
 
 
 
@@ -305,11 +303,11 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● ReviOS（官网）：https://revi.cc/
 
-● ReviOS镜像分流（夸克）：https://pan.quark.cn/s/9b53a3adb7f1 （提取码：XAAf）
+● ReviOS镜像分流：https://pan.xunlei.com/s/VNk5N_LH3BHVEPcnq-sD2t_bA1?pwd=45px#
 
 ● EasyEC（官网）：https://firpe.cn/page-196
 
-● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
+● EasyRC（夸克）：https://pan.xunlei.com/s/VNk5Kj5jERt2E4G6y-6wveVpA1?pwd=5zew#
 
 ● FirePE（官网）：https://firpe.cn/page-247
 
@@ -332,7 +330,9 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● SysRi（文档）：https://docs.sysri.cn
 
+● EasyRC（官网）：https://firpe.cn/page-196
 
+● EasyRC（推荐）：https://pan.xunlei.com/s/VNk5Kj5jERt2E4G6y-6wveVpA1?pwd=5zew#
 
 <HR>
 
@@ -346,11 +346,11 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● AetherSX2（PS2模拟器）：https://www.aethersx2.com/archive
 
-● AetherSX2（模拟器）BIOS合集：https://pan.quark.cn/s/2b3a6c9c6141 （提取码：4zRJ）
+● AetherSX2（模拟器）BIOS合集：https://pan.xunlei.com/s/VNk5JR398TLSjRuHEHUW5OxdA1?pwd=tzgv#
 
 ● YUZU（SWITCH模拟器）：https://yuzu-emu.org/downloads/#android
 
-● YUZU（骁龙8Gen2 GPU驱动）：https://pan.quark.cn/s/a87ca829a89e （提取码：GBDL）
+● YUZU（骁龙8Gen2 GPU驱动）：https://pan.xunlei.com/s/VNk5NGBiW8v3OZZXoIvK5N-bA1?pwd=bmdk#
 
 
 
@@ -366,15 +366,15 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● ToDesk（官网）：https://www.todesk.comf
 
-● EasyEC（官网）：https://firpe.cn/page-196
+● EasyRC官网：https://firpe.cn/page-196
 
-● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
+● EasyRC：https://pan.xunlei.com/s/VNk5Kj5jERt2E4G6y-6wveVpA1?pwd=5zew#
 
-● UltraISO软碟通下载（夸克）：https://pan.quark.cn/s/2c6cabad3aa5 （提取码：T8r3）
+● 软碟通：https://pan.xunlei.com/s/VNk54ar_rFnVHwWuCCLPlHDnA1?pwd=zura#
 
-● 雷电PE win10内核（夸克）：https://pan.quark.cn/s/421cab0a1b1e （提取码：V66Y）
+● 雷电PE win10内核：https://pan.xunlei.com/s/VNk5MrmbxKL5LjMeqcqCtHgMA1?pwd=fr6z#
 
-● 雷电PE win11内核（夸克）：https://pan.quark.cn/s/5d4f7969ab78 （提取码：wXmZ）
+● 雷电PE win11内核：https://pan.xunlei.com/s/VNk5Mumttm_GLusQQpw40Bt1A1?pwd=86m5#
 
 
 
@@ -392,9 +392,9 @@ export url='https://raw.fastgit.org/juewuy/ShellClash/master' && sh -c "$(curl -
 
 ● AtalsOS（官网）：https://atlasos.net/
 
-● EasyEC（官网）：https://firpe.cn/page-196
+● EasyRC官网：https://firpe.cn/page-196
 
-● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
+● EasyRC：https://pan.xunlei.com/s/VNk5Kj5jERt2E4G6y-6wveVpA1?pwd=5zew#
 
 ● Win10 22H2（微软官方节点）：*请使用迅雷等第三方下载软件进行下载*
 
@@ -410,15 +410,18 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ##### **EP112 - 死去的回忆涌上心头，使用EKA2L1模拟器，在安卓系统上模拟运行诺基亚塞班Symbian游戏**
 
-● EKA2L1（夸克）：https://pan.quark.cn/s/95cce71dce6c （提取码：n4TG）
+● EKA2L1：https://pan.xunlei.com/s/VNk5MLfFIGBWjXwhqCNa5Ct1A1?pwd=iywh#
 
 ● EKA2L1（Github）：https://github.com/EKA2L1/EKA2L1/releases
 
 ● 诺基亚手机固件（天翼云盘）：https://cloud.189.cn/web/share?code=7RvY3yNbUfUj （访问码：7hi7）
 
-● 诺基亚塞班平台游戏（视频中出现的几款）：https://pan.quark.cn/s/81d40d77dfa4 （提取码：nTJR）
+● 诺基亚手机固件（迅雷云）：https://pan.xunlei.com/s/VNk5MOjANXDdeNQ9pAxTTjD0A1?pwd=9zt3#
 
-● 诺基亚塞班平台游戏（夸克）：https://pan.quark.cn/s/caae50a5f08d （提取码：fMz7）
+● 诺基亚塞班平台游戏（视频中出现的几款）：https://pan.xunlei.com/s/VNk5MZ8lXvg08QJDZjuaMvAzA1?pwd=j2dd#
+
+● 诺基亚塞班平台游戏：https://pan.xunlei.com/s/VNk5MaX_6BBccDaTJ3N0L6R9A1?pwd=wsfx#
+
 
 <HR>
 
@@ -434,7 +437,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● AtlasOS（官网）：https://atlasos.net
 
-● Tiny10（夸克）：https://pan.quark.cn/s/9c7c1803d331 （提取码：zcv2）
+● Tiny10：https://pan.xunlei.com/s/VNk5MGyFux0lJYxAp3PSJOenA1?pwd=awzx#
 
 ● Tiny10（国外网盘，很慢）：https://archive.org/download/tiny-10_202301
 
@@ -446,8 +449,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ##### **EP110 - 第三方ROM更香？给小米平板2刷入LineageOS、RROS、RemixOS，支持双系统**
 
-● 小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（夸克）：https://pan.quark.cn/s/9d8ea291430a
- （提取码：byF9）
+● 小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（迅雷云）：https://pan.xunlei.com/s/VNk5M6wHERt2E4G6y-6wvyZ6A1?pwd=ssqq#
 
 ● 小米平板2专用PE+LineageOS+RROS+RemixOS固件+Windows固件（天翼云盘）：https://cloud.189.cn/t/7ZvaQrYF7ja2 （访问码: 5ucr）
 
@@ -469,7 +471,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● 亚马逊的蝴蝶小米平板2刷机疑难解答：[点此访问](https://mp.weixin.qq.com/s/q8L4YrGlhiaEkqmqG_oD7Q)
 
-● EasyUEFI（夸克）：https://pan.quark.cn/s/6e8081d965bd （提取码：6SkQ）
+● EasyUEFI：https://pan.xunlei.com/s/VNk5LslzIGBWjXwhqCNa5-N4A1?pwd=e9r4#
 
 <HR>
 
@@ -525,19 +527,19 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● AltStore（官网）：https://altstore.io
 
-● Altinstaller（夸克）：https://pan.quark.cn/s/6759ff85a680 （提取码：VX74）
+● Altinstaller：https://pan.xunlei.com/s/VNk5LfJcJKeWfSkydRQFfk2MA1?pwd=zaxk#
 
 ● AltStore（GitHub）：https://github.com/altstoreio/AltStore
 
-● UTM安装包（夸克）：https://pan.quark.cn/s/d129a971e461 （提取码：N83N）
+● UTM安装包：https://pan.xunlei.com/s/VNk5LXyNbl2ACApiQ2CJFtk2A1?pwd=8qhu#
 
-● UTM SE安装包（夸克）：https://pan.quark.cn/s/5840b0d37dec （提取码：yk1c）
+● UTM SE安装包：https://pan.xunlei.com/s/VNk5LcUipGPEyoQs_lmtcXLAA1?pwd=d5hx#
 
 ● UTM（GitHub）：https://github.com/utmapp/UTM
 
 ● 爱思助手（官网）https://www.i4.cn
 
-● Lizip整合的Windows8.1（夸克）：https://pan.quark.cn/s/5c0d5e529a1e （提取码：3b69）
+● Lizip整合的Windows8.1：https://pan.xunlei.com/s/VNk5LiJtySs4fHIJ19uRxhjfA1?pwd=9adc#
 
 ● Lizip UTM整合第一弹（专栏）：https://www.bilibili.com/read/cv18221663
 
@@ -549,13 +551,13 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ##### **EP104  - 所有机型通用，利用Limbo虚拟机，给手机安装Windows**
 
-● Limbo模拟器增强汉化版（夸克）：https://pan.quark.cn/s/231ebe4975aa （提取码：T7Fn）
+● Limbo模拟器增强汉化版：https://pan.xunlei.com/s/VNk5LL_PERt2E4G6y-6wvmt4A1?pwd=rcsv#
 
-● ZArchives Pro（夸克）：https://pan.quark.cn/s/03402d48bccb （提取码：4K9V）
+● ZArchives Pro：https://pan.xunlei.com/s/VNk5LI7KozLXOwwa88RaJkpKA1?pwd=qh9k#
 
-● Tiny Win7精简版系统（夸克）：https://pan.quark.cn/s/abdc692f728f (提取码：V12k)
+● Tiny Win7精简版系统：https://pan.xunlei.com/s/VNk5LP47IRecj059YBs3ZCYAA1?pwd=8mac#
 
-● Tiny XP精简版系统（夸克）：https://pan.quark.cn/s/1cad481062a7 (提取码：G4QZ)
+● Tiny XP精简版系统：https://pan.xunlei.com/s/VNk5LRq6IGBWjXwhqCNa4u9VA1?pwd=f88a#
 
 ○ 以下是需要敲的代码：
 
@@ -575,9 +577,9 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ##### **EP102 - 可能是维护功能最强大的PE，USBOS使用指南**
 
-● USBOS标准版（夸克）：https://pan.quark.cn/s/ad744e1fcfbf （提取码：xijv）
+● USBOS标准版：https://pan.xunlei.com/s/VNk5L7M93BHVEPcnq-sD2IiqA1?pwd=maha#
 
-● USBOS增强版（夸克）：https://pan.quark.cn/s/c62e48b74caf （提取码：WkJt）
+● USBOS增强版：https://pan.xunlei.com/s/VNk5L3hNpGPEyoQs_lmtcMQ4A1?pwd=vk4u#
 
 ● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
@@ -593,7 +595,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● EasyRC官网：https://firpe.cn/page-196
 
-● EasyRC（夸克）：https://pan.quark.cn/s/815ea8cca062 （提取码：vKcm）
+● EasyRC：https://pan.xunlei.com/s/VNk5Kj5jERt2E4G6y-6wveVpA1?pwd=5zew#
 
 <HR>
 
@@ -607,13 +609,11 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● Armbian固件（Github）：https://github.com/hzyitc/armbian-onecloud/releases
 
-● Armbian固件（夸克）：https://pan.quark.cn/s/a5a88dcf893f （提取码：vfKz）
+● Armbian固件：https://pan.xunlei.com/s/VNk5KagRG4BcafuyoVEKNh8tA1?pwd=2gmb#
 
-● 晶晨烧录工具（夸克）：https://pan.quark.cn/s/5a8baaaa265f （提取码：rc64）
+● 晶晨烧录工具：https://pan.xunlei.com/s/VNk5HFcOFNJWkYeHpee6KIGpA1?pwd=6mmn#
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
-
-● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f （提取码：Wp7M）
 
 ○ 以下是需要敲的代码：
 
@@ -701,9 +701,9 @@ chmod 755 linkease.arm
 
 ##### **EP96 - 时代的眼泪，给玩客云刷安卓系统，变身电视盒子**
 
-● 英菲克固件（夸克）：https://pan.quark.cn/s/6130585e05d7 （提取码：cX7j）
+● 英菲克固件：https://pan.xunlei.com/s/VNk5KVXtux0lJYxAp3PSJ-bDA1?pwd=pqdw#
 
-● 晶晨烧录工具（夸克）：https://pan.quark.cn/s/5a8baaaa265f （提取码：rc64）
+● 晶晨烧录工具：https://pan.xunlei.com/s/VNk5HFcOFNJWkYeHpee6KIGpA1?pwd=6mmn#
 
 <HR>
 
@@ -711,13 +711,13 @@ chmod 755 linkease.arm
 
 ● Android+HybirdELEC三合一线刷包（Github）：https://github.com/7Ji/HybridELEC/tree/android-burning
 
-● Android+HybirdELEC三合一线刷包（无需解压）：https://pan.quark.cn/s/ae4eb9d74903 （提取码：g8M5）
+● Android+HybirdELEC三合一线刷包（无需解压）：https://pan.xunlei.com/s/VNk5KKzxpGPEyoQs_lmtcAznA1?pwd=cp9p#
 
 ● 三系统切换小工具（Github）：https://github.com/7Ji/HybridELEC_Rebooter
 
-● 三系统切换小工具（夸克）：https://pan.quark.cn/s/796cb0dfc496 （提取码：Yhzu）
+● 三系统切换小工具：https://pan.xunlei.com/s/VNk5KOUE6BBccDaTJ3N0KbRZA1?pwd=rxbx#
 
-● 晶晨烧录工具（夸克）：https://pan.quark.cn/s/5a8baaaa265f （提取码：rc64）
+● 晶晨烧录工具：https://pan.xunlei.com/s/VNk5HFcOFNJWkYeHpee6KIGpA1?pwd=6mmn#
 
 <HR>
 
@@ -725,11 +725,9 @@ chmod 755 linkease.arm
 
 ● OpenWRT固件（多种机型）：https://pan.baidu.com/s/1BIjHHfi90Oa7Le91Q8gkOg （提取码：02im）
 
-● OpenWRT固件（HK1专用）：https://pan.quark.cn/s/4b3cae72a6ae （提取码：scbY）
+● OpenWRT固件（HK1专用）：https://pan.xunlei.com/s/VNk5K4jonjRLAUM4NwWP-dBoA1?pwd=ajda#
 
 ● BalenaEtcher（官网）：https://www.balena.io/etcher
-
-● BalenaEtcher（夸克）：https://pan.quark.cn/s/3cd773a00d9d （提取码：3pMK）
 
 ○ 需要加入防火墙的自定义代码：
 
@@ -751,7 +749,7 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ##### **EP92 - 电视盒子刷废了？教你强刷救砖固件，抢救变砖的盒子**
 
-● 晶晨烧录工具（夸克）：https://pan.quark.cn/s/5a8baaaa265f （提取码：rc64）
+● 晶晨烧录工具：https://pan.xunlei.com/s/VNk5HFcOFNJWkYeHpee6KIGpA1?pwd=6mmn#
 
 ● 智能电视论坛：https://www.znds.com
 
@@ -777,7 +775,7 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● BalenaEtcher：https://www.balena.io/etcher
 
-● DiskGenius（夸克）：https://pan.quark.cn/s/cb34c234afb4 （提取码：YYia）
+● DiskGenius：https://pan.xunlei.com/s/VNk54oe8xKL5LjMeqcqCoeCrA1?pwd=4tef#
 
 <HR>
 
@@ -791,17 +789,17 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● 朝阳PE（官网）：http://wintogo-lzp.freeee.ml
 
-● 朝阳PE（夸克）：https://pan.quark.cn/s/7a53c17567cc （提取码：zmEu）
+● 朝阳PE：https://pan.xunlei.com/s/VNk5Jdn-dEc8DTF2SEm0k_twA1?pwd=pzsk#
 
 ● 冰封PE（官网）：http://www.bfgho.com
 
-● 冰封PE（夸克）：https://pan.quark.cn/s/652f303a9e6f （提取码：kSLJ）
+● 冰封PE：https://pan.xunlei.com/s/VNk5JW3d2iT7Bu3Ps6B5qv6VA1?pwd=6ufj#
 
 ● CMDPE（官网）：https://www.cmdpe.com
 
-● CMDPE（夸克）：https://pan.quark.cn/s/a54d07759eed （提取码：utJ2）
+● CMDPE：https://pan.xunlei.com/s/VNk5JaiNFNJWkYeHpee6Kw2DA1?pwd=me9q#
 
-● 无垠PE（夸克）：https://pan.quark.cn/s/4af1d7274c94 （提取码：AR2s）
+● 无垠PE：https://pan.xunlei.com/s/VNk5JZ30FNJWkYeHpee6KvDPA1?pwd=883d#
 
 <HR>
 
@@ -815,11 +813,11 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● AetherSX2（模拟器）：https://www.aethersx2.com/archive
 
-● AetherSX2（模拟器）BIOS合集：https://pan.quark.cn/s/2b3a6c9c6141 （提取码：4zRJ）
+● AetherSX2（模拟器）BIOS合集：https://pan.xunlei.com/s/VNk5JR398TLSjRuHEHUW5OxdA1?pwd=tzgv#
 
-● 蛋蛋（模拟器）整合版：https://pan.quark.cn/s/9e4f7fba7423 （提取码：V213）
+● 蛋蛋（模拟器）整合版：https://pan.xunlei.com/s/VNk5JNitNXDdeNQ9pAxTT039A1?pwd=qn2e#
 
-● Exagear（模拟器）：https://pan.quark.cn/s/208e632debe4 （提取码：sWKG）
+● Exagear（模拟器）：https://pan.xunlei.com/s/VNk5JKssEtnU3SRWlsqxxcJ1A1?pwd=v8tu#
 
 <HR>
 
@@ -829,7 +827,7 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● GRUB主题下载（可能需要魔法）：https://www.gnome-look.org
 
-● 莫老师的Ventoy主题（夸克）：https://pan.quark.cn/s/3fdcc6a8068e （提取码：51E5）
+● 莫老师的Ventoy主题：https://pan.xunlei.com/s/VNk5JFxmrFnVHwWuCCLPouCPA1?pwd=w8jy#
 
 <HR>
 
@@ -841,7 +839,11 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ##### **EP85 - 真 · 一键重装系统！CmzPrep，安装使用指南！**
 
-● CmzPrep下载（夸克）：https://pan.quark.cn/s/321440324926 （提取码：xiuA）
+● CmzPrep下载（不推荐使用）：https://pan.xunlei.com/s/VNk5J3G2JKeWfSkydRQFf6b0A1?pwd=v2nc#
+
+● EasyRC一键重装（推荐）：https://pan.xunlei.com/s/VNk5Kj5jERt2E4G6y-6wveVpA1?pwd=5zew#
+
+● EasyEC一键重装（官网）：https://firpe.cn/page-196
 
 <HR>
 
@@ -851,9 +853,9 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● rEFInd主题（可能需要魔法）：https://github.com/topics/refind-theme
 
-● DiskGenius（夸克）：https://pan.quark.cn/s/cb34c234afb4 （提取码：YYia）
+● DiskGenius：https://pan.xunlei.com/s/VNk54oe8xKL5LjMeqcqCoeCrA1?pwd=4tef#
 
-● rEFInd中文说明文档（莫老师翻译）：https://pan.quark.cn/s/26c1345cb268 （提取码：SYKD）
+● rEFInd中文说明文档（莫老师翻译）：https://pan.xunlei.com/s/VNk5IopzIRecj059YBs3Yb-AA1?pwd=fjcj#
 
 ● rEFInd中文说明文档（Github）：https://github.com/nixevol/rEFInd-zh_cn
 
@@ -877,7 +879,7 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● RetroArch模拟器（历史版本和测试版）：http://buildbot.libretro.com/stable/1.14.0/nintendo/switch/libnx
 
-● RetroArch模拟器（前端nsp）：https://pan.quark.cn/s/15d01dffe9db  （提取码：myT3）
+● RetroArch模拟器（前端nsp）：https://pan.xunlei.com/s/VNk5Ii6aEtnU3SRWlsqxxRgLA1?pwd=wwrg#
 
 ● 阿里巴巴普惠体：https://www.alibabafonts.com/#/home
 
@@ -885,19 +887,19 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ##### **EP80 - Switch特斯拉插件使用指南，金手指、超频、底座转换一键使用**
 
-● 大气层1.4.0+特斯拉插件整合版（支持15.0.1系统）https://pan.quark.cn/s/4983acbfd78d  （提取码：dNhg）
+● 大气层1.4.0+特斯拉插件整合版（支持15.0.1系统）：https://pan.xunlei.com/s/VNk5IXGL15IO-1ZJmZddsu8VA1?pwd=p7is#
 
-● 特斯拉扩展插件：https://pan.quark.cn/s/63566a5dab7e （提取码：5VPk）
+● 特斯拉扩展插件：https://pan.xunlei.com/s/VNk5IPJIozLXOwwa88RaJ10GA1?pwd=mdgx#
 
 <HR>
 
 ##### **EP79 - 折腾版Switch Lite入手指南，验机、备份、更新一条龙教程**
 
-● 大气层1.4.0+特斯拉插件整合版（支持15.0.1系统）https://pan.quark.cn/s/4983acbfd78d （提取码：dNhg）
+● 大气层1.4.0+特斯拉插件整合版（支持15.0.1系统）：https://pan.xunlei.com/s/VNk5IXGL15IO-1ZJmZddsu8VA1?pwd=p7is#
 
-● 特斯拉扩展插件：https://pan.quark.cn/s/63566a5dab7e （提取码：5VPk）
+● 特斯拉扩展插件：https://pan.xunlei.com/s/VNk5IPJIozLXOwwa88RaJ10GA1?pwd=mdgx#
 
-● Switch15.0.1固件（夸克）：https://pan.quark.cn/s/3f141e20eefc （提取码：TfwW）
+● Switch15.0.1固件：https://pan.xunlei.com/s/VNk5IUQbvJFu5co0TUTtwyAJA1?pwd=ht37#
 
 <HR>
 
@@ -911,7 +913,7 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● 斗鱼PE生成器（官网）：https://winpemaker.ccpe.net
 
-● 斗鱼PE生成器（夸克）：https://pan.quark.cn/s/00a2bbf53548 （提取码：MsFV）
+● 斗鱼PE生成器：https://pan.xunlei.com/s/VNk5IL37rarbyd44WaKQzwZmA1?pwd=7ekv#
 
 ● 沉默的斗鱼（无忧启动论坛）：http://wuyou.net/forum.php?mod=viewthread&tid=432997
 
@@ -933,13 +935,13 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ● rEFInd主题（可能需要魔法）：https://github.com/topics/refind-theme
 
-● DiskGenius（夸克）：https://pan.quark.cn/s/cb34c234afb4 （提取码：YYia）
+● DiskGenius：https://pan.xunlei.com/s/VNk54oe8xKL5LjMeqcqCoeCrA1?pwd=4tef#
 
-● FirePE（官网）：https://firpe.cn/page-247
+● FirPE（官网）：https://firpe.cn/page-247
 
-● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
+● FirPE（安装程序）：https://pan.xunlei.com/s/VNk50T1jBI5qEBkDv3tZnEvRA1?pwd=rapq#
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
+● FirPE（iSO）：https://pan.xunlei.com/s/VNk50WRixKL5LjMeqcqCnhlzA1?pwd=tfjk#
 
 ○ minimal主题的生效代码（粘贴到refind.conf的最后）：
 
@@ -955,29 +957,31 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MacOS鼠标指针（蓝奏云）：https://wwof.lanzoul.com/ikvDC0mqxh9i (密码:hhxu)
 
+● MacOS鼠标指针（迅雷云）：https://pan.xunlei.com/s/VNk5HsoaIRecj059YBs3YMYpA1?pwd=xips#
+
 ● MacOS壁纸：https://512pixels.net/projects/default-mac-wallpapers-in-5k/?ref=toolsforyou
 
-● MacOS字体（夸克）：https://pan.quark.cn/s/38116d8d042b （提取码：Y3Py）
+● MacOS字体：https://pan.xunlei.com/s/VNk5I-HDxKL5LjMeqcqCs5L1A1?pwd=dayw#
 
-● Windows主题破解ultrauxthemepatcher（夸克）：https://pan.quark.cn/s/1c910d3db0cb （提取码：r7P1）
+● Windows主题破解ultrauxthemepatcher：https://pan.xunlei.com/s/VNk5I2mhERt2E4G6y-6wuz4-A1?pwd=m33v#
 
 <HR>
 
 ##### **EP73 - 大小核还能用吗？教你在8-13代酷睿平台安装Win7，以兼容旧软件**
 
-● FirePE（官网）：https://firpe.cn/page-247
+● FirPE（官网）：https://firpe.cn/page-247
 
-● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
+● FirPE（安装程序）：https://pan.xunlei.com/s/VNk50T1jBI5qEBkDv3tZnEvRA1?pwd=rapq#
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
+● FirPE（iSO）：https://pan.xunlei.com/s/VNk50WRixKL5LjMeqcqCnhlzA1?pwd=tfjk#
 
 ● 64位原版Win7镜像：https://hellowindows.cn/
 
 ● 64位魔改核显版Win7镜像（来自SMXDIY论坛xiaofeng）：http://www.smxdiy.com/space-uid-2.html  （需要付费）
 
-● 7、8、9代酷睿魔改版核显驱动（来自SMXDIY论坛xiaofeng）:https://pan.quark.cn/s/395593259b34 （提取码：vfXr）
+● 7、8、9代酷睿魔改版核显驱动（来自SMXDIY论坛xiaofeng）：https://pan.xunlei.com/s/VNk5HesVnjRLAUM4NwWOzwveA1?pwd=2dqm#
 
-● ASUS EZ Installer USB3/NVME注入工具：https://pan.quark.cn/s/ee318be5fc3a （提取码：xVBq）
+● ASUS EZ Installer USB3/NVME注入工具：https://pan.xunlei.com/s/VNk5HkgCvJFu5co0TUTtwlzzA1?pwd=uqcs#
 
 ● 国外大佬USB3.0驱动：[点此访问](https://winraid.level1techs.com/t/outdated-usb-3-0-3-1-drivers-original-and-modded/30871)
 
@@ -1015,25 +1019,25 @@ include themes/rEFInd-minimal/theme.conf
 
 ● NTLite（官网）：https://www.ntlite.com/download
 
-● NTLite（夸克）：https://pan.quark.cn/s/27c8507201c7 （提取码：1H85）
+● NTLite：https://pan.xunlei.com/s/VNk5HYOxbl2ACApiQ2CJEwL-A1?pwd=64p8#
 
 ● VM虚拟机：https://customerconnect.vmware.com/downloads
 
-● FirePE（官网）：https://firpe.cn/page-247
+● FirPE（官网）：https://firpe.cn/page-247
 
-● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
+● FirPE（安装程序）：https://pan.xunlei.com/s/VNk50T1jBI5qEBkDv3tZnEvRA1?pwd=rapq#
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
+● FirPE（iSO）：https://pan.xunlei.com/s/VNk50WRixKL5LjMeqcqCnhlzA1?pwd=tfjk#
 
-● Easy Sysprep（夸克）：https://pan.quark.cn/s/f998308d889f （提取码：QR3p）
+● Easy Sysprep：https://pan.xunlei.com/s/VNk5HVehrarbyd44WaKQzZI8A1?pwd=d6c5#
 
 <HR>
 
 ##### **EP67 - 淘汰的小米盒子不要扔，刷个机就能变身电影游戏神器**
 
-● 晶晨烧录工具（夸克）：https://pan.quark.cn/s/5a8baaaa265f （提取码：rc64）
+● 晶晨烧录工具：https://pan.xunlei.com/s/VNk5HFcOFNJWkYeHpee6KIGpA1?pwd=6mmn#
 
-● HybridELEC固件（夸克）：https://pan.quark.cn/s/caa83e5a96bf （提取码：1A3w）
+● HybridELEC固件：https://pan.xunlei.com/s/VNk5HI5vPUtTY9X4quPA9bgUA1?pwd=n6ga#
 
 <HR>
 
@@ -1051,19 +1055,19 @@ include themes/rEFInd-minimal/theme.conf
 
 ##### **EP64 - 以雷电PE为框架，改造并DIY一个独属于自己的PE（第二季）**
 
-● 雷电PE（win10内核）：https://pan.quark.cn/s/f6a1315db06c （提取码：UJWM）
+● 雷电PE（win10内核）：https://pan.xunlei.com/s/VNk54f_h8TLSjRuHEHUW1bBVA1?pwd=y9fv#
 
-● 雷电PE（win11内核）：https://pan.quark.cn/s/211baf13a910 （提取码：YfZw）
+● 雷电PE（win11内核）：https://pan.xunlei.com/s/VNk54iHu2Njxx7P0PkG4N4F0A1?pwd=gpjx#
 
-● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/bdf3e48ac380 （提取码：y6UN）（解压密码：zxmls，解压出来的PDF文件改后缀名为zip再解压一次）
+● 雷电PE外置扩展工具：https://pan.xunlei.com/s/VNk54UcmRBu3hI7OR164DjZ4A1?pwd=ykhv#
 
 ● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
-● 镜像文件写入U盘小工具（夸克）：https://pan.quark.cn/s/4aa73f87c706 （提取码：6jPb）
+● 镜像文件写入U盘小工具：https://pan.xunlei.com/s/VNk5Gu6Z2iT7Bu3Ps6B5q8LzA1?pwd=cijv#
 
-● Dism++（夸克）：https://pan.quark.cn/s/af4d1d4452fb （提取码：cu96）
+● Dism++：https://pan.xunlei.com/s/VNk5GxQXERt2E4G6y-6wuhuLA1?pwd=xjr6#
 
-● UltraISO软碟通下载（夸克）：https://pan.quark.cn/s/2c6cabad3aa5 （提取码：T8r3）
+● 软碟通：https://pan.xunlei.com/s/VNk54ar_rFnVHwWuCCLPlHDnA1?pwd=zura#
 
 <HR>
 
@@ -1071,23 +1075,23 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f （提取码：Wp7M）
+● MobaXterm：https://pan.xunlei.com/s/VNk56NQHERt2E4G6y-6ws3OoA1?pwd=mx7q#
 
 ● Kodi 安卓客户端：https://kodi.tv/download
 
-● Kodi Jellyfin插件库：https://pan.quark.cn/s/47bd1455444c （提取码：NegW）
+● Kodi Jellyfin插件库：https://pan.xunlei.com/s/VNk5Gp9FEbp7a3UVU3wa9_INA1?pwd=nxtu#
 
 ● jellyfin 安卓客户端（官网）：https://repo.jellyfin.org/releases/client/android/
 
-● jellyfin 安卓客户端（夸克）：https://pan.quark.cn/s/2c225a97abbb （提取码：uP9c）
+● jellyfin 安卓客户端：https://pan.xunlei.com/s/VNk5GkH62Njxx7P0PkG4Q2v2A1?pwd=yhyk#
 
 ● jellyfin 安卓TV客户端（官网）：https://repo.jellyfin.org/releases/client/androidtv/
 
-● jellyfin 安卓TV客户端（夸克）：https://pan.quark.cn/s/153057b812a7 （提取码：1szD）
+● jellyfin 安卓TV客户端：https://pan.xunlei.com/s/VNk5Gh0vbl2ACApiQ2CJEhslA1?pwd=zba4#
 
-● MX Player（安卓32位）：https://pan.quark.cn/s/3f2f8d71f075 （提取码：FNP6）
+● MX Player（安卓32位）：https://pan.xunlei.com/s/VNk5Ga3XIRecj059YBs3Y01cA1?pwd=37wh#
 
-● MX Player（安卓64位）：https://pan.quark.cn/s/3eee283001cf （提取码：CNnL）
+● MX Player（安卓64位）：https://pan.xunlei.com/s/VNk5Gcz-UkGQ_1nr9A88IPCDA1?pwd=twxp#
 
 ● jellyfin iOS客户端：https://apps.apple.com/cn/app/id1480192618
 
@@ -1099,7 +1103,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f （提取码：Wp7M）
+● MobaXterm：https://pan.xunlei.com/s/VNk56NQHERt2E4G6y-6ws3OoA1?pwd=mx7q#
 
 <HR>
 
@@ -1107,22 +1111,22 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm（夸克）：https://pan.quark.cn/s/34923d00de9f （提取码：Wp7M）
+● MobaXterm：https://pan.xunlei.com/s/VNk56NQHERt2E4G6y-6ws3OoA1?pwd=mx7q#
 
-● AX6S开发版固件1.2.7（夸克）：https://pan.quark.cn/s/218a500b09f3 （提取码：ig9r）
+● AX6S开发版固件1.2.7：https://pan.xunlei.com/s/VNk56JDM8TLSjRuHEHUW1ztWA1?pwd=rs78#
 
-● AX6S Openwrt固件（夸克）：https://pan.quark.cn/s/e9035b0e8f5f （提取码：79Nm）
+● AX6S Openwrt固件：https://pan.xunlei.com/s/VNk56DR6BI5qEBkDv3tZpm9yA1?pwd=eyge#
 
-● WinSCP官网（夸克）：https://pan.quark.cn/s/a88f1af7a55b （提取码：tqPk）
+● WinSCP官网：https://pan.xunlei.com/s/VNk56AMb1jRh0SMFpMORS1ySA1?pwd=q58n#
 
-● 小米路由器修复工具（夸克）：https://pan.quark.cn/s/c95984fed5ba （提取码：YWBv）
+● 小米路由器修复工具：https://pan.xunlei.com/s/VNk56GUvIGBWjXwhqCNa0mTBA1?pwd=jsbh#
 
 ● 小米路由器官方刷机教程：
 https://web.vip.miui.com/page/info/mio/mio/detail?postId=19134127&app_version=dev.20051
 
 ● 小米路由器ROOT密码计算网站：https://blog.isteed.cc/post/miwifi-sshpwd
 
-● 小米路由器ROOT密码计算网站（本地离线版）：https://pan.quark.cn/s/837bae44bde1 （提取码：eRV8）
+● 小米路由器ROOT密码计算网站（本地离线版）：https://pan.xunlei.com/s/VNk5Nsto15IO-1ZJmZdduDUvA1?pwd=95am#
 
 ○ 获取SSH权限的三条命令（Telnet中输入）：
 
@@ -1160,7 +1164,7 @@ tracert www.baidu.com
 
 ● Ventoy的Linux支持插件：https://github.com/ventoy/vtoyboot/releases
 
-● Ventoy的Linux支持插件（夸克）：https://pan.quark.cn/s/fad03ba11d3e （提取码：8ayF）
+● Ventoy的Linux支持插件：https://pan.xunlei.com/s/VNk563wetm_GLusQQpw3wiOzA1?pwd=zvb8#
 
 ● VirtualBox虚拟机官网：https://www.virtualbox.org/wiki/Downloads
 
@@ -1172,7 +1176,11 @@ tracert www.baidu.com
 
 ● 当贝OS（天翼云）：https://cloud.189.cn/web/share?code=nymUVvNZfIv2 （访问码：5os5）
 
+● 当贝OS（迅雷云）：https://pan.xunlei.com/s/VNk55q7GNXDdeNQ9pAxTPJfVA1?pwd=ev77#
+
 ● ATV（天翼云）：https://cloud.189.cn/web/share?code=qYNRJvNzEvY3 （访问码：xe00）
+
+● ATV（迅雷云）：https://pan.xunlei.com/s/VNk56-LnXvg08QJDZjuaIc3GA1?pwd=irp6#
 
 ● 当贝OS（备用、需要魔法）：https://drive.google.com/drive/folders/13sqHFELH_RNNkeq9ixZTMd7kbdbBeIQU?usp=sharing
 
@@ -1186,7 +1194,7 @@ tracert www.baidu.com
 
 ● BalenaEtcher官网：https://www.balena.io/etcher/
 
-● BalenaEtcher（夸克）：https://pan.quark.cn/s/3cd773a00d9d （提取码：3pMK）
+● BalenaEtcher：https://pan.xunlei.com/s/VNk55lsMpGPEyoQs_lmtZQhIA1?pwd=p9sx#
 
 <HR>
 
@@ -1198,13 +1206,13 @@ tracert www.baidu.com
 
 ##### **EP55 - 刷Bios，装第三方系统，升腾C92瘦客户机折腾记**
 
-● 升腾C92Bios升级文件：https://pan.quark.cn/s/e3ec33b781f5 （提取码：H9h5）
+● 升腾C92Bios升级文件：https://pan.xunlei.com/s/VNk55VIdW8v3OZZXoIvK0msZA1?pwd=9uve#
 
-● IT天空 优启通（官网）：https://www.upe.net
+● IT天空 优启通（官网）：https://www.upe.net/
 
-● IT天空 优启通下载（夸克）：https://pan.quark.cn/s/0f98b24a2f22 （提取码：4Nfp）
+● IT天空 优启通下载：https://pan.xunlei.com/s/VNk52DXQ1jRh0SMFpMORR6vOA1?pwd=vdqq#
 
-● 精简版Win10 32位（夸克）：https://pan.quark.cn/s/cf7ae2b5c837 （提取码：RHTN）
+● 精简版Win10 32位：https://pan.xunlei.com/s/VNk55ZfWux0lJYxAp3PSFDbhA1?pwd=ahtp#
 
 <HR>
 
@@ -1212,13 +1220,13 @@ tracert www.baidu.com
 
 ● Deepin20.7：https://www.deepin.org/index/zh
 
-● DiskGenius（夸克）：https://pan.quark.cn/s/cb34c234afb4 （提取码：YYia）
+● DiskGenius：https://pan.xunlei.com/s/VNk54oe8xKL5LjMeqcqCoeCrA1?pwd=4tef#
 
-● UltraISO软碟通下载（夸克）：https://pan.quark.cn/s/2c6cabad3aa5 （提取码：T8r3）
+● 软碟通：https://pan.xunlei.com/s/VNk54ar_rFnVHwWuCCLPlHDnA1?pwd=zura#
 
 ● Linux Reader（官网）：https://www.diskinternals.com/linux-reader
 
-● Linux Reader（夸克）：https://pan.quark.cn/s/642f9bf6e8bd （提取码：RixS）
+● Linux Reader：https://pan.xunlei.com/s/VNk55Fsl3Do0blMzsjVBLDBQA1?pwd=nghy#
 
 ● <font color="#FF8C00">奥睿科UFS快闪U盘：</font>https://u.jd.com/z8gyhrX
 
@@ -1244,15 +1252,15 @@ tracert www.baidu.com
 
 ● 各镜像包dtb文件极其对应芯片型号：https://www.emuelec.cn/178.html
 
-● Win32DiskImager（夸克）：https://pan.quark.cn/s/d7fb3ec30c21 （提取码：iwyq）
+● Win32DiskImager：https://pan.xunlei.com/s/VNk559PFRBu3hI7OR164DsiSA1?pwd=fssa#
 
-● 卡载系统APP（夸克）：https://pan.quark.cn/s/1e8d498eaeb7 （提取码：VZXr）
+● 卡载系统APP：https://pan.xunlei.com/s/VNk55CNC5FdLSwSumu4qjlHHA1?pwd=7p3t#
 
 <HR>
 
 ##### **EP50 - 无需NAS？用移动硬盘+电视盒子打造纯本地影音库**
 
-● TMM4.2.8（夸克）：https://pan.quark.cn/s/e9bb0fc543e0 （提取码：sSxc）
+● TMM4.2.8：https://pan.xunlei.com/s/VNk554jGhsU_VQs-DQWfw22NA1?pwd=34em#
 
 ● TMM历史版本下载:https://gitlab.com/tinyMediaManager/tinyMediaManager/-/releases
 
@@ -1260,7 +1268,7 @@ tracert www.baidu.com
 
 ● Kodi下载（中文网）：http://www.kodiplayer.cn/download/
 
-● Kodi皮肤（地平线汉化版）：https://pan.quark.cn/s/3aed9ed99b6b （提取码：UM5c）（解压密码：zxmls）
+● Kodi皮肤（地平线汉化版）：https://pan.xunlei.com/s/VNk54z7E3Do0blMzsjVBL8vwA1?pwd=cwni# （解压密码：zxmls）
 
 ● 站长工具PING：https://ping.chinaz.com/
 
@@ -1280,14 +1288,15 @@ C:\Windows\System32\drivers\etc\host
 
 ● 225款电视盒子刷机固件及教程:https://pan.baidu.com/s/1qSmtBgSEbKs6ZFm-yCr-XQ （提取码: nnw3）
 
-● 更多型号可以在此博客搜索获得：
-https://blog.csdn.net/fatiaozhang9527?type=blog
+● 更多型号可以在此博客搜索获得：https://blog.csdn.net/fatiaozhang9527?type=blog
+
+
 
 <HR>
 
 ##### **EP48 - 隐藏分区怎么办？如何快速、干净的删除U盘里的PE？**
 
-● DiskGenius（夸克）：https://pan.quark.cn/s/cb34c234afb4 （提取码：YYia）
+● DiskGenius：https://pan.xunlei.com/s/VNk54oe8xKL5LjMeqcqCoeCrA1?pwd=4tef#
 
 <HR>
 
@@ -1299,15 +1308,15 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ##### **EP46 - 利用雷电PE做框架，改造并自定义一个独属于自己，且稳定好用的PE**
 
-● 雷电PE（win10内核）：https://pan.quark.cn/s/f6a1315db06c （提取码：UJWM）
+● 雷电PE（win10内核）：https://pan.xunlei.com/s/VNk54f_h8TLSjRuHEHUW1bBVA1?pwd=y9fv#
 
-● 雷电PE（win11内核）：https://pan.quark.cn/s/211baf13a910 （提取码：YfZw）
+● 雷电PE（win11内核）：https://pan.xunlei.com/s/VNk54iHu2Njxx7P0PkG4N4F0A1?pwd=gpjx#
 
-● 雷电PE外置扩展工具（夸克）：https://pan.quark.cn/s/bdf3e48ac380 （提取码：y6UN）（解压密码：zxmls，解压出来的PDF文件改后缀名为zip再解压一次）
+● 雷电PE外置扩展工具：https://pan.xunlei.com/s/VNk54UcmRBu3hI7OR164DjZ4A1?pwd=ykhv#
 
-● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls）
+● PETOOLS小工具集：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls）
 
-● 软碟通（夸克）：https://pan.quark.cn/s/5a419111c8f2 （提取码：Vhi5）
+● 软碟通：https://pan.xunlei.com/s/VNk54ar_rFnVHwWuCCLPlHDnA1?pwd=zura#
 
 <HR>
 
@@ -1315,23 +1324,23 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● 微PE（官网）：www.wepe.com.cn
 
-● 微PE（安装程序）：https://pan.quark.cn/s/87bcb0b0b924 （提取码：gM24）
+● 微PE（安装程序）：https://pan.xunlei.com/s/VNk50Dj5wV0vx4K_4IASZmq8A1?pwd=yb2g#
 
-● 微PE（iSO）：https://pan.quark.cn/s/e9da874ab259 （提取码：cyDZ）
+● 微PE（iSO）：https://pan.xunlei.com/s/VNk50ITPW8v3OZZXoIvK-aB7A1?pwd=n7bd#
 
-● FirePE（官网）：https://firpe.cn/page-247
+● FirPE（官网）：https://firpe.cn/page-247
 
-● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
+● FirPE（安装程序）：https://pan.xunlei.com/s/VNk50T1jBI5qEBkDv3tZnEvRA1?pwd=rapq#
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
+● FirPE（iSO）：https://pan.xunlei.com/s/VNk50WRixKL5LjMeqcqCnhlzA1?pwd=tfjk#
 
-● H3PE 下载（夸克）：https://pan.quark.cn/s/0593ddb51f9f （提取码：PryC）
+● H3PE 下载：https://pan.xunlei.com/s/VNk521bLBO5-MMY4to91JWcCA1?pwd=nkcd#
 
-● DriveDroid APP：https://pan.quark.cn/s/5d548359c895 （提取码：yLak）
+● DriveDroid APP：https://pan.xunlei.com/s/VNk52f4bIGBWjXwhqCNa-rfCA1?pwd=ahhr#
 
-● WTG辅助工具（夸克）：https://pan.quark.cn/s/54b7cadadf72 （提取码：r2kc）
+● WTG辅助工具：https://pan.xunlei.com/s/VNk50obLnjRLAUM4NwWOvfEsA1?pwd=dxik#
 
-● 精简版Window10镜像（夸克）：https://pan.quark.cn/s/bfaf106c805b （提取码：rwrb）
+● 精简版Window10镜像：https://pan.xunlei.com/s/VNk52MuEwV0vx4K_4IAS_MxVA1?pwd=74tz#
 
 ● Windows10原版固件：hellowindows.cn
 
@@ -1343,9 +1352,9 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● FirPE（官网）：https://firpe.cn/page-247
 
-● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
+● FirPE（安装程序）：https://pan.xunlei.com/s/VNk50T1jBI5qEBkDv3tZnEvRA1?pwd=rapq#
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
+● FirPE（iSO）：https://pan.xunlei.com/s/VNk50WRixKL5LjMeqcqCnhlzA1?pwd=tfjk#
 
 <HR>
 
@@ -1357,11 +1366,11 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ##### **EP42 - 把系统装进内存，小白都懂的RAM OS教程**
 
-● H3PE 下载（夸克）：https://pan.quark.cn/s/0593ddb51f9f （提取码：PryC）
+● H3PE 下载：https://pan.xunlei.com/s/VNk521bLBO5-MMY4to91JWcCA1?pwd=nkcd#
 
-● 一键RAMOS小工具（夸克）：https://pan.quark.cn/s/903a3364f0b6 （提取码：9VSq）
+● 一键RAMOS小工具：https://pan.xunlei.com/s/VNk52JzZ2Njxx7P0PkG4MXHgA1?pwd=j86e#
 
-● 精简版Window10镜像（夸克）：https://pan.quark.cn/s/bfaf106c805b （提取码：rwrb）
+● 精简版Window10镜像：https://pan.xunlei.com/s/VNk52MuEwV0vx4K_4IAS_MxVA1?pwd=74tz#
 
 <HR>
 
@@ -1373,25 +1382,25 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● IT天空 优启通（官网）：https://www.upe.net/
 
-● IT天空 优启通下载（夸克）：https://pan.quark.cn/s/0f98b24a2f22 （提取码：4Nfp）
+● IT天空 优启通下载：https://pan.xunlei.com/s/VNk52DXQ1jRh0SMFpMORR6vOA1?pwd=vdqq#
 
 ● USM U盘魔术师（官网）：https://www.sysceo.com/Software-softwarei-id-129.html
 
-● USM U盘魔术师下载（夸克）：https://pan.quark.cn/s/cc8d572ff9de （提取码：j4BP）
+● USM U盘魔术师下载：https://pan.xunlei.com/s/VNk51tr5dEc8DTF2SEm0g3faA1?pwd=khtu#
 
-● USBOS v3.0下载（夸克）：https://pan.quark.cn/s/26333c425439 （提取码：9E6X）
+● USBOS v3.0下载：https://pan.xunlei.com/s/VNk51y4aEtnU3SRWlsqxswZIA1?pwd=99n5#
 
 ● USBOS v3.0介绍说明：http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1
 
-● H3PE 下载（夸克）：https://pan.quark.cn/s/0593ddb51f9f （提取码：PryC）
+● H3PE 下载：https://pan.xunlei.com/s/VNk521bLBO5-MMY4to91JWcCA1?pwd=nkcd#
 
 ● H3PE介绍说明：http://bbs.wuyou.net/forum.php?mod=viewthread&tid=370573&extra=page%3D1
 
-● 雷电PE 下载（夸克）：https://pan.quark.cn/s/195db35a16ab （提取码：JWWE）
+● 雷电PE 下载：https://pan.xunlei.com/s/VNk525zfxKL5LjMeqcqCo1a2A1?pwd=iwm2#
 
 ● 雷电PE介绍说明：http://bbs.c3.wuyou.net/forum.php?mod=viewthread&tid=426252
 
-● UltraISO软碟通下载（夸克）：https://pan.quark.cn/s/2c6cabad3aa5 （提取码：T8r3）
+● UltraISO软碟通下载：https://pan.xunlei.com/s/VNk529XE6BBccDaTJ3N0GGZfA1?pwd=cufk#
 
 <HR>
 
@@ -1403,39 +1412,39 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ##### **EP38 - 无需Root！无需电脑！用手机就能制作PE启动U盘，应急必备！**
 
-● EtchDroid英文原版（夸克）：https://pan.quark.cn/s/d2ab18789e42 （提取码：84Y1）
+● EtchDroid英文原版：https://pan.xunlei.com/s/VNk51m7Q2iT7Bu3Ps6B5mLNlA1?pwd=n8j4#
 
-● EtchDroid汉化版（夸克）：https://pan.quark.cn/s/b7a3dbed1fec （提取码：j9zJ）
+● EtchDroid汉化版：https://pan.xunlei.com/s/VNk51ik1njRLAUM4NwWOvyg1A1?pwd=zqp4#
 
-● HikariPE 下载（img）：https://pan.quark.cn/s/039459a53c3e （提取码：SnDk）
+● HikariPE 下载（img）：https://pan.xunlei.com/s/VNk51Y5YJKeWfSkydRQFaqAkA1?pwd=gi6h#
 
-● HikariPE 下载（iSO）：https://pan.quark.cn/s/c942ce1f5533 （提取码：4SUj）
+● HikariPE 下载（iso）：https://pan.xunlei.com/s/VNk51_mcG89bLTkEpfIPXwbmA1?pwd=aehc#
 
-● HikariPE使用手册：https://hikaripe-sc.hikaricalyx.com/
+● HikariPE 手机启动使用手册：https://hikaripe-sc.hikaricalyx.com/chapter1/1.5
 
 <HR>
 
 ##### **EP37 - 扔掉U盘！将手机制作成WindowsPE启动盘，随身携带！**
 
-● DriveDroid APP：https://pan.quark.cn/s/04a5ab391a08 （提取码：xYs6）
+● DriveDroid APP：https://pan.xunlei.com/s/VNk51TMYEtnU3SRWlsqxspacA1?pwd=q2ae#
 
-● 微PE（官网）：https://www.wepe.com.cn/
+● 微PE（官网）：www.wepe.com.cn
 
-● 微PE（安装程序）：https://pan.quark.cn/s/87bcb0b0b924 （提取码：gM24）
+● 微PE（安装程序）：https://pan.xunlei.com/s/VNk50Dj5wV0vx4K_4IASZmq8A1?pwd=yb2g#
 
-● 微PE（iSO）：https://pan.quark.cn/s/e9da874ab259 （提取码：cyDZ）
+● 微PE（iSO）：https://pan.xunlei.com/s/VNk50ITPW8v3OZZXoIvK-aB7A1?pwd=n7bd#
 
 ● FirPE（官网）：https://firpe.cn/page-247
 
-● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
+● FirPE（安装程序）：https://pan.xunlei.com/s/VNk50T1jBI5qEBkDv3tZnEvRA1?pwd=rapq#
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
+● FirPE（iSO）：https://pan.xunlei.com/s/VNk50WRixKL5LjMeqcqCnhlzA1?pwd=tfjk#
 
 ● FirPE 手机启动使用手册：https://firpe.cn/page-627
 
-● HikariPE 下载（img）：https://pan.quark.cn/s/039459a53c3e （提取码：SnDk）
+● HikariPE 下载（img）：https://pan.xunlei.com/s/VNk51Y5YJKeWfSkydRQFaqAkA1?pwd=gi6h#
 
-● HikariPE 下载（iso）：https://pan.quark.cn/s/c942ce1f5533 （提取码：4SUj）
+● HikariPE 下载（iso）：https://pan.xunlei.com/s/VNk51_mcG89bLTkEpfIPXwbmA1?pwd=aehc#
 
 ● HikariPE 手机启动使用手册：https://hikaripe-sc.hikaricalyx.com/chapter1/1.5
 
@@ -1443,11 +1452,11 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ##### **EP36 - 低配版Win To Go?最强Win PE系统Edgeless安装、体验**
 
-● EDGELESS（官网）：https://home.edgeless.top/
+● Edgeless（官网）：https://home.edgeless.top
 
-● Edgeless（安装程序）：https://pan.quark.cn/s/fe4335d7346b （提取码：1fN4）
+● Edgeless（安装程序）：https://pan.xunlei.com/s/VNk50MwTPUtTY9X4quPA5XhxA1?pwd=hyvw#
 
-● Edgeless（iSO）：https://pan.quark.cn/s/52caa69605d5 （提取码：tFRc）
+● Edgeless（iSO）：https://pan.xunlei.com/s/VNk50Q3aPUtTY9X4quPA5YNoA1?pwd=hvth#
 
 <HR>
 
@@ -1457,43 +1466,43 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● Ventoy安装程序：https://www.ventoy.net/cn/index.html
 
-● Ventoy HDV支持插件：https://pan.quark.cn/s/c03f53cf1246 （提取码：tACb）
+● Ventoy HDV支持插件：https://pan.xunlei.com/s/VNk50zAErarbyd44WaKQsHAIA1?pwd=2res#
 
-● WinNT安装程序：https://pan.quark.cn/s/f3991509a98c （提取码：ERGh）
+● WinNT安装程序：https://pan.xunlei.com/s/VNk510wG-Csuv3kJsofIcMD2A1?pwd=awq9#
 
-● EasyBCD引导编辑器：https://pan.quark.cn/s/428a4519b1ac （提取码：cJfM）
+● EasyBCD引导编辑器：https://pan.xunlei.com/s/VNk513gwRBu3hI7OR164Ct3cA1?pwd=3pur#
 
 ● Windows镜像：https://hellowindows.cn/
 
 ● 微PE（官网）：www.wepe.com.cn
 
-● 微PE（安装程序）：https://pan.quark.cn/s/87bcb0b0b924 （提取码：gM24）
+● 微PE（安装程序）：https://pan.xunlei.com/s/VNk50Dj5wV0vx4K_4IASZmq8A1?pwd=yb2g#
 
-● 微PE（iSO）：https://pan.quark.cn/s/e9da874ab259 （提取码：cyDZ）
+● 微PE（iSO）：https://pan.xunlei.com/s/VNk50ITPW8v3OZZXoIvK-aB7A1?pwd=n7bd#
 
 ● Edgeless（官网）：https://home.edgeless.top
 
-● Edgeless（安装程序）：https://pan.quark.cn/s/fe4335d7346b （提取码：1fN4）
+● Edgeless（安装程序）：https://pan.xunlei.com/s/VNk50MwTPUtTY9X4quPA5XhxA1?pwd=hyvw#
 
-● Edgeless（iSO）：https://pan.quark.cn/s/52caa69605d5 （提取码：tFRc）
+● Edgeless（iSO）：https://pan.xunlei.com/s/VNk50Q3aPUtTY9X4quPA5YNoA1?pwd=hvth#
 
-● FirePE（官网）：https://firpe.cn/page-247
+● FirPE（官网）：https://firpe.cn/page-247
 
-● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
+● FirPE（安装程序）：https://pan.xunlei.com/s/VNk50T1jBI5qEBkDv3tZnEvRA1?pwd=rapq#
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
+● FirPE（iSO）：https://pan.xunlei.com/s/VNk50WRixKL5LjMeqcqCnhlzA1?pwd=tfjk#
 
 ● HotPE（官网）：https://www.hotpe.top
 
-● HotPE（安装程序）：https://pan.quark.cn/s/335099fb6a39 （提取码：UF9t）
+● HotPE（安装程序）：https://pan.xunlei.com/s/VNk50ZwgEbp7a3UVU3wa5a7GA1?pwd=ar5d#
 
-● HotPE（iSO）：https://pan.quark.cn/s/30f819e2e164 （提取码：CD7C）
+● HotPE（iSO）：https://pan.xunlei.com/s/VNk50c2QIRecj059YBs3TwUUA1?pwd=u9i3#
 
 ● 杏雨梨云（官网）：https://www.xyboot.com
 
-● 杏雨梨云（安装程序）：https://pan.quark.cn/s/3c05d6f6d896 （提取码：GRrK）
+● 杏雨梨云（安装程序）：https://pan.xunlei.com/s/VNk50i27ERt2E4G6y-6wqlQYA1?pwd=f4b2#
 
-● 杏雨梨云（精简版）：https://pan.quark.cn/s/9c5fb9338f67 （提取码：AWiX）
+● 杏雨梨云（精简版）：https://pan.xunlei.com/s/VNk50eh76BBccDaTJ3N0FvidA1?pwd=aghb#
 
 <HR>
 
@@ -1501,7 +1510,7 @@ https://blog.csdn.net/fatiaozhang9527?type=blog
 
 ● Windows镜像下载：https://hellowindows.cn
 
-● WTG辅助工具：https://pan.quark.cn/s/54b7cadadf72 （提取码：r2kc）
+● WTG辅助工具：https://pan.xunlei.com/s/VNk50obLnjRLAUM4NwWOvfEsA1?pwd=dxik#
 
 <HR>
 
@@ -1552,33 +1561,33 @@ IE: {871C5380-42A0-1069-A2EA-08002B30309D}
 
 ● 微PE（官网）：www.wepe.com.cn
 
-● 微PE（安装程序）：https://pan.quark.cn/s/87bcb0b0b924 （提取码：gM24）
+● 微PE（安装程序）：https://pan.xunlei.com/s/VNk50Dj5wV0vx4K_4IASZmq8A1?pwd=yb2g#
 
-● 微PE（iSO）：https://pan.quark.cn/s/e9da874ab259 （提取码：cyDZ）
+● 微PE（iSO）：https://pan.xunlei.com/s/VNk50ITPW8v3OZZXoIvK-aB7A1?pwd=n7bd#
 
 ● Edgeless（官网）：https://home.edgeless.top
 
-● Edgeless（安装程序）：https://pan.quark.cn/s/fe4335d7346b （提取码：1fN4）
+● Edgeless（安装程序）：https://pan.xunlei.com/s/VNk50MwTPUtTY9X4quPA5XhxA1?pwd=hyvw#
 
-● Edgeless（iSO）：https://pan.quark.cn/s/52caa69605d5 （提取码：tFRc）
+● Edgeless（iSO）：https://pan.xunlei.com/s/VNk50Q3aPUtTY9X4quPA5YNoA1?pwd=hvth#
 
-● FirePE（官网）：https://firpe.cn/page-247
+● FirPE（官网）：https://firpe.cn/page-247
 
-● FirePE（安装程序）：https://pan.quark.cn/s/2c0c75445461 （提取码：D3mw）
+● FirPE（安装程序）：https://pan.xunlei.com/s/VNk50T1jBI5qEBkDv3tZnEvRA1?pwd=rapq#
 
-● FirePE（iSO）：https://pan.quark.cn/s/7d05a53b3d7d （提取码：Vdrj）
+● FirPE（iSO）：https://pan.xunlei.com/s/VNk50WRixKL5LjMeqcqCnhlzA1?pwd=tfjk#
 
 ● HotPE（官网）：https://www.hotpe.top
 
-● HotPE（安装程序）：https://pan.quark.cn/s/335099fb6a39 （提取码：UF9t）
+● HotPE（安装程序）：https://pan.xunlei.com/s/VNk50ZwgEbp7a3UVU3wa5a7GA1?pwd=ar5d#
 
-● HotPE（iSO）：https://pan.quark.cn/s/30f819e2e164 （提取码：CD7C）
+● HotPE（iSO）：https://pan.xunlei.com/s/VNk50c2QIRecj059YBs3TwUUA1?pwd=u9i3#
 
 ● 杏雨梨云（官网）：https://www.xyboot.com
 
-● 杏雨梨云（安装程序）：https://pan.quark.cn/s/3c05d6f6d896 （提取码：GRrK）
+● 杏雨梨云（安装程序）：https://pan.xunlei.com/s/VNk50i27ERt2E4G6y-6wqlQYA1?pwd=f4b2#
 
-● 杏雨梨云（精简版）：https://pan.quark.cn/s/9c5fb9338f67 （提取码：AWiX）
+● 杏雨梨云（精简版）：https://pan.xunlei.com/s/VNk50eh76BBccDaTJ3N0FvidA1?pwd=aghb#
 
 <HR>
 
@@ -1624,11 +1633,11 @@ IE: {871C5380-42A0-1069-A2EA-08002B30309D}
 
 ● wesley的小米MIX2固件：https://pan.baidu.com/s/1qp4q6htRv-Wy5FTdxjcUnw?pwd=p6ft （提取码: p6ft）
 
-● 手动调度A（夸克）：https://pan.quark.cn/s/17614b210e03 （提取码：Cav7）
+● 手动调度（夸克）：https://pan.xunlei.com/s/VNk5033GIGBWjXwhqCNa-GdOA1?pwd=jhhs#
 
 ● 手动调度使用指南：https://www.jianshu.com/p/c5399a7e9bb3
 
-● yc调度（夸克）：https://pan.quark.cn/s/6bec9563c129 （提取码：eiyW）
+● yc调度（夸克）：https://pan.xunlei.com/s/VNk507KgPUtTY9X4quPA5TZ-A1?pwd=zsv8#
 
 ● 冰箱APP：https://www.coolapk.com/apk/com.catchingnow.icebox
 
@@ -1644,7 +1653,7 @@ IE: {871C5380-42A0-1069-A2EA-08002B30309D}
 
 ● 阅读3.0（Android）：https://github.com/gedoor/legado/releases
 
-● 阅读3.0（夸克）：https://pan.quark.cn/s/0fdd0fc51d64 （提取码：Gvmr）
+● 阅读3.0（迅雷）：https://pan.xunlei.com/s/VNk5-ySDW8v3OZZXoIvK-WS4A1?pwd=eut8#
 
 ● 石头阅读（iOS）：APP Store搜索：石头阅读-热门小说阅读器
 
@@ -1694,9 +1703,9 @@ IE: {871C5380-42A0-1069-A2EA-08002B30309D}
 
 ##### **EP17 - 游戏崩溃黑屏打不开？PC游戏问题解决指南，专治各种疑难杂症**
 
-● 哈希值校验小工具：https://pan.quark.cn/s/28490e5940f4 （提取码：rYrs）
+● 哈希值校验小工具：https://pan.xunlei.com/s/VNk5-owgSj2AAlh48nKnYJI2A1?pwd=ndt9#
 
-● 3DM游戏运行库：https://pan.quark.cn/s/8faa9e3db5c6 （提取码：DPR6）
+● 3DM游戏运行库：https://pan.xunlei.com/s/VNk5-mSvFNJWkYeHpee6FdtUA1?pwd=86fa#
 
 <HR>
 
@@ -1754,7 +1763,11 @@ IE: {871C5380-42A0-1069-A2EA-08002B30309D}
 
 ##### **EP08 - 海阔视界保姆级新手使用指南，学会再也不愁找不到资源**
 
-● 海阔视界安装包：https://pan.quark.cn/s/9fdb52257a82 （提取码：4vq1）
+● 海阔视界：https://pan.xunlei.com/s/VNk5-Yf5Akk-pyFa62I-fKRbA1?pwd=yit6#
+
+● 海阔视界（更新地址）：https://pan.xunlei.com/s/VNk5-h_dEtnU3SRWlsqxsQD8A1?pwd=xiyu#
+
+
 
 <HR>
 
@@ -1804,7 +1817,7 @@ IE: {871C5380-42A0-1069-A2EA-08002B30309D}
 
 ● ------------极下解析：https://jixia.icu/
 
-● ------------IDM：https://pan.quark.cn/s/04c28732a770 （提取码：Qhsw）
+● ------------IDM：https://pan.xunlei.com/s/VNk5-PyBux0lJYxAp3PSDjDpA1?pwd=ezf9#
 
 ● 方法⑤：利用百度网盘青春版下载
 
