@@ -26,11 +26,27 @@
 
 <HR>
 
-##### **EP140 - 思 维 驰 刷 机 记 ！**
+##### **EP141 - 更小，更快，更稳定，Windows X-Lite精简系统安装使用**
 
-● 本期视频没有附件
+● Windows X-Lite（官网）：https://windowsxlite.com
+
+● Windows X-Lite Win10 22H2 (Optimum)：https://pan.xunlei.com/s/VNkcK38555c_8Qu_BvXRS43tA1?pwd=psgy# 
+
+● Windows X-Lite Win11 23H2 (Optimum)：https://pan.xunlei.com/s/VNkcKAu-pUoaiJfT8W1inwMHA1?pwd=9wdt# 
+
+● Windows X-Lite Win11 23H2 (Micro)：https://pan.xunlei.com/s/VNkcKEzqWvCI7eihUwFhFqgmA1?pwd=27nu# 
 
 
+
+<HR>
+
+##### **EP140 - 思 维 驰 刷 机 记 ！**<font color="ff1616">（被B站限流了）</font>
+
+<font color="207ac5">● 本期视频虽然只是一期吐槽向视频，也并未展示完整刷机流程与芯片焊接相关画面，但还是被B站噶了，所以，可能就没有后续了..</font>
+
+<font color="ff66ae">● 视频源链接在此，你可以点这里围观：</font>https://www.bilibili.com/video/BV1PC4y1N7FE （和谐版）
+
+<font color="ff66ae">● 原版，西瓜视频：</font>https://www.ixigua.com/7306024789477589567 （未和谐原版）
 
 <HR>
 
