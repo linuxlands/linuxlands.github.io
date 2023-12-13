@@ -26,6 +26,22 @@
 
 <HR>
 
+##### **EP143 - 我们需要什么样的磁盘阵列柜？铁威马D2-320、绿联CM335对比评测**
+
+● <font color="#FF8C00">铁威马D2-320磁盘阵列柜：</font>https://m.tb.cn/h.5m9OJtY
+
+
+
+<HR>
+
+##### **EP142 - 红米十周年，从一个极客的角度聊聊K70 Pro**
+
+● <font color="#FF8C00">红米Redmi K70Pro：</font>https://m.tb.cn/h.5Ow3wMm
+
+
+
+<HR>
+
 ##### **EP141 - 更小，更快，更稳定，Windows X-Lite精简系统安装使用**
 
 ● Windows X-Lite（官网）：https://windowsxlite.com
