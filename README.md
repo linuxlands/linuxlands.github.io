@@ -26,6 +26,65 @@
 
 <HR>
 
+##### **EP145 - 坏了，这回手机真变电脑了！给手机安装Linux系统，变身生产力神器**
+
+● Termux（官网）：https://termux.dev/en
+
+● Termux：https://pan.xunlei.com/s/VNm0E5BGdGWapSrwySql8l0jA1#  （提取码：kir4）
+
+● VNC Viewer（官网）：https://www.realvnc.com/en/connect/download/viewer
+
+● VNC Viewer：https://pan.xunlei.com/s/VNm0E9puK4nHh-WhgOAKYzkeA1#  （提取码：bhgg）
+
+
+
+○ 以下为需要敲的代码，每个代码块为一条，按一次回车：
+
+#更新Termux：
+
+```
+pkg upgrade
+```
+
+#启动TMOE一键脚本：
+
+```
+bash -c "$(curl -L l.tmoe.me)"
+```
+
+#启动VNC服务：
+
+```
+startvnc
+```
+
+#进入Ubuntu（或你安装的其他）系统：
+
+```
+debian
+```
+
+#进入TMOE脚本：
+
+```
+tmoe
+```
+
+#使Termux在Android12以上系统后台常驻：
+
+```
+apt update
+apt upgrade -y
+apt install git -y
+git clone https://github.com/SaicharanKandukuri/termux-android12-phantom-fix
+cd termux-android12-phantom-fix
+bash runme.sh
+```
+
+
+
+<HR>
+
 ##### **EP144 - 用8Gen3玩模拟器游戏怎么样？聊聊现阶段的模拟器兼容性**
 
 ● PPSSPP模拟器（官网）：https://www.ppsspp.org
