@@ -28,7 +28,7 @@
 
 ##### **EP147 - 所有机型通用！通过Termux_Qemu，给手机安装Windows**
 
-Qemu用Win10镜像：https://pan.quark.cn/s/5c8f59d84e74 （提取码：xhvV）
+Qemu用Win10镜像（来自bilibili@千寻roblox）：https://pan.quark.cn/s/5c8f59d84e74 （提取码：xhvV）
 
 Qemu用Win7镜像：https://pan.quark.cn/s/ce2b8ad4c17f （提取码：8HNk）
 
