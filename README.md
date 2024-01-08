@@ -22,7 +22,19 @@
 
 ○ YOUTUBE：[点此进入](https://www.youtube.com/@zxmls)
 
-***● 注意！不要在网盘中在线解压任何文件！！会导致文件失效！！！***
+***<font color="#00CAE1">● 注意！不要在网盘中在线解压任何文件！！会导致文件失效！！！</font>***
+
+***<font color="#FF725C">● 注意！请将附件先转存到自己网盘再下载！！避免文件被和谐！！！！</font>***
+
+
+
+<HR>
+
+##### **EP148 - 超超超大屏玩游戏！戴上雷鸟Air2，我的思维驰终于不用吃灰了**
+
+● <font color="#FF8C00">雷鸟Air2 AR眼镜：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARIJK1olXwYEUV5YDkMSAl8IGloUWwcGUFhaAUsnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBW4MH10SVAYdDRsBVXtKSxh3Gi5dPGZCMggmUQB-XQZVTxtDUQoyVW5eCUkXCm4MH14dbTYCU24fZpO9hbeBtYKjxt-jwInikZ-fjV8JK1sTXAMEVV9eC0kRBmw4HFscbUBWCxsFWBRRVzBmR2slbQUyU15UHE1lQj0cHSklbQYyV25dCUseCm8IE1McXBoCVVleAU4LA2kJHl0UXAUDUllbC3sVAm4MEmslbVFAPSEuTSNVazl3bjpNI25rD14qe0xpcAEKXwNtWF5pKgA1axBLWW8IfDIl)
+
+
 
 <HR>
 
@@ -212,7 +224,7 @@ bash runme.sh
 
 ● 大气层+特斯拉整合包（最新）：https://pan.baidu.com/s/1Aq53TNTUTccNkQRAcg_Y3Q?pwd=xlcj
 
-● 大气层+特斯拉整合包（1.6.2）：https://pan.quark.cn/s/861c576ff095 (提取码：W9as
+● 大气层+特斯拉整合包（1.6.2）：https://pan.quark.cn/s/861c576ff095 (提取码：W9as）
 
 ● Switch离线固件（最新）：https://darthsternie.net/switch-firmwares
 
@@ -1057,19 +1069,25 @@ iptables -t nat -I POSTROUTING -o eth0 -j MASQUERADE
 
 ##### **EP80 - Switch特斯拉插件使用指南，金手指、超频、底座转换一键使用**
 
-● 大气层1.4.0+特斯拉插件整合版（支持15.0.1系统）：https://pan.quark.cn/s/513b1b30fa94 （提取码：zwL1）
+● 大气层+特斯拉整合包（最新）：https://pan.baidu.com/s/1Aq53TNTUTccNkQRAcg_Y3Q?pwd=xlcj
 
-● 特斯拉扩展插件：https://pan.quark.cn/s/1e2389c6399a （提取码：Dxed）
+● 大气层+特斯拉整合包（1.6.2）：https://pan.quark.cn/s/861c576ff095 (提取码：W9as）
+
+● Switch离线固件（最新）：https://darthsternie.net/switch-firmwares
+
+● Switch离线固件（17.0.0）：https://pan.quark.cn/s/c3c37b6e8701 (提取码：CSxC)
 
 <HR>
 
 ##### **EP79 - 折腾版Switch Lite入手指南，验机、备份、更新一条龙教程**
 
-● 大气层1.4.0+特斯拉插件整合版（支持15.0.1系统）：https://pan.quark.cn/s/513b1b30fa94 （提取码：zwL1）
+● 大气层+特斯拉整合包（最新）：https://pan.baidu.com/s/1Aq53TNTUTccNkQRAcg_Y3Q?pwd=xlcj
 
-● 特斯拉扩展插件：https://pan.quark.cn/s/1e2389c6399a （提取码：Dxed）
+● 大气层+特斯拉整合包（1.6.2）：https://pan.quark.cn/s/861c576ff095 (提取码：W9as）
 
-● Switch15.0.1固件：https://pan.quark.cn/s/61ab7aecf4c7 （提取码：zdTi）
+● Switch离线固件（最新）：https://darthsternie.net/switch-firmwares
+
+● Switch离线固件（17.0.0）：https://pan.quark.cn/s/c3c37b6e8701 (提取码：CSxC)
 
 <HR>
 
