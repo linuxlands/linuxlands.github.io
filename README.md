@@ -30,6 +30,18 @@
 
 <HR>
 
+##### **EP149 - PS Portal ×，Switch串流 ✓，NS串流PS5指南**
+
+● Chiaki（官网）：https://sr.ht/~thestr4ng3r/chiaki
+
+● Chiaki（nro+nsp前端）：https://pan.quark.cn/s/7a14d3391138
+
+● 在线获取PSN Account ID：https://psn.flipscreen.games
+
+
+
+<HR>
+
 ##### **EP148 - 超超超大屏玩游戏！戴上雷鸟Air2，我的思维驰终于不用吃灰了**
 
 ● <font color="#FF8C00">雷鸟Air2 AR眼镜：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARIJK1olXwYEUV5YDkMSAl8IGloUWwcGUFhaAUsnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBW4MH10SVAYdDRsBVXtKSxh3Gi5dPGZCMggmUQB-XQZVTxtDUQoyVW5eCUkXCm4MH14dbTYCU24fZpO9hbeBtYKjxt-jwInikZ-fjV8JK1sTXAMEVV9eC0kRBmw4HFscbUBWCxsFWBRRVzBmR2slbQUyU15UHE1lQj0cHSklbQYyV25dCUseCm8IE1McXBoCVVleAU4LA2kJHl0UXAUDUllbC3sVAm4MEmslbVFAPSEuTSNVazl3bjpNI25rD14qe0xpcAEKXwNtWF5pKgA1axBLWW8IfDIl)
@@ -40,11 +52,11 @@
 
 ##### **EP147 - 所有机型通用！通过Termux_Qemu，给手机安装Windows**
 
-Qemu用Win10镜像（来自bilibili@千寻roblox）：https://pan.quark.cn/s/5c8f59d84e74 （提取码：xhvV）
+● Qemu用Win10镜像（来自bilibili@千寻roblox）：https://pan.quark.cn/s/5c8f59d84e74 （提取码：xhvV）
 
-Qemu用Win7镜像：https://pan.quark.cn/s/ce2b8ad4c17f （提取码：8HNk）
+● Qemu用Win7镜像：https://pan.quark.cn/s/ce2b8ad4c17f （提取码：8HNk）
 
-Qemu用WinXP镜像：https://pan.quark.cn/s/027514f4c97b (提取码：2Nn7)
+● Qemu用WinXP镜像：https://pan.quark.cn/s/027514f4c97b (提取码：2Nn7)
 
 
 
