@@ -30,6 +30,61 @@
 
 <HR>
 
+
+**【预告】- <font color="#ed25ff">莫老师的10万粉抽奖将于本周三下午5点开始，届时欢迎大家来试试手气，我也会在此同步抽奖链接和奖品信息！</font>**
+
+
+
+<HR>
+
+##### **EP150 - 双系统切换！给Switch刷入大气层及Android11系统，并Root**
+
+● Switch大气层+特斯拉整合包（1.6.2）：https://pan.quark.cn/s/c50462ce0744
+
+● Switchroot（官网）：https://switchroot.org
+
+● Switch安卓固件（官网）：https://pan.quark.cn/s/cd9dfdb4ce33
+
+● Switch用面具：https://pan.quark.cn/s/8d006894bc18
+
+● Android ADB工具：https://pan.quark.cn/s/cb97b388edc6
+
+
+
+○ 以下为需要敲的代码，每个代码块为一条，按一次回车（Windows CMD报错，在命令前加.\）：
+
+#删除现有（默认）NTP服务器：
+
+```
+adb shell settings delete global ntp_server
+```
+
+#设置新的NTP服务器：
+
+```
+adb shell settings put global ntp_server time.asia.apple.com
+```
+
+
+
+○ 以下为在本期视频中未提到的补充说明，写在这里是为了防止视频被和谐：
+
+```
+搭载哪些芯片的Switch可以刷入第三方系统？
+
+Switch并非所有机器都能刷入安卓系统，这和机器中安装的破解芯片有关，例如TX芯片就无法安装第三方系统，体现为在刷入REC时，机器会直接重启至hekate界面，无法进行下一步，现阶段，市面上主流的Switch破解芯片有TX（一般为早期发售的机器搭载），国产芯片（就是高仿TX），以及树莓派（最新的），所有型号的TX芯片，均不支持刷入第三方系统，国产芯片则分不同情况，低版本芯片固件（0.3.1以下）的不支持刷入第三方系统，高版本芯片固件（0.7.2以上）的支持刷入第三方系统，所有国产芯片均支持升级芯片固件，装不了第三方系统需要自己手动升级芯片固件到高版本，最后是树莓派，树莓派全部支持刷入第三方系统
+
+如何判断自己的破解芯片版本？
+
+①麻烦但准确的办法：拆机，直接看芯片
+②简单但不一定准的办法：Switch关机拔内存卡，再开机，显示一张内存卡和问号为TX芯片，显示小火箭NOSD为国产芯片，显示一颗树莓NOSD为树莓派芯片，直接进入了正版系统，可能为国产芯片或树莓派
+
+```
+
+
+
+<HR>
+
 ##### **EP149 - PS Portal ×，Switch串流 ✓，NS串流PS5指南**
 
 ● Chiaki（官网）：https://sr.ht/~thestr4ng3r/chiaki
@@ -114,7 +169,7 @@ debian
 tmoe
 ```
 
-#使Termux在Android12以上系统后台常驻：
+#使Termux在Android12以上系统后台常驻（直接复制可能导致代码格式变化，建议复制后手动再编辑下格式）：
 
 ```
 apt update
