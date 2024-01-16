@@ -43,7 +43,7 @@
 
 ● Switchroot（官网）：https://switchroot.org
 
-● Switch安卓固件（官网）：https://pan.quark.cn/s/cd9dfdb4ce33
+● Switch安卓固件：https://pan.quark.cn/s/46f3ea9942ff
 
 ● Switch用面具：https://pan.quark.cn/s/8d006894bc18
 
