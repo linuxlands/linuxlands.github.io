@@ -432,7 +432,7 @@ bash runme.sh
 
 ##### **EP126 - 一台0.1L的软路由能做什么？H28K小白入坑指南**
 
-● 瑞芯微开发工具：https://pan.quark.cn/s/ea64345809fd (提取码：cwyZ)
+● 瑞芯微开发工具：https://pan.quark.cn/s/10cba052a881
 
 ● H28K OpenWRT固件：https://pan.quark.cn/s/ea64345809fd (提取码：cwyZ)
 
