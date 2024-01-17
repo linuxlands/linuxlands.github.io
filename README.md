@@ -43,7 +43,7 @@
 
 ● Switchroot（官网）：https://switchroot.org
 
-● Switch安卓固件：https://pan.quark.cn/s/46f3ea9942ff
+● Switch安卓固件：https://pan.quark.cn/s/c3e46138d8aa （双层压缩包会失效，我把固件解压出来上传了，下载完成直接复制进Switch即可，无需再解压）
 
 ● Switch用面具：https://pan.quark.cn/s/8d006894bc18
 
