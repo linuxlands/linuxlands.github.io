@@ -12,21 +12,17 @@
 
 ✓ 莫老师的主页：
 
-○ B站（首发）：[点此进入](https://space.bilibili.com/1995424953)
-
-○ 西瓜视频：[点此进入](https://www.ixigua.com/home/303878777609358)
-
-○ 抖音：[点此进入](https://v.douyin.com/MYjf1JM/)
-
-○ 微博：[点此进入](https://weibo.com/u/7826133162)
-
-○ YOUTUBE：[点此进入](https://www.youtube.com/@zxmls)
+🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
 ***<font color="#00CAE1">● 注意！不要在网盘中在线解压任何文件！！会导致文件失效！！！</font>***
 
 ***<font color="#FF725C">● 注意！请将附件先转存到自己网盘再下载！！避免文件被和谐！！！！</font>***
 
+================【快捷会员合租：戳下边】================
 
+[ChatGPT Plus | Netflix | Disney+ | Spotify | Midjourney | Office 365](https://nf.video/gLlmQ)
+
+=================【全场折扣码： zxmls】==================
 
 <HR>
 
