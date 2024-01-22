@@ -29,35 +29,47 @@
 
 **<font color="#ed25ff">EP151- 莫 老 师 的 10 万 粉 抽 奖 !</font>**
 
-● 以下为奖品信息
+● 以下为获奖名单
 
-○ 零刻SEi12迷你主机 x1
+○ 恭喜B站小伙伴 <font color="#DB7093">@行_至</font> 获得零刻SEi12迷你主机
 
-○ 蜗牛星际j1900 NAS x1
+○ 恭喜B站小伙伴 <font color="#DB7093">@晨微凉啊</font> 获得蜗牛星际j1900 NAS
 
-○ 小米平板2 8+128G 魔改版 x1
+○ 恭喜B站小伙伴 <font color="#DB7093">@霜顷</font> 小米平板2 8+128G 魔改版
 
-👉上方三样奖品的抽奖地址戳这里：https://www.bilibili.com/opus/887510873817481254
+○ 恭喜B站小伙伴 <font color="#DB7093">@天选来一个</font> 蒲公英X1组网盒子
 
-○ 蒲公英X1组网盒子 x1
+○ 恭喜B站小伙伴 <font color="#DB7093">@Scorpionn</font> 玩客云
 
-○ 玩客云 x1
+○ 恭喜B站小伙伴 <font color="#DB7093">@C--2020</font> 升腾C92
 
-○ 升腾C92 X1
+○ 恭喜B站小伙伴 <font color="#DB7093">@水之鱼幸福</font> H28K软路由
 
-👉上方三样奖品的抽奖地址戳这里：https://www.bilibili.com/opus/887511616862552083
+○ 恭喜B站小伙伴 <font color="#DB7093">@把爱烧成落叶q</font> 歌华链路由
 
-○ H28K软路由 x1
+○ 恭喜B站小伙伴 <font color="#DB7093">@大莽夫能屈能伸</font> Ventoy U盘 莫老师定制版
 
-○ 歌华链路由 x1
+○ 恭喜B站小伙伴 <font color="#DB7093">@零碎の기억</font> Ventoy U盘 莫老师定制版
 
-○ Ventoy U盘 莫老师定制版 x10
+○ 恭喜B站小伙伴 <font color="#DB7093">@左-岚</font> Ventoy U盘 莫老师定制版
 
-👉上方三样奖品的抽奖地址戳这里：https://www.bilibili.com/opus/887512420045553697
+○ 恭喜B站小伙伴 <font color="#DB7093">@智巧达</font> Ventoy U盘 莫老师定制版
+
+○ 恭喜B站小伙伴 <font color="#DB7093">@Giant_GKL</font> Ventoy U盘 莫老师定制版
+
+○ 恭喜B站小伙伴 <font color="#DB7093">@知了不知春秋</font> Ventoy U盘 莫老师定制版
+
+○ 恭喜B站小伙伴 <font color="#DB7093">@MarshalCrE</font> Ventoy U盘 莫老师定制版
+
+○ 恭喜B站小伙伴 <font color="#DB7093">@唐浚凯</font> Ventoy U盘 莫老师定制版
+
+○ 恭喜B站小伙伴 <font color="#DB7093">@赤殇之夕</font> Ventoy U盘 莫老师定制版
+
+○ 恭喜B站小伙伴 <font color="#DB7093">@月球蜂鸟哭泣</font> Ventoy U盘 莫老师定制版
 
 ● 以下为抽奖规则
 
-*本次抽奖仅在B站进行，采用B站官方抽奖工具抽取，抽奖截止时间为本周日晚8点，抽奖共分为三条动态发布，记得每条都要参与噢*
+*中奖通知已通过B站私信发送，请尽快填写收货信息，我将为您邮寄奖品*
 
 
 
