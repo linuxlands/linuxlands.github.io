@@ -26,6 +26,35 @@
 
 <HR>
 
+##### **EP153 - 利用PVE虚拟机，来打造属于自己的All In One系统吧！（AIO打造第一集）**
+
+● Proxmox VE虚拟机（官网）：https://pve.proxmox.com
+
+● Proxmox VE虚拟机（安装镜像）：https://pan.quark.cn/s/54084b8b44f0
+
+● img2kvm脚本：https://pan.quark.cn/s/634c129636d4
+
+● BalenaEtcher（官网）：https://etcher.balena.io/
+
+● BalenaEtcher：https://pan.quark.cn/s/dd0eb5dac656
+
+● MobaXterm（官网）：https://mobaxterm.mobatek.net
+
+● MobaXterm：https://pan.quark.cn/s/e269ad2a5ae9
+
+● OpenWRT（安装镜像）：https://pan.quark.cn/s/63cda803abeb
+
+
+
+<HR>
+
+##### **EP152 - 把i9塞进迷你主机，再用它来做All In One？这也太超前了吧**
+
+● <font color="#FF8C00">积核IT13迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQoJK1olXwQAVFZeD08WBF8IGloUWwAEXVxUDkMnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBWkOElkcWw4dDRsBVXt8UGtKQxtKGWRBMl8hdzRTZBEAH11lUQoyVW5eCUkXCm4MH14dbTYCU24LZksWAm4NHloQXAQyVW5dDkoQAGoMGV4QWgALZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXM2w4G1oVVQUCVVdbCE4LA2oAH1MRQQYEVVleDU8VBm8OH1glXwcDUFdtOHtscTd3WQkUBgdEMV4udxF1RypKUBMQFH9sViUnagJhY2ZuGglQKEN-PyAPOA)
+
+
+
+<HR>
 
 **<font color="#ed25ff">EP151- 莫 老 师 的 10 万 粉 抽 奖 !</font>**
 
