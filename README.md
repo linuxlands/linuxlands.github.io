@@ -44,6 +44,26 @@
 
 ● OpenWRT（安装镜像）：https://pan.quark.cn/s/63cda803abeb
 
+○ 以下为需要敲的代码
+
+#给img2kvm权限
+
+```
+chmod +x img2kvm
+```
+
+#执行磁盘格式转换
+
+```
+./img2kvm openwrt-23.05.img 100 vm-100-disk-1
+```
+
+#编辑OpenWRT的IP地址
+
+```
+vi /etc/config/network
+```
+
 
 
 <HR>
