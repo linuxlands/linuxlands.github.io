@@ -30,7 +30,7 @@
 
 ● Proxmox VE虚拟机（官网）：https://pve.proxmox.com
 
-● Proxmox VE虚拟机（安装镜像）：https://pan.quark.cn/s/54084b8b44f0
+● Proxmox VE虚拟机（安装镜像）：https://pan.quark.cn/s/f62df17918a3
 
 ● img2kvm脚本：https://pan.quark.cn/s/634c129636d4
 
