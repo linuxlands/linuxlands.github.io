@@ -46,6 +46,8 @@
 
 ● pve_source脚本：https://pan.quark.cn/s/3615fae3f4d7
 
+● pve_source脚本：https://pan.quark.cn/s/0b1474707a2d （备用链接，需解压后使用）
+
 ○ 以下为需要敲的代码
 
 #解压pve_source脚本
