@@ -44,7 +44,7 @@
 
 ● MobaXterm：https://pan.quark.cn/s/e269ad2a5ae9
 
-● pve_source脚本：https://pan.quark.cn/s/60dfb6182d6c
+● pve_source脚本：https://pan.quark.cn/s/3615fae3f4d7
 
 ○ 以下为需要敲的代码
 
