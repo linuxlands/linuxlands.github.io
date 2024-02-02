@@ -26,6 +26,44 @@
 
 <HR>
 
+##### **EP154 - 利用PVE虚拟机，安装Windows和Linux系统，并优化配置（AIO打造第二集）**
+
+● Windows镜像（MSDN）：https://visualstudio.microsoft.com/zh-hans/msdn-platforms
+
+● Windows镜像（仓储站）：https://hellowindows.cn
+
+● Win10LTSC镜像：https://pan.quark.cn/s/dac57b63096e
+
+● VirtIO驱动镜像：https://pan.quark.cn/s/fd419d8611bd
+
+● Ubuntu（官网）：https://cn.ubuntu.com/download
+
+● Ubuntu20.4镜像：https://pan.quark.cn/s/c1bba37ab249
+
+● MobaXterm（官网）：https://mobaxterm.mobatek.net
+
+● MobaXterm：https://pan.quark.cn/s/e269ad2a5ae9
+
+● pve_source脚本：https://pan.quark.cn/s/60dfb6182d6c
+
+○ 以下为需要敲的代码
+
+#解压pve_source脚本
+
+```
+tar zxvf pve_source.tar.gz
+```
+
+#运行pve_source脚本
+
+```
+./pve_source
+```
+
+
+
+<HR>
+
 ##### **EP153 - 利用PVE虚拟机，来打造属于自己的All In One系统吧！（AIO打造第一集）**
 
 ● Proxmox VE虚拟机（官网）：https://pve.proxmox.com
