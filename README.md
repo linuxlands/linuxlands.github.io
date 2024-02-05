@@ -24,6 +24,8 @@
 
 =================【全场折扣码： zxmls】==================
 
+
+
 <HR>
 
 ##### **EP154 - 利用PVE虚拟机，安装Windows和Linux系统，并优化配置（AIO打造第二集）**
@@ -44,9 +46,7 @@
 
 ● MobaXterm：https://pan.quark.cn/s/e269ad2a5ae9
 
-● pve_source脚本：https://pan.quark.cn/s/3615fae3f4d7
-
-● pve_source脚本：https://pan.quark.cn/s/0b1474707a2d （备用链接，需解压后使用）
+● pve_source脚本：https://pan.quark.cn/s/1fef567176e6
 
 ○ 以下为需要敲的代码
 
@@ -611,9 +611,17 @@ smbpasswd -a root
 
 ● FirePE（官网）：https://firpe.cn/page-247
 
-● ARPL引导镜像，来自wjz304（Github）：https://github.com/wjz304/arpl-zh_CN/releases
+● DSM7.21引导（来自@GXNAS）：https://pan.quark.cn/s/f29ca7a66bc2
 
-● ARPL引导镜像，来自wjz304：https://pan.quark.cn/s/edcb2b87f3d0 (提取码：bArc)
+● GXNAS博客：https://wp.gxnas.com/11849.html
+
+● DSM7.21官方固件：https://pan.quark.cn/s/d90407800171
+
+○ wjz304大佬已将ARPL项目转为私有，引导已经用不了了，用上边GXNAS大佬的吧
+
+● ARPL引导镜像，来自wjz304（Github）：<del>https://github.com/wjz304/arpl-zh_CN/releases</del>
+
+● ARPL引导镜像，来自wjz304：<del>https://pan.quark.cn/s/edcb2b87f3d0 (提取码：bArc)</del>
 
 
 
