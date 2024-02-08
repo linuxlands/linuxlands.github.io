@@ -24,6 +24,82 @@
 
 =================【全场折扣码： zxmls】==================
 
+<HR>
+
+##### EP155 - 利用PVE虚拟机，安装黑群晖和黑苹果，All In One运行5个系统（AIO打造第三集）
+
+● DSM7.21引导（来自@GXNAS）：https://pan.quark.cn/s/f29ca7a66bc2
+
+● GXNAS博客：https://wp.gxnas.com/11849.html
+
+● DSM7.21官方固件：https://pan.quark.cn/s/d90407800171
+
+● img2kvm脚本：https://pan.quark.cn/s/634c129636d4
+
+● MobaXterm（官网）：https://mobaxterm.mobatek.net
+
+● MobaXterm：https://pan.quark.cn/s/e269ad2a5ae9
+
+● 虚拟机专用MacOS系统镜像：https://pan.quark.cn/s/9e7ed6d26d09
+
+● KVM-OpenCore引导：https://pan.quark.cn/s/5f26761f4850
+
+○ 以下为需要敲的代码
+
+#给img2kvm权限
+
+```
+chmod +x img2kvm
+```
+
+#执行磁盘格式转换（注意替换虚拟机ID）
+
+```
+./img2kvm DS918_7.21-69057.img 103 vm-103-disk-1
+```
+
+#在PVE Shell中编辑Opencore引导文件（注意替换虚拟机ID）
+
+```
+nano /etc/pve/qemu-server/104.conf
+```
+
+#Intel CPU添加这段到Opencore引导文件头部
+
+```
+args: -device isa-applesmc,osk="ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" -smbios type=2 -device usb-kbd,bus=ehci.0,port=2 -global nec-usb-xhci.msi=off -global ICH9-LPC.acpi-pci-hotplug-with-bridge-support=off -cpu host,vendor=GenuineIntel,+invtsc,+hypervisor,kvm=on,vmware-cpuid-freq=on
+```
+
+#AMD CPU添加这段到Opencore引导文件头部
+
+```
+args: -device isa-applesmc,osk="ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" -smbios type=2 -device usb-kbd,bus=ehci.0,port=2 -global nec-usb-xhci.msi=off -global ICH9-LPC.acpi-pci-hotplug-with-bridge-support=off -cpu Haswell-noTSX,vendor=GenuineIntel,+invtsc,+hypervisor,kvm=on,vmware-cpuid-freq=on
+```
+
+#修改ide0这行的media=cdrom为
+
+```
+cache=unsafe
+```
+
+#修改ide2这行的media=cdrom为
+
+```
+cache=unsafe
+```
+
+#启动OpenCore引导后输入
+
+```
+fs0:
+```
+
+#编辑OpenCore引导路径
+
+```
+System\Library\CoreServices\Boot.efi
+```
+
 
 
 <HR>
