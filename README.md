@@ -26,7 +26,29 @@
 
 <HR>
 
-##### EP155 - 利用PVE虚拟机，安装黑群晖和黑苹果，All In One运行5个系统（AIO打造第三集）
+##### **EP156 - 外边像Mac，里边装Mac，AYANEO AM01迷你主机黑苹果安装体验**
+
+● <font color="#FF8C00">AYANEO AM01迷你主机：</font>[点此查看](https://m.tb.cn/h.5H8tHfK)
+
+● AYANEO AM01 黑苹果EFI（@小明和他的女朋友）：https://pan.quark.cn/s/2f0d50e0c43f
+
+● AYANEO AM01 黑苹果EFI（Github）：https://github.com/Xmingbai/AYANEO-AM01-Hackintosh
+
+● macOS Ventura 13 系统镜像：https://pan.quark.cn/s/9799911b1831
+
+● NoTouchID.kext（Github）：https://github.com/al3xtjames/NoTouchID
+
+● NoTouchID.kext：https://pan.quark.cn/s/9f02f6a412f9
+
+● BalenaEtcher（官网）：https://etcher.balena.io/
+
+● BalenaEtcher：https://pan.quark.cn/s/dd0eb5dac656
+
+
+
+<HR>
+
+##### **EP155 - 利用PVE虚拟机，安装黑群晖和黑苹果，All In One运行5个系统（AIO打造第三集）**
 
 ● DSM7.21引导（来自@GXNAS）：https://pan.quark.cn/s/f29ca7a66bc2
 
