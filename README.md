@@ -26,6 +26,26 @@
 
 <HR>
 
+##### **EP159 - 纯净无广告，又强又趁手的维护工具，FirPE使用和DIY指南**
+
+● FirPE（官网）：https://firpe.cn/page-247
+
+● FirPE：https://pan.quark.cn/s/4940601c52b5
+
+● Edgeless插件下载：https://edgeless.work/%E6%8F%92%E4%BB%B6%E5%8C%85
+
+● PE Tools（小工具集）：：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
+
+
+
+<HR>
+
+**EP158 - 即将上线**
+
+
+
+<HR>
+
 ##### **EP157 - 用核显玩游戏怎么样？极摩客K8 8845HS拆机，及3A游戏体验**
 
 ● <font color="#FF8C00">极摩客K8迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAbAJK1olXwQKVV1fDUoUAF8IGlodWgMHUFxaCUoSC19MRANLAjZbERscSkAJHTRQRA1CCVkdDwtCWhVLHTdNTwcKBENeCVAfUg8bA24JE1wQWAIAU19cDUMAQ2N8YitwJGV9FCk0bCtjWghMbDJPBWJhIBg-ehFxYW54XS1gLW9lDi4UaDkXdQ1BGhthFVt0NhcbTj9PfBxrGixCKX9iNio-CBRgXB9vYDxpW2NKNyg6VxV_UQl0fTgUNll2CwQ6ayh8RxhxbzJ1BHlANFwifjJ0eDBoUydzKnUCESokaBhjSwxUbzJPDnFxMwEqYR1PMzBtWl5hIwdXMURHfwNoBxhUTRMXJlAOWG5cOEgWAW8BGl8RWA4yZF5aOAp5A2oIElIRVAEyVW5dDkoeB2cJHFITWAEEZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXAF8LK1sUXQ4BVlxfAEoXH28NE1oWXRoCUl9UDEMWBGkLHVkTbQQDVVpUOHsnew51fgJ0VGALHQAfSSNsAQ1ofThAWgRGOlxYCRRTZyt7TlJxInxHBxcnX3s)
