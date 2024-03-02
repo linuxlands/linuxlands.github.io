@@ -4,13 +4,9 @@
 
 ✓ 和每期视频保持同步更新
 
-✓ 在这个文档里可以做什么？
+✓ 你可以方便的在这里查阅并下载莫老师每期视频的附件
 
-○ 你可以方便的在这里查阅并下载莫老师每期视频的附件
-
-<del>○ 另外还可以找到一些黑历史（Bushi）</del>
-
-✓ 莫老师的主页：
+✓ **莫老师的主页：**
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
@@ -23,6 +19,16 @@
 [ChatGPT Plus | Netflix | Disney+ | Spotify | Midjourney | Office 365](https://nf.video/gLlmQ)
 
 =================【全场折扣码： zxmls】==================
+
+<HR>
+
+##### **EP160 - 游戏玩家的帧数提升利器？GHOST SPECTRE精简系统安装体验**
+
+● GHOST SPECTRE（主页）：https://www.youtube.com/c/GHOSTSPECTRE/videos
+
+● GHOST SPECTRE Win11 23H2 Update5：https://pan.quark.cn/s/987a06575f74
+
+
 
 <HR>
 
@@ -1724,7 +1730,7 @@ tracert www.baidu.com
 
 ##### **EP55 - 刷Bios，装第三方系统，升腾C92瘦客户机折腾记**
 
-● 升腾C92Bios升级文件：https://pan.quark.cn/s/fab26dcbc934 （提取码：xpry）
+● 升腾C92Bios升级文件：https://pan.quark.cn/s/f7a9de9d4967
 
 ● IT天空 优启通（官网）：https://www.upe.net/
 
