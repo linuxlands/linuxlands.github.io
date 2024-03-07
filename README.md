@@ -10,9 +10,9 @@
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
-#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260304/164687/14/22773/21463/65e5a8d1F2b7be4f5/9e0a656593705883.jpg)）</font>
+#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260307/170643/6/43337/21787/65e91d82F406336d7/205bab8b3f9dfcd1.jpg)）</font>
 
-![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260304/164687/14/22773/21463/65e5a8d1F2b7be4f5/9e0a656593705883.jpg)
+![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260307/170643/6/43337/21787/65e91d82F406336d7/205bab8b3f9dfcd1.jpg)
 
 
 
