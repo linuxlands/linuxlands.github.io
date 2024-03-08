@@ -30,7 +30,7 @@
 
 ##### **EP161 - 全屋2.5G，有线无线混组！我找到了可能最适合极客的组网方案**
 
-● <font color="#FF8C00">H68K软路由和蜂巢易网AP都属于极客DIY的定制小众产品，目前我已使用一段时间，稳定性很优秀，如果大家对这俩产品感兴趣，可以先加[粉丝群](https://img10.360buyimg.com/babel/jfs/t20260304/164687/14/22773/21463/65e5a8d1F2b7be4f5/9e0a656593705883.jpg)跟我说说，我会去跟厂家PY一下，争取搞到一波团购名额，价格会低于市面上所有的在售价</font>
+● <font color="#FF8C00">H68K软路由和蜂巢易网AP都属于极客DIY的定制小众产品，目前我已使用一段时间，稳定性很优秀，如果大家对这俩产品感兴趣，可以先加[粉丝群](https://img10.360buyimg.com/babel/jfs/t20260307/170643/6/43337/21787/65e91d82F406336d7/205bab8b3f9dfcd1.jpg)跟我说说，我会去跟厂家PY一下，争取搞到一波团购名额，价格会低于市面上所有的在售价</font>
 
 
 
@@ -60,7 +60,17 @@
 
 <HR>
 
-**EP158 - 即将上线**
+##### **EP158 - 电视盒子，但玩得挺花！火影HT2盒子刷机及多系统体验**
+
+● <font color="#FF8C00">火影HT2盒子：</font>[点此查看](https://m.tb.cn/h.5Es06XIgqzcn1F8?tk=gVbQWmt1fcO )
+
+● HT2 刷机工具：https://pan.quark.cn/s/ff7dd74088ca
+
+● HT2 Android固件：https://pan.quark.cn/s/4f19ebd3dee0
+
+● HT2 OpenWRT固件：https://pan.quark.cn/s/330cf1668b20
+
+● HT2 Armbian固件：https://pan.quark.cn/s/13c2b2af96c1
 
 
 
@@ -946,7 +956,7 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ● 诺基亚手机固件（天翼云盘）：https://cloud.189.cn/web/share?code=7RvY3yNbUfUj （访问码：7hi7）
 
-● 诺基亚手机固件：https://pan.quark.cn/s/4762018efa92 （提取码：VwLE）
+● 诺基亚手机固件：https://pan.quark.cn/s/545a49040b01
 
 ● 诺基亚塞班平台游戏（视频中出现的几款）：https://pan.quark.cn/s/84080b9147be （提取码：hT1F）
 
