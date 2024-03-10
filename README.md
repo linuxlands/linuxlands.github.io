@@ -10,9 +10,9 @@
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
-#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260307/170643/6/43337/21787/65e91d82F406336d7/205bab8b3f9dfcd1.jpg)）</font>
+#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260310/106450/1/47694/14363/65ed56b7Fea4e46b5/8c00cb5672354890.jpg)）</font>
 
-![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260307/170643/6/43337/21787/65e91d82F406336d7/205bab8b3f9dfcd1.jpg)
+![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260310/106450/1/47694/14363/65ed56b7Fea4e46b5/8c00cb5672354890.jpg)
 
 
 
@@ -28,9 +28,37 @@
 
 <HR>
 
+##### **EP162 - MATX纯白装机，整了台新工作站！**
+
+● 机箱：<font color="#FF8C00">机械大师C+MAX</font> （[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQMJK1olXDYCVV9cD0kRBmcNGlIlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWgQEUVZYCUIIWipURmsRAQRbDjo_TChyQzFITw9DWnpSFyoLBEcnAl8LGlkVVAcGUFtVOHsXBF9edVsUXAcHUF5YDU4nAl8IHVsUXAIBVFpYDkMfM2gIEmtTCVlHDA4CTh9IbTM4K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dAEgXA2oOGVMJXQcFU1ZZFEsRA24JH1gVWA4HXFttCkoWB2Y4K2sVO1tJUgYjWjUQcxFYYDpnJFJ-KjsaCh95AQpgWCFTIkRiKh8JYAx8RRFRK14l)）
+
+● 主板：<font color="#FF8C00">铭瑄Z790m 终结者</font> （[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ4JK1olXwQAVVZYC04TBl8IGloSWwAKVVtbCEkXB19MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgOHVMUWAACVl5ZFxJSXzI4GyZqB1J8AQg-flFfSgZJTSkVNFlBAlJROEonAG4KG1IUWQIHXG5tCEwnQgEIGlsQXgcBV25cOEsRA24JH1gWXQYKUlltD0seMylcRB5NDVlEAAEzVHsnM2w4HFscSQBwFQxJDjknM284GGsVXAYLUFZVCEgRAHMIGlgWVQIeVFhdCUoTAG8OHVkRXjYAVV9ZAXsnMzRPcCxCJEN3ETg5fDZlYTB2XwtNWltrATBfDEgTQxdeewBQIwFyVwRaQDgnBl8)）
+
+● CPU：<font color="#FF8C00">i7-14700K</font> （[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ4JK1olXwMHUlxdCkoQB18IGloSXQIFUF9YDkMWBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmgIH1wRXAMEXF9aFxJSXzI4TAVhCQBHCV8_bilha2dYRiNGJ0RRNFJROEonAG4KG1IUWQIHXG5tCEwnQgEIGlgRVQcLUm5cOEsRA24JH1gWWA8AV1ptD0seMylcRB5NDVlEAAEzVHsnM2w4HFscSQBwFQxJDjknM284GGsVXAYKV15dCU0fAXMIHlMQXwMeVFhdCUoTAGwKGl4dVDYAVV9ZAXsnMxFsXz1-J29nPSgdVgJNcGZAZSN9OlhrNzBfay5xXGxMEgt8JnpjK10rUC4nBl8)）
+
+● 内存：<font color="#FF8C00">金百达 6800 24G x2</font> （[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ8JK1olXwMHXV1bDkgRAV8IGloUWAUFV19fAEgnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBmwPGFoXVQUdDRsBVXt2AhYWAR5PHmVhThg4SDtuWgppbQBDUQoyVW5eCUkXCm4MH14dbTYCU24fZpOho7mglIKa0gYBVF5tCXsXBW8JGl8WXgACXVleOEwXCl9OTwRQBVZdEgoCZhcnM18LK1wVVBIEJh8PHE1lM18IK1glXQcCXF1YD08VBmgUG1wWVAMKSF5bCEoWB2wLHFkcVQ8yVl9cDEInM19QXT9IJ2FnNzs_ehdzYxwKHQleBlUHKgUzCh5ABgpMGihxOGdQClkoaDtMM2o4)）
+
+● 硬盘：<font color="#FF8C00">傲腾P4800X 375G</font> （[点此查看](https://m.tb.cn/h.5wzRWwa)）
+
+● 转接卡：<font color="#FF8C00">安费诺M2转U2</font> （[点此查看](https://m.tb.cn/h.5EHEvJr)）
+
+● 硬盘：<font color="#FF8C00">奥睿科O7000 2TB</font> （[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQsJK1olWwEFUllfCEkRM28JGlMQXgcHVldYDEkXMytXQwVKbV9HER8fA1UJWypcR0ROCBlQCgJDCEoWC2oLGl4XVAMGVl5CUQ5LXl98HD9hIWMCTj0WVEMeXQ1YfQNcW0ZUWFJtCXsUAm0IEloRWQMKZG5dD3tWbW8BHlMcXzYDZF5bCEoWB2wPH1oVWQcyU15UOA1DXCpQSwRTCVlsCG5tOEgnBG8BD11nHFQWUixtOEsnAF8IGlsdXgMHUlhaCFcXBGoOGFsJXQACVV9ZC08fBWgBH2sXXAcGXW5tOCl_RzJ0ZCh1Lg9aHSwlVy8Te20MHiJTOmgANDgIfTZEWCl7GD1RBkICHA5tDXs)）
+
+● 显卡：<font color="#FF8C00">索泰4070ti SUPER TRINITY OC 月白</font> （[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ4JK1olXwQFUFlfC0kfA18IGloTWgMLUVdfCkgeBV9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmkPHlIQVAQAV1dbFxJSXzI4RC9cNUdUUEA_UQNHBTBUWAhrBlldJFJROEonAG4KG1IUWQIHXG5tCEwnQgEIGV8dVAEAUm5cOEsRA24JH1gTXw8BVF1tD0seMylcRB5NDVlEAAEzVHsnM2w4HFscSQBwFQxJDjknM284GGsVXAYKVl9fC0sSBHMIGFoRWwMeVFhdCUoTAGkLHF4UVDYAVV9ZAXsnM2kMG1tyCHZaJCcIXwxVfhkNHlJKDl5hLTBfTxhyYjJRaBJlG3UGKCBVYB0nBl8)）
+
+● 散热器：<font color="#FF8C00">酷里奥倚天P60T性能版v2</font> （[点此查看](https://m.tb.cn/h.5EHyGIR)）
+
+● 电源：<font color="#FF8C00">海韵FUCOS GX850 ATX3.0</font> （[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQMJK1olXDYCVV9cCU4XCmkPElMlGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUXAMCXVhaAUMIWipURmtcJlFKXF8NfykQVy5jQiFLFmB9Mw0bBEcnAl8LGlkVVAcGUFtVOHsXBF9edVsUXAcDXFhfAU8nAl8IHVsUXAIBXVteCkkRM2gIEmtTCVlHDA4CTh9IbTM4K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dAEsWBWYAHl4JXQYBXV9UFEsRA24JH1gcXwEAVVhtCkoWB2Y4K2sSAXVeHSoFcBNpQDRPEiAVHmRxXR4bYQx5ASZaQAlDFgVSDCQ_bxRxcAgKK14l)）
+
+● 风扇：<font color="#FF8C00">联力P28</font> （[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQMJK1olXDYCVV9cDEITAWoPEl0lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWQ8GVltaAU0IWipURmtsCkcCP1cUXSlDRydjZAwRAQN_CzsLBEcnAl8LGlkVVAcGUFtVOHsXBF9edVsUXAcCVVlUDEonAl8IHVsUXAIBXVlbD0weM2gIEmtTCVlHDA4CTh9IbTM4K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dAU8fBWYNHlMJXQUDVF1cFEsRA24JH1gcWgUDXFdtCkoWB2Y4K2t2XFxmDRsHVBFlBD97cFt2JH9kUBgJQUl5ARFpYQtnOw55DgkkaRBzSwZUK14l)）
+
+
+
+<HR>
+
 ##### **EP161 - 全屋2.5G，有线无线混组！我找到了可能最适合极客的组网方案**
 
-● <font color="#FF8C00">H68K软路由和蜂巢易网AP都属于极客DIY的定制小众产品，目前我已使用一段时间，稳定性很优秀，如果大家对这俩产品感兴趣，可以先加[粉丝群](https://img10.360buyimg.com/babel/jfs/t20260307/170643/6/43337/21787/65e91d82F406336d7/205bab8b3f9dfcd1.jpg)跟我说说，我会去跟厂家PY一下，争取搞到一波团购名额，价格会低于市面上所有的在售价</font>
+● <font color="#FF8C00">H68K软路由和蜂巢易网AP都属于极客DIY的定制小众产品，目前我已使用一段时间，稳定性很优秀，如果大家对这俩产品感兴趣，可以先加<font color="#FF725C">**粉丝群**</font>跟我说说，我会去跟厂家PY一下，争取搞到一波团购名额，价格会低于市面上所有的在售价</font>
 
 
 
