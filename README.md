@@ -10,9 +10,9 @@
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
-#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260310/106450/1/47694/14363/65ed56b7Fea4e46b5/8c00cb5672354890.jpg)）</font>
+#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260326/177714/16/44375/18026/6602aac1Fbb8e3528/57a8c1036c010d05.jpg)）</font>
 
-![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260317/227896/1/15451/18821/65f646e1F2951c472/429e263358a4eaad.jpg)
+![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260326/177714/16/44375/18026/6602aac1Fbb8e3528/57a8c1036c010d05.jpg)
 
 
 
@@ -25,6 +25,29 @@
 [ChatGPT Plus | Netflix | Disney+ | Spotify | Midjourney | Office 365](https://nf.video/gLlmQ)
 
 =================【全场折扣码： zxmls】==================
+
+<HR>
+
+##### **EP165 - 这组合绝了！用XREAL Air 2+Switch玩游戏也太爽了吧！**
+
+● <font color="#FF8C00">XREAL Air 2 AR眼镜：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARwJK1olXwUAUl1YAUkfAV8IGloUWgMFVFxbCkwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBGoPG1kTXwEdDRsBVXtnAw54YwRPLmRpHAIbaRxjUA1AaBNlUQoyVW5eCUkXCm4MH14dbTYCU24fZhRUVz9Vz8S8iqGKjejG0eqD1MmuwuKUiY2kZF9tCE0XA2oMGlsXXwIDUW5aCEInRTtXXgNFAkBWCzABOHsnAF8PG1IBW3RDBkpbensnA18LK1sUXQ4BUVlfDk4SH28JHloVWhoCUl5dDU8WA2wAH1sRbQQDVVpUOHsnWTxyHhoXCWFWIAVbTEIWaxZ3RiYWXlZfOlxUDCxMWm8JHw9mXWRGKQAiVXsSMw )
+
+
+
+<HR>
+
+##### **EP164 - 暂未上线**
+
+
+
+<HR>
+
+**EP163 - 机械硬盘怎么选？我给NAS配了什么硬盘？**
+
+
+● <font color="#FF8C00">西部数据红盘Plus：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQMJK1olXDYCVV9cDU0TC2wOEl8lGVlaCgFtUQ5SQi0DBUVNGFJeSwUIFxlJX3EIGloUWAAGXF1bAU8IWipURmtOAnhnAg4idS5vVzd2e0VBIWVVJAwtBEcnAl8LGlkVVAcGUFtVOHsXBF9edVsUXAcDVV9YAE8nAl8IHVsVWAIDVV1dC0kTM2gIEmtTCVlHDA4CTh9IbTM4K2sWbQECXUpbegpFF2l6K2sVbQUyVF9dAEgSBG0BG1IJXQEGVl5YFEsRA28NH1oUXQMFUVptCkoWB2Y4K2sRW3ZSHDglTzNPeA1NaQMUC1kCMwUmeBh5ATRSEyBrLWZbLCkEQUJOcydhK14l )
+
+
 
 <HR>
 
@@ -1635,7 +1658,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● 雷电PE扩展工具：https://pan.quark.cn/s/519088c8844a (提取码：ggem)
 
-● 雷电PE外置扩展工具：https://pan.quark.cn/s/c0207fea2fd4 (提取码：ax3D)
+● 雷电PE外置扩展工具：https://pan.quark.cn/s/c6b9a2790e90
 
 ● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
@@ -1890,7 +1913,7 @@ C:\Windows\System32\drivers\etc\host
 
 ● 雷电PE扩展工具：https://pan.quark.cn/s/519088c8844a (提取码：ggem)
 
-● 雷电PE外置扩展工具：https://pan.quark.cn/s/c0207fea2fd4 (提取码：ax3D)
+● 雷电PE外置扩展工具：https://pan.quark.cn/s/c6b9a2790e90
 
 ● PETOOLS小工具集：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls）
 
