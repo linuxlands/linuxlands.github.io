@@ -10,9 +10,9 @@
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
-#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260326/177714/16/44375/18026/6602aac1Fbb8e3528/57a8c1036c010d05.jpg)）</font>
+#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260403/173905/35/43633/48401/660d0519F6f4a3d49/1c9bd7bd9206690f.png)）</font>
 
-![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260326/177714/16/44375/18026/6602aac1Fbb8e3528/57a8c1036c010d05.jpg)
+![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260403/173905/35/43633/48401/660d0519F6f4a3d49/1c9bd7bd9206690f.png)
 
 
 
@@ -28,6 +28,24 @@
 
 <HR>
 
+##### **EP166 - 如何拿显卡跑图？StableDiffusion速通指南**
+
+● 秋葉大佬B站主页：https://space.bilibili.com/12566101
+
+● StableDiffusion 秋葉大佬整合包：https://pan.quark.cn/s/2778c6967601
+
+● C站（需要魔法）：https://civitai.com
+
+● 一些CHECKPOINT（基础）模型：https://pan.quark.cn/s/7e89c5e48c65
+
+● 一些LORA（微调）模型：https://pan.quark.cn/s/02a5cb1f19b2
+
+● SD深度入门推荐看这个 Nenly同学 ：https://www.bilibili.com/video/BV1As4y127HW
+
+
+
+<HR>
+
 ##### **EP165 - 这组合绝了！用XREAL Air 2+Switch玩游戏也太爽了吧！**
 
 ● <font color="#FF8C00">XREAL Air 2 AR眼镜：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARwJK1olXwUAUl1YAUkfAV8IGloUWgMFVFxbCkwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWBGoPG1kTXwEdDRsBVXtnAw54YwRPLmRpHAIbaRxjUA1AaBNlUQoyVW5eCUkXCm4MH14dbTYCU24fZhRUVz9Vz8S8iqGKjejG0eqD1MmuwuKUiY2kZF9tCE0XA2oMGlsXXwIDUW5aCEInRTtXXgNFAkBWCzABOHsnAF8PG1IBW3RDBkpbensnA18LK1sUXQ4BUVlfDk4SH28JHloVWhoCUl5dDU8WA2wAH1sRbQQDVVpUOHsnWTxyHhoXCWFWIAVbTEIWaxZ3RiYWXlZfOlxUDCxMWm8JHw9mXWRGKQAiVXsSMw )
@@ -36,7 +54,9 @@
 
 <HR>
 
-##### **EP164 - 暂未上线**
+##### **EP164 - 完了，这大屏太爽真回不去了！明基X3100首发体验**
+
+● <font color="#FF8C00">明基X3100游戏投影仪：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARQJK1olXQYGUlZUCEoWA18IGloUVQQCUVdVCkknRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWC20IHlIdXwQdDRsBVXtTVDEWciBIPmN9LhcAQBtMBg5fXClTUQoyVW5eCUkXCm4MH14dbTYCU24fZhhDXC_fsuTB843V7_qJhMvAruQ4GmsVWwYBVF1bCkkVAGwNK1wVVDZEAAEYUBtIRTtXdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXCmYBGVsSWAYeVF9cCE0SH28OG1gVXgAAV1hVAE0nAW4JH1IlbTZ2US40VAp1Wg0ITiZPCkZDDFsCCzkXcRdmGTplHQJjMFldah4RCixQSytpbTY)
 
 
 
