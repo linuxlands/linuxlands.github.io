@@ -28,6 +28,22 @@
 
 <HR>
 
+##### **EP167 - 啊？把Windows装进显存？**
+
+● Tiny10：https://pan.quark.cn/s/21e2405f7a8a
+
+● GpuRamDrive（NVIDIA）：https://pan.quark.cn/s/d160a599b141
+
+● GpuRamDrive（AMD）：https://pan.quark.cn/s/9475e44c24be
+
+● Imdisk：https://pan.quark.cn/s/24f945743048
+
+● VMware Workstation Pro（官网）：https://www.vmware.com/products/workstation-pro.html
+
+
+
+<HR>
+
 ##### **EP166 - 如何拿显卡跑图？StableDiffusion速通指南**
 
 ● 秋葉大佬B站主页：https://space.bilibili.com/12566101
