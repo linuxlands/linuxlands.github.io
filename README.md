@@ -10,9 +10,9 @@
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
-#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260403/173905/35/43633/48401/660d0519F6f4a3d49/1c9bd7bd9206690f.png)）</font>
+#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260409/217642/5/37748/17420/661502b0F55d9dd24/4ffc2f1d3fe05933.jpg)）</font>
 
-![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260403/173905/35/43633/48401/660d0519F6f4a3d49/1c9bd7bd9206690f.png)
+![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260409/217642/5/37748/17420/661502b0F55d9dd24/4ffc2f1d3fe05933.jpg)
 
 
 
@@ -25,6 +25,18 @@
 [ChatGPT Plus | Netflix | Disney+ | Spotify | Midjourney | Office 365](https://nf.video/gLlmQ)
 
 =================【全场折扣码： zxmls】==================
+
+<HR>
+
+##### **EP168 - TOS6好用吗？铁威马F4-424Pro 4盘位NAS升级体验**
+
+● <font color="#FF8C00">铁威马F4-424Pro：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAdAJK1olXgAFXVZZCEweAV8IGlsUXAYCVFdfAU0eA19MRANLAjZbERscSkAJHTRQRA1CCVkdDwtCWhVLHTdNTwcKBENeCVAfUg8beQZcQD1lWGQHEzk-QE52WTdPZStnX257OlwndQpkfGlXH15GJQViLTxcfVxXDxtxazliLmFFICcpWzxeAy5-ci9NOWVEEig_VTx1Ag9ObT5mL2FbPBc9UEpwYW54Wy13AHRgHSobayJgeg9rGwxhJGZmIwcmTD1uWQZzfCcTOE5hIjkCViNFZRNYezhxSQV1NAYpbChzY2d-cit8KWJ1Fz4kaCx3WRMObxN1OHFLJwIqVxJldCdrRy8XKWR2HTkCfCJnW19gWyBlBVt1UD46VE9LGWd8TwV-L3BUWFJtCXsUAm0IEloRWQMKZG5dD3tWbW8IHV8QWgcBZF9tCE0XAGgMGF4VWAUBVG5aCEInRTtXXgNFAkBWCzABOHsnAF8PG1IBW3RDBkpbensnA2w4GGsVXAYKV15eDUgXB3MIGFMUVQQeVFhdC0wTAGoIG1scWzYAVV9ZAXsnMxVhTwBzLQNgURk6awMSYjVQXCVlLwRqLTBfcjZWcBAORF8QDn4BNCc_CT4nMw )
+
+● TOS6公测固件：https://pan.quark.cn/s/b6b4a44ef5aa
+
+● TOS6铁威马社区发布页：https://forum.terra-master.com/cn/viewtopic.php
+
+
 
 <HR>
 
