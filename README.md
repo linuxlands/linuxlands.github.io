@@ -28,6 +28,32 @@
 
 <HR>
 
+##### **EP170 - 旧手机变网盘！无需代码，在手机上快速部署Alist**
+
+● AlistFlutter（Github）：https://github.com/jing332/AListFlutter
+
+● AlistFlutter：https://pan.quark.cn/s/2831c6beb6b4
+
+
+
+#Windows下注册表编辑器修改路径
+
+```
+计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WebClient\Parameters
+```
+
+
+
+#Android手机存储根目录路径
+
+```
+/storage/emulated/0/任意文件夹但需要先手动创建
+```
+
+
+
+<HR>
+
 ##### **EP169 - 软路由怪的又一趁手利器？阿迈奇ACEMAGIC S1迷你主机上手体验**
 
 ● <font color="#FF8C00">阿迈奇ACEMAGIC S1迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ0JK1olXwQLXV5UCUsTBl8IGlodVQ4BXFdeCkMWCl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmcAE1gdVAUAXF9UFxJSXzI4QFJPW01wNSw4SBdCYmtrGlxGNUJkNFJROEonAG4KG1IUWQIHXG5tCEwnQgEIHlsTWgABXG5cOEsRA2wBE1sRVQYEUl5tD0seMylcRB5NDVlEAAEzVHsnM2w4HFscSQBwFQxJDjknM284GGsVXAYKV15YC0wTAnMIGlIQXwMeVFhdC0IfA2sBHVoRXzYAVV9ZAXsnM2hPfBtKW0VpEwleQEpMBTBjGQdsAHFkCjAfTh9jXmZ_WAVWFlVqIjYZdy4nMw)
