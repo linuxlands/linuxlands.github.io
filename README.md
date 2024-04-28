@@ -10,9 +10,9 @@
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
-#### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://img10.360buyimg.com/babel/jfs/t20260409/217642/5/37748/17420/661502b0F55d9dd24/4ffc2f1d3fe05933.jpg)）</font>
+##### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://gateway.ipfsscan.io/ipfs/QmUiRsRRSLCFgZui8Nh5Ysg7TMPEbmxrHD339dZiLtx5Gq?filename=xiaozhuli.jpg)）</font>
 
-![粉丝群](https://img10.360buyimg.com/babel/jfs/t20260409/217642/5/37748/17420/661502b0F55d9dd24/4ffc2f1d3fe05933.jpg)
+![粉丝群](https://gateway.ipfsscan.io/ipfs/QmUiRsRRSLCFgZui8Nh5Ysg7TMPEbmxrHD339dZiLtx5Gq?filename=xiaozhuli.jpg)
 
 
 
@@ -25,6 +25,26 @@
 [ChatGPT Plus | Netflix | Disney+ | Spotify | Midjourney | Office 365](https://nf.video/gLlmQ)
 
 =================【全场折扣码： zxmls】==================
+
+<HR>
+
+##### **EP172 - 一台电脑，多套键鼠，多个人用，Aster白嫖电脑指南**
+
+● ASTER（官网）：https://www.ibik.ru
+
+● ASTER（v2.51）：https://pan.quark.cn/s/04f7948787a2
+
+● <font color="#FF8C00">积核XT12 Pro 迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQsJK1olXwQAVFZeD08WBF8IGloVXA4FUVhZCEwnRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoXAmcPHl0RXQEdDRsBVXsNQj9YRAlxNmVjJig8cjhqaBtyRANTUQoyVW5eCUkXCm4MH14dbTYCU24LZksWAm4NHloQXAQyVW5dDksSAG8LGVsXXQ8DZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXM2w4G1oVVQQDVl1fD0MLA20LHVwXQQYEVFteCEgVAmcKHV0lXwcDUFdtOHteXjgNfR9iIHFcFzUtTwxrcw1yWTldPn1sVllYTQMUURd2bFxpPQZYPCkdOHs)
+
+
+
+<HR>
+
+##### **EP171 - SDR还是HDR？3A游戏玩家众口难调的画面颜色**
+
+● <font color="#FF8C00">明基MOBIUZ EX2710U 4K HDR 显示器：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BARQJK1olXQYGXFxcAEsSBV8IGloUXwIEVFlZD0InRzBQRQQlBENHFRxWFlVPRjtUBABAQlRcCEBdCUoWAWsOG1wRWg8dDRsBVXtQfzsPehJJJGZZJgQjDzl_cGZ6bCB1UQoyVW5eCUkXCm4MH14dbTYCU24fZhhDXC_fsuTB843V_dGLncDDq_Y4GmsVWwYHV15eCUsVAmwAK1wVVDZEAAEYUBtIRTtXdQclbTYBZFldAV8RcS5aD11nbTYCZF1tCEoXC20JGVsXXAIeVF9YCU8TH28OG14WXQUDVF9eCUwnAW4JH1IlbTZaEjoAcixyYApqcAZ3FHMKFVoCWihvdCpmGQ5CWGNGVS05bSpFXW5tYytObTY)
+
+
 
 <HR>
 
