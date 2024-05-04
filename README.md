@@ -10,9 +10,9 @@
 
 🙂 [B站（首发） ](https://space.bilibili.com/1995424953)  😀[西瓜视频](https://www.ixigua.com/home/303878777609358)  🤣[抖音短视频](https://v.douyin.com/MYjf1JM/)  😉[快手短视频](https://v.kuaishou.com/mRpRYy)  🙃[微博](https://weibo.com/u/7826133162)  😆[YOUTUBE](https://www.youtube.com/@zxmls)
 
-##### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://gateway.ipfsscan.io/ipfs/QmUiRsRRSLCFgZui8Nh5Ysg7TMPEbmxrHD339dZiLtx5Gq?filename=xiaozhuli.jpg)）</font>
+##### ○ <font color="#DB7093">莫老师开通粉丝群啦，欢迎大家来玩玩！看不到二维码（[👉请戳这里👈](https://ooo.0x0.ooo/2024/05/04/OplMkB.jpg)）</font>
 
-![粉丝群](https://gateway.ipfsscan.io/ipfs/QmUiRsRRSLCFgZui8Nh5Ysg7TMPEbmxrHD339dZiLtx5Gq?filename=xiaozhuli.jpg)
+![粉丝群](https://ooo.0x0.ooo/2024/05/04/OplMkB.jpg)
 
 
 
@@ -25,6 +25,14 @@
 [ChatGPT Plus | Netflix | Disney+ | Spotify | Midjourney | Office 365](https://nf.video/gLlmQ)
 
 =================【全场折扣码： zxmls】==================
+
+<HR>
+
+##### **EP173- 风扇弟弟，我要把CPU干到75W了噢？天钡GEM12 6900HX上手体验**
+
+● <font color="#FF8C00">天钡GEM12 迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQsJK1olXwQBXFZcAU0SA18IGlsUXQUGXFhcAEkRBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24IGF8dWwcKVlhaFxJSXzI4HiVLIF9EUho9TRdreQZsZEFDWXVCAlJROEonAG4KG1IUWQIHXG5tCEwnQgEIGFIRXQcyVW5dDksSCm4PG1MUWQAHZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXM2w4G1oVVA8CVFZUDEoLA2sLEl0QQQYEVFtUCUwXBWcNG1klXwcDUFdtOHtRWxlxRicVOQZWBFw1ATl-fBt1cxocNX9sVg4fATJRARluGwZLOXJjFjZcOHs)
+
+
 
 <HR>
 
