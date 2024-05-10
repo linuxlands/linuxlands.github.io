@@ -16,7 +16,7 @@
 
 
 
-***<font color="#00CAE1">● 注意！不要在网盘中在线解压任何文件！！会导致文件失效！！！</font>***
+***<font color="#00CAE1">● 提示：如有失效附件，请务必通过私信反馈给我！！！</font>***
 
 ***<font color="#FF725C">● 注意！请将附件先转存到自己网盘再下载！！避免文件被和谐！！！！</font>***
 
@@ -28,7 +28,15 @@
 
 <HR>
 
-##### **EP173- 风扇弟弟，我要把CPU干到75W了噢？天钡GEM12 6900HX上手体验**
+##### **EP174 - 我 什 么 事 都 做 得 出 来 ！**
+
+● <font color="#FF8C00">Redmi Turbo3：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ4JK1olXwMEVlldCk0WAV8IGlsUXAYAXVdeAEoUAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24JG1kcVAUKVV1cFxJSXzI4bCJBQ05XVDs9dDUUWTIJXR5jAFF6ElJROEonAG4KG1IUWQIHXG5tCEwnQgEIG1kUXwcBUW5cOEsRA2sJElgQVQEEUFhtD0seMylcRB5NDVlEAAEzVHsnM2w4HFscSQBwFQxJDjknM284GGsVXAYKVl9fC0gWB3MIHlkRXQIeVFhdDEoeAGoBElsQWzYAVV9ZAXsnMydLeyZHPEYBFBoabwtkWjJ6fC1uFAUFIjBfXhJpVwhQTAhVLWJSKxYdDg4nBl8)
+
+
+
+<HR>
+
+##### **EP173 - 风扇弟弟，我要把CPU干到75W了噢？天钡GEM12 6900HX上手体验**
 
 ● <font color="#FF8C00">天钡GEM12 迷你主机：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQsJK1olXwQBXFZcAU0SA18IGlsUXQUGXFhcAEkRBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24IGF8dWwcKVlhaFxJSXzI4HiVLIF9EUho9TRdreQZsZEFDWXVCAlJROEonAG4KG1IUWQIHXG5tCEwnQgEIGFIRXQcyVW5dDksSCm4PG1MUWQAHZFldAXtRVzBNQwtKG1JdOgJtOHsUM2gIEk8TL0dQQFgvOHsXM2w4G1oVVA8CVFZUDEoLA2sLEl0QQQYEVFtUCUwXBWcNG1klXwcDUFdtOHtRWxlxRicVOQZWBFw1ATl-fBt1cxocNX9sVg4fATJRARluGwZLOXJjFjZcOHs)
 
@@ -2049,7 +2057,7 @@ C:\Windows\System32\drivers\etc\host
 
 ● DriveDroid APP：https://pan.quark.cn/s/d3a040d7ae62 （提取码：dUJv）
 
-● WTG辅助工具：https://pan.quark.cn/s/31094759f122 （提取码：L886）
+● WTG辅助工具：https://pan.quark.cn/s/d51e7fc2aaa8
 
 ● 精简版Window10镜像：https://pan.quark.cn/s/898b473d6927 （提取码：RUSA）
 
@@ -2221,7 +2229,7 @@ C:\Windows\System32\drivers\etc\host
 
 ● Windows镜像下载：https://hellowindows.cn
 
-● WTG辅助工具：https://pan.quark.cn/s/31094759f122 （提取码：L886）
+● WTG辅助工具：https://pan.quark.cn/s/d51e7fc2aaa8
 
 <HR>
 
