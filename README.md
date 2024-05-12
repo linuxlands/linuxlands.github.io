@@ -287,8 +287,6 @@
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net
 
-● MobaXterm：https://pan.quark.cn/s/e269ad2a5ae9
-
 ● 虚拟机专用MacOS系统镜像：https://pan.quark.cn/s/9e7ed6d26d09
 
 ● KVM-OpenCore引导：https://pan.quark.cn/s/5f26761f4850
@@ -404,8 +402,6 @@ tar zxvf pve_source.tar.gz
 ● BalenaEtcher：https://pan.quark.cn/s/dd0eb5dac656
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net
-
-● MobaXterm：https://pan.quark.cn/s/e269ad2a5ae9
 
 ● OpenWRT（安装镜像）：https://pan.quark.cn/s/63cda803abeb
 
@@ -1286,9 +1282,11 @@ magnet:?xt=urn:btih:84a9c3c817073e64b2ece7a9a6d6ea47782cdc88&dn=zh-cn_windows_10
 
 ##### **EP102 - 可能是维护功能最强大的PE，USBOS使用指南**
 
-● USBOS标准版：https://pan.quark.cn/s/f752710e12a6 （提取码：7eGs）
+● USBOS v3.0（标准版）：https://pan.quark.cn/s/95a5e46f1332
 
-● USBOS增强版：https://pan.quark.cn/s/3a21e1944777 （提取码：7TXj）
+● USBOS v3.0（增强版）：https://pan.quark.cn/s/a46fa594993f
+
+● USBOS v3.0介绍说明：http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1
 
 ● PETOOLS小工具集（天翼云）：https://cloud.189.cn/web/share?code=aMvE3uVVFFZz （访问码：4dby）（解压密码：zxmls，解压出来的pdf文件改后缀名为7z再解压一次）
 
@@ -1792,8 +1790,6 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm：https://pan.quark.cn/s/557a70c52f25 （提取码：tcXR）
-
 ● Kodi 安卓客户端：https://kodi.tv/download
 
 ● Kodi Jellyfin插件库：https://pan.quark.cn/s/82a2516a82e7 （提取码：wUgh）
@@ -1820,7 +1816,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm：https://pan.quark.cn/s/557a70c52f25 （提取码：tcXR）
+
 
 <HR>
 
@@ -1828,11 +1824,9 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MobaXterm（官网）：https://mobaxterm.mobatek.net/download-home-edition.html
 
-● MobaXterm：https://pan.quark.cn/s/557a70c52f25 （提取码：tcXR）
-
 ● AX6S开发版固件1.2.7：https://pan.quark.cn/s/0c795a87a5f4 （提取码：H5mR）
 
-● AX6S Openwrt固件：https://pan.quark.cn/s/9ab7742e45ae （提取码：gkKp）
+● AX6S Openwrt固件：https://pan.quark.cn/s/be7d2524cb00
 
 ● WinSCP官网：https://pan.quark.cn/s/2b517154e475 （提取码：zuWN）
 
@@ -2107,7 +2101,9 @@ C:\Windows\System32\drivers\etc\host
 
 ● USM U盘魔术师下载：https://pan.quark.cn/s/4d02d1d10c74 （提取码：jeij）
 
-● USBOS v3.0下载：https://pan.quark.cn/s/64701001f967 （提取码：yZdj）
+● USBOS v3.0（标准版）：https://pan.quark.cn/s/95a5e46f1332
+
+● USBOS v3.0（增强版）：https://pan.quark.cn/s/a46fa594993f
 
 ● USBOS v3.0介绍说明：http://bbs.wuyou.net/forum.php?mod=viewthread&tid=349965&extra=page%3D1
 
