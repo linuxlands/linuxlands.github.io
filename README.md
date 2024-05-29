@@ -34,9 +34,9 @@
 
 ● SteanOS系统镜像：https://pan.quark.cn/s/d5a4b1dbf96a
 
-● SteamDeck专用优化版Win10（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/4552829c2b5e
+● SteamDeck专用优化版Win10（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/26d7e2d2486d
 
-● SteamDeck专用优化版Win11（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/f9b15bac31d2
+● SteamDeck专用优化版Win11（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/cbad52eeabbc
 
 ● 更多Win掌机优化系统镜像（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.baidu.com/s/1j5FrXYPvw5XTbu0NBwZP8g?pwd=6666
 
