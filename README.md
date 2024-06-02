@@ -34,9 +34,9 @@
 
 ● SteanOS系统镜像：https://pan.quark.cn/s/d5a4b1dbf96a
 
-● SteamDeck专用优化版Win10（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/26d7e2d2486d
+● SteamDeck专用优化版Win10（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/ac0a9647173e
 
-● SteamDeck专用优化版Win11（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/cbad52eeabbc
+● SteamDeck专用优化版Win11（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.quark.cn/s/745651a87faa
 
 ● 更多Win掌机优化系统镜像（来自B站 <font color="#DB7093">@不是很野蛮</font>）：https://pan.baidu.com/s/1j5FrXYPvw5XTbu0NBwZP8g?pwd=6666
 
@@ -1692,9 +1692,7 @@ include themes/rEFInd-minimal/theme.conf
 
 ● MyDockFinder官网：https://www.mydockfinder.com
 
-● MacOS鼠标指针（蓝奏云）：https://wwof.lanzoul.com/ikvDC0mqxh9i (密码:hhxu)
-
-● MacOS鼠标指针：https://pan.quark.cn/s/d9004395f77c (提取码：pzrG)
+● MacOS鼠标指针：https://wwof.lanzoul.com/ikvDC0mqxh9i (密码:hhxu)
 
 ● MacOS壁纸：https://512pixels.net/projects/default-mac-wallpapers-in-5k/?ref=toolsforyou
 
@@ -2021,7 +2019,7 @@ C:\Windows\System32\drivers\etc\host
 
 ##### **EP49 - 装宽带送的盒子正在吃灰？刷个机说不定还能抢救一下**
 
-● 225款电视盒子刷机固件及教程:https://pan.baidu.com/s/1qSmtBgSEbKs6ZFm-yCr-XQ （提取码: nnw3）
+● 225款电视盒子刷机固件及教程：https://pan.baidu.com/s/1lamHBQLoXoRtxNPuSnlEUw?pwd=3q45
 
 ● 更多型号可以在此博客搜索获得：https://blog.csdn.net/fatiaozhang9527?type=blog
 
