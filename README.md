@@ -28,6 +28,20 @@
 
 <HR>
 
+##### **EP176 - Batocera+SteamDeck，打造最强复古模拟器游戏掌机**
+
+● Batocera（官网）：https://batocera.org
+
+● Batocera V39：https://pan.quark.cn/s/f244cf42f266
+
+● Batocera BIOS（来自B站 <font color="#DB7093">@DIY吧_强哥</font>）：https://pan.quark.cn/s/cb90682c17f3
+
+● Win32DiskImager：https://pan.quark.cn/s/fa7b5e5ee303 (提取码：QkCw)
+
+
+
+<HR>
+
 ##### **EP175 - 二手SteamDeck LCD版入手指南，验机，换固态，装系统一条龙教程**
 
 ● SteanOS系统镜像（官网）：https://help.steampowered.com/zh-cn/faqs/view/1B71-EDF2-EB6D-2BB3
