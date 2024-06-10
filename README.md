@@ -28,6 +28,62 @@
 
 <HR>
 
+##### **EP177 - 所有机型通用！为Batocera离线安装Switch模拟器**
+
+● Batocera（官网）：https://batocera.org
+
+● Batocera V39：https://pan.quark.cn/s/f244cf42f266
+
+● Batocera Switch模拟器离线安装包：https://pan.quark.cn/s/f6943ec9503f
+
+● Batocera BIOS（来自B站 <font color="#DB7093">@DIY吧_强哥</font>）：https://pan.quark.cn/s/cb90682c17f3
+
+
+
+○ 以下为需要敲的代码
+
+#列出离线包的文件信息
+
+```
+ls batocera-switch-offline.tar.gz
+```
+
+
+
+#解压离线包
+
+```
+tar xf batocera-switch-offline.tar.gz
+```
+
+
+
+#将路径切换到解压出来的文件夹里
+
+```
+cd switch-installer
+```
+
+
+
+#列出安装脚本的文件信息
+
+```
+ls install.sh
+```
+
+
+
+#执行安装脚本
+
+```
+./install.sh
+```
+
+
+
+<HR>
+
 ##### **EP176 - Batocera+SteamDeck，打造最强复古模拟器游戏掌机**
 
 ● Batocera（官网）：https://batocera.org
