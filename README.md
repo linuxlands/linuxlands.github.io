@@ -34,7 +34,7 @@
 
 ● Batocera V39：https://pan.quark.cn/s/f244cf42f266
 
-● Batocera Switch模拟器离线安装包：https://pan.quark.cn/s/f6943ec9503f
+● Batocera Switch模拟器离线安装包：https://pan.quark.cn/s/ea7f7da2676e
 
 ● Batocera BIOS（来自B站 <font color="#DB7093">@DIY吧_强哥</font>）：https://pan.quark.cn/s/cb90682c17f3
 
