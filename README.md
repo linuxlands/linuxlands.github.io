@@ -873,7 +873,7 @@ bash runme.sh
 
 ● EasyUEFI：https://pan.quark.cn/s/aa6412345b7a （提取码：4K8a）
 
-● 莫老师编辑过的menu.lst文件：https://pan.quark.cn/s/664776a9feb5 (提取码：9sXW)
+● 莫老师编辑过的menu.lst文件：https://pan.quark.cn/s/55c0d148832d
 
 
 
@@ -1979,11 +1979,7 @@ tracert www.baidu.com
 
 ● 当贝OS（天翼云）：https://cloud.189.cn/web/share?code=nymUVvNZfIv2 （访问码：5os5）
 
-● 当贝OS：https://pan.quark.cn/s/2dec133d33f6 （提取码：jxTG）
-
 ● ATV（天翼云）：https://cloud.189.cn/web/share?code=qYNRJvNzEvY3 （访问码：xe00）
-
-● ATV：https://pan.quark.cn/s/c652d7444c06 （提取码：QYz9）
 
 ● 当贝OS（备用、需要魔法）：https://drive.google.com/drive/folders/13sqHFELH_RNNkeq9ixZTMd7kbdbBeIQU?usp=sharing
 
