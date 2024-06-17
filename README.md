@@ -28,6 +28,36 @@
 
 <HR>
 
+##### **EP178 - 都回来了！全新黑群晖引导RRORG使用指南！**
+
+● RRORG（博客）：https://rrorg.cn
+
+● RRORG引导镜像（Github）：https://github.com/RROrg/rr/releases
+
+● RRORG引导镜像：https://pan.quark.cn/s/3f804cd253dc
+
+● RRORG机型对应列表：https://rrorg.cn/archives/model
+
+● 群晖SA6400 7.2.1固件：https://pan.quark.cn/s/09224b378615
+
+● 群晖DS918+ 7.2.1固件：https://pan.quark.cn/s/e041e55a0d6a
+
+● 群晖固件下载（官网）：https://www.synology.cn/zh-cn/support/download
+
+● BalenaEtcher（官网）：https://etcher.balena.io/
+
+● BalenaEtcher：https://pan.quark.cn/s/dd0eb5dac656
+
+● FirPE（官网）：https://firpe.cn/page-247
+
+● FirPE：https://pan.quark.cn/s/4940601c52b5
+
+● Win32DiskImager：https://pan.quark.cn/s/fa7b5e5ee303 (提取码：QkCw)
+
+
+
+<HR>
+
 ##### **EP177 - 所有机型通用！为Batocera离线安装Switch模拟器**
 
 ● Batocera（官网）：https://batocera.org
