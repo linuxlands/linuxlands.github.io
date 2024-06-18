@@ -30,6 +30,10 @@
 
 ##### **EP178 - 都回来了！全新黑群晖引导RRORG使用指南！**
 
+#<font color="#DB7093">黑群晖是个比较敏感的东西，为了限制传播范围，让工具得以更长时间的存活，本期视频已全网下架，视频的源文件我会上传到网盘，你可以下载它作为RRORG引导安装时的参考教程，但请勿二次上传转载（已加水印），抱歉，参与RR项目的制作者们，respect</font>
+
+● 本期视频源文件：https://pan.quark.cn/s/244cb6dad093
+
 ● RRORG（博客）：https://rrorg.cn
 
 ● RRORG引导镜像（Github）：https://github.com/RROrg/rr/releases
