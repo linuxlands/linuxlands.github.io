@@ -6,7 +6,3 @@
 <!-- background image -->
 
 ![](_img/bg.jpg)
-
-<!-- background color -->
-
-![color](#7287fd)
