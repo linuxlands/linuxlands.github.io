@@ -3,6 +3,3 @@
 
 [阅读](/README.md)
 
-<!-- background image -->
-
-![](_img/bg.jpg)
