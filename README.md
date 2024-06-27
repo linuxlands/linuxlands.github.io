@@ -1,6 +1,6 @@
 # Welcome to LinuxWin🍉's Document Station
 
-> （请按快捷键 Ctrl+F 来搜索内容）😀
+> （请按快捷键 Ctrl+F 或者左上角的搜索栏来搜索内容）😀
 
 <HR>
 
